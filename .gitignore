@@ -19,3 +19,5 @@ assets/moon_*
 assets/luusa_brochure_compressed.pdf
 .next
 node_modules
+
+*.pdf
