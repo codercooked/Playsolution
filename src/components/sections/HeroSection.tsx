@@ -133,14 +133,17 @@ export default function HeroSection() {
               <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden bg-slate-950 shadow-2xl border border-white/20">
                 <video
                   ref={videoRef}
-                  src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-                  poster="https://placehold.co/800x500/FF6B35/white?text=Play+Solution+Instagram+Video"
                   autoPlay
                   loop
                   muted={isMuted}
                   playsInline
+                  controls={false}
                   className="w-full h-full object-cover"
-                />
+                >
+                  <source src="/videos/hero_showcase.mp4" type="video/mp4" />
+                  <source src="https://vjs.zencdn.net/v/oceans.mp4" type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
 
                 {/* Video Top Header Bar Overlay with Instagram Badge */}
                 <div className="absolute top-4 inset-x-4 flex items-center justify-between z-20 pointer-events-none">
@@ -240,11 +243,13 @@ export default function HeroSection() {
 
               <div className="relative aspect-video w-full rounded-2xl overflow-hidden bg-black">
                 <video
-                  src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                   controls
                   autoPlay
                   className="w-full h-full object-cover"
-                />
+                >
+                  <source src="/videos/hero_showcase.mp4" type="video/mp4" />
+                  <source src="https://vjs.zencdn.net/v/oceans.mp4" type="video/mp4" />
+                </video>
               </div>
 
               <div className="p-4 flex items-center justify-between text-white text-sm">
