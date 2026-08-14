@@ -6,6 +6,14 @@ import Link from 'next/link';
 import { Sparkles, Play, Pause, Volume2, VolumeX, X, CheckCircle, ArrowRight, Video } from 'lucide-react';
 import { LightGradientBg } from '@/components/ui/elegant-dark-pattern';
 
+const InstagramIcon = ({ size = 18, className = "" }: { size?: number; className?: string }) => (
+  <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+    <rect width="20" height="20" x="2" y="2" rx="5" ry="5"/>
+    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
+    <line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/>
+  </svg>
+);
+
 export default function HeroSection() {
   const [isPlaying, setIsPlaying] = useState(true);
   const [isMuted, setIsMuted] = useState(true);
@@ -108,7 +116,7 @@ export default function HeroSection() {
             </motion.div>
           </motion.div>
 
-          {/* Right Column: HUGE PROMINENT VIDEO SHOWCASE */}
+          {/* Right Column: INSTAGRAM REEL VIDEO PLAYER */}
           <motion.div
             initial={{ opacity: 0, scale: 0.95, y: 20 }}
             animate={{ opacity: 1, scale: 1, y: 0 }}
@@ -126,7 +134,7 @@ export default function HeroSection() {
                 <video
                   ref={videoRef}
                   src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-                  poster="https://placehold.co/800x500/FF6B35/white?text=Play+Solution+Equipment+In+Action"
+                  poster="https://placehold.co/800x500/FF6B35/white?text=Play+Solution+Instagram+Video"
                   autoPlay
                   loop
                   muted={isMuted}
@@ -134,12 +142,17 @@ export default function HeroSection() {
                   className="w-full h-full object-cover"
                 />
 
-                {/* Video Top Header Bar Overlay */}
+                {/* Video Top Header Bar Overlay with Instagram Badge */}
                 <div className="absolute top-4 inset-x-4 flex items-center justify-between z-20 pointer-events-none">
-                  <div className="flex items-center gap-2 bg-slate-950/70 backdrop-blur-md px-3.5 py-1.5 rounded-full border border-white/20 text-white text-xs font-bold shadow-md">
-                    <span className="w-2 h-2 rounded-full bg-red-500 animate-pulse" />
-                    <span>LIVE SHOWCASE</span>
-                  </div>
+                  <a
+                    href="https://www.instagram.com/play_solutions?igsh=aHIyanNremtoN3dx"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center gap-2 bg-slate-950/80 backdrop-blur-md px-4 py-1.5 rounded-full border border-white/20 text-white text-xs font-bold shadow-lg pointer-events-auto hover:bg-pink-600 transition-colors"
+                  >
+                    <InstagramIcon size={16} className="text-pink-400" />
+                    <span>@play_solutions Instagram Reel</span>
+                  </a>
 
                   <div className="flex items-center gap-2 pointer-events-auto">
                     <button
@@ -172,7 +185,7 @@ export default function HeroSection() {
                 )}
 
                 {/* Video Bottom Glass Tag Info Bar */}
-                <div className="absolute bottom-4 inset-x-4 p-4 rounded-xl bg-slate-950/80 backdrop-blur-xl border border-white/15 text-white flex flex-wrap items-center justify-between gap-3 z-20 shadow-2xl">
+                <div className="absolute bottom-4 inset-x-4 p-4 rounded-xl bg-slate-950/85 backdrop-blur-xl border border-white/15 text-white flex flex-wrap items-center justify-between gap-3 z-20 shadow-2xl">
                   <div>
                     <p className="font-display font-extrabold text-sm text-white flex items-center gap-2">
                       <Video size={16} className="text-orange-400" />
@@ -181,13 +194,15 @@ export default function HeroSection() {
                     <p className="text-xs text-gray-300 font-medium">Sunshine Montessori Preschool, Pune</p>
                   </div>
                   
-                  <button
-                    onClick={() => setIsVideoModalOpen(true)}
-                    className="px-4 py-2 rounded-full bg-gradient-to-r from-orange-500 to-pink-500 text-white text-xs font-black hover:opacity-90 shadow-md flex items-center gap-1.5 transition-opacity"
-                  >
-                    <span>Expand Fullscreen</span>
-                    <Play size={12} className="fill-white" />
-                  </button>
+                  <div className="flex items-center gap-2">
+                    <button
+                      onClick={() => setIsVideoModalOpen(true)}
+                      className="px-4 py-2 rounded-full bg-gradient-to-r from-orange-500 to-pink-500 text-white text-xs font-black hover:opacity-90 shadow-md flex items-center gap-1.5 transition-opacity"
+                    >
+                      <span>Expand Fullscreen</span>
+                      <Play size={12} className="fill-white" />
+                    </button>
+                  </div>
                 </div>
               </div>
             </div>
@@ -235,15 +250,16 @@ export default function HeroSection() {
               <div className="p-4 flex items-center justify-between text-white text-sm">
                 <div className="flex items-center gap-2">
                   <Video size={18} className="text-orange-400" />
-                  <span className="font-extrabold font-display">Play Solution Full Installation Reel</span>
+                  <span className="font-extrabold font-display">Play Solution Official Instagram Reel</span>
                 </div>
                 <a
                   href="https://www.instagram.com/play_solutions?igsh=aHIyanNremtoN3dx"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-xs font-bold text-orange-400 hover:underline"
+                  className="text-xs font-bold text-pink-400 hover:underline flex items-center gap-1"
                 >
-                  Follow on Instagram →
+                  <InstagramIcon size={14} />
+                  <span>Follow @play_solutions on Instagram →</span>
                 </a>
               </div>
             </motion.div>

@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Play, Heart, MessageCircle, ExternalLink, X, Film, Image as ImageIcon, Sparkles } from 'lucide-react';
+import { Play, Heart, MessageCircle, ExternalLink, X, Film, Image as ImageIcon, Sparkles, Volume2, VolumeX } from 'lucide-react';
 
 const InstagramIcon = ({ size = 18, className = "" }: { size?: number; className?: string }) => (
   <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
@@ -108,6 +108,7 @@ const instaPosts: InstagramPost[] = [
 export default function InstagramShowcase() {
   const [filter, setFilter] = useState<'all' | 'video' | 'image'>('all');
   const [activeModalPost, setActiveModalPost] = useState<InstagramPost | null>(null);
+  const [isMuted, setIsMuted] = useState(false);
 
   const filteredPosts = filter === 'all' 
     ? instaPosts 
@@ -139,7 +140,7 @@ export default function InstagramShowcase() {
             transition={{ delay: 0.1 }}
             className="font-display font-black text-3xl sm:text-4xl md:text-5xl text-white mb-4 tracking-tight"
           >
-            Live From Our School Installations 📸
+            Watch Instagram Reels & Videos Live 🎥
           </motion.h2>
 
           <motion.p 
@@ -149,7 +150,7 @@ export default function InstagramShowcase() {
             transition={{ delay: 0.2 }}
             className="text-gray-300 text-lg"
           >
-            Watch real video clips & photos of our playground equipment in action at partner kindergarten schools across India.
+            Stream real video clips & photos of our playground installations directly on the website from our official Instagram feed.
           </motion.p>
         </div>
 
@@ -174,7 +175,7 @@ export default function InstagramShowcase() {
                   : 'text-gray-300 hover:text-white hover:bg-white/10'
               }`}
             >
-              <Film size={16} /> Reels & Videos
+              <Film size={16} /> Instagram Reels
             </button>
             <button
               onClick={() => setFilter('image')}
@@ -213,14 +214,26 @@ export default function InstagramShowcase() {
               className="group relative rounded-3xl overflow-hidden bg-white/10 backdrop-blur-xl border border-white/20 shadow-2xl cursor-pointer"
               onClick={() => setActiveModalPost(post)}
             >
-              {/* Media Thumbnail Container */}
-              <div className="relative aspect-[4/5] w-full overflow-hidden bg-slate-800">
-                <Image
-                  src={post.thumbnail}
-                  alt={post.title}
-                  fill
-                  className="object-cover group-hover:scale-105 transition-transform duration-700"
-                />
+              {/* Media Container */}
+              <div className="relative aspect-[4/5] w-full overflow-hidden bg-slate-950">
+                {post.type === 'video' && post.videoUrl ? (
+                  <video
+                    src={post.videoUrl}
+                    poster={post.thumbnail}
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                  />
+                ) : (
+                  <Image
+                    src={post.thumbnail}
+                    alt={post.title}
+                    fill
+                    className="object-cover group-hover:scale-105 transition-transform duration-700"
+                  />
+                )}
 
                 {/* Glass Gradient Overlay */}
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950/90 via-slate-950/30 to-transparent opacity-80 group-hover:opacity-60 transition-opacity" />
@@ -235,7 +248,7 @@ export default function InstagramShowcase() {
 
                 {/* Play Button Overlay for Videos */}
                 {post.type === 'video' && (
-                  <div className="absolute inset-0 flex items-center justify-center z-10">
+                  <div className="absolute inset-0 flex items-center justify-center z-10 pointer-events-none">
                     <div className="w-16 h-16 rounded-full bg-white/25 backdrop-blur-md border border-white/40 flex items-center justify-center text-white shadow-2xl group-hover:scale-110 group-hover:bg-gradient-to-tr group-hover:from-orange-500 group-hover:to-pink-500 transition-all duration-300">
                       <Play size={28} className="fill-white ml-1" />
                     </div>
@@ -265,7 +278,7 @@ export default function InstagramShowcase() {
                       </span>
                     </div>
                     <span className="text-pink-400 font-extrabold flex items-center gap-1 group-hover:translate-x-1 transition-transform">
-                      View <ExternalLink size={12} />
+                      Play Video <ExternalLink size={12} />
                     </span>
                   </div>
                 </div>
@@ -275,7 +288,7 @@ export default function InstagramShowcase() {
         </div>
       </div>
 
-      {/* Video & Photo Glass Modal */}
+      {/* Video & Photo Fullscreen Glass Modal */}
       <AnimatePresence>
         {activeModalPost && (
           <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 overflow-y-auto">
@@ -285,7 +298,7 @@ export default function InstagramShowcase() {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
               onClick={() => setActiveModalPost(null)}
-              className="fixed inset-0 bg-slate-950/80 backdrop-blur-xl"
+              className="fixed inset-0 bg-slate-950/85 backdrop-blur-xl"
             />
 
             {/* Modal Card */}
@@ -293,7 +306,7 @@ export default function InstagramShowcase() {
               initial={{ opacity: 0, scale: 0.95, y: 20 }}
               animate={{ opacity: 1, scale: 1, y: 0 }}
               exit={{ opacity: 0, scale: 0.95, y: 20 }}
-              className="relative w-full max-w-4xl bg-slate-900/90 border border-white/20 rounded-3xl overflow-hidden shadow-2xl z-10 grid grid-cols-1 md:grid-cols-2"
+              className="relative w-full max-w-4xl bg-slate-900/95 border border-white/20 rounded-3xl overflow-hidden shadow-2xl z-10 grid grid-cols-1 md:grid-cols-2"
             >
               {/* Close Button */}
               <button
@@ -306,13 +319,22 @@ export default function InstagramShowcase() {
               {/* Media Section */}
               <div className="relative aspect-[4/5] bg-black flex items-center justify-center">
                 {activeModalPost.type === 'video' && activeModalPost.videoUrl ? (
-                  <video
-                    src={activeModalPost.videoUrl}
-                    controls
-                    autoPlay
-                    loop
-                    className="w-full h-full object-cover"
-                  />
+                  <div className="relative w-full h-full">
+                    <video
+                      src={activeModalPost.videoUrl}
+                      controls
+                      autoPlay
+                      loop
+                      muted={isMuted}
+                      className="w-full h-full object-cover"
+                    />
+                    <button
+                      onClick={() => setIsMuted(!isMuted)}
+                      className="absolute top-4 left-4 p-2.5 rounded-full bg-slate-950/70 border border-white/20 text-white hover:bg-pink-500 transition-colors shadow-md z-20"
+                    >
+                      {isMuted ? <VolumeX size={18} /> : <Volume2 size={18} />}
+                    </button>
+                  </div>
                 ) : (
                   <Image
                     src={activeModalPost.thumbnail}
@@ -365,7 +387,7 @@ export default function InstagramShowcase() {
                     className="w-full py-3.5 rounded-full bg-gradient-to-r from-pink-600 via-rose-500 to-orange-500 text-white font-extrabold text-center flex items-center justify-center gap-2 hover:opacity-95 transition-opacity shadow-lg shadow-pink-500/30 text-sm"
                   >
                     <InstagramIcon size={18} />
-                    <span>Watch Full Post on Instagram</span>
+                    <span>Watch Reel on Instagram</span>
                     <ExternalLink size={16} />
                   </a>
                 </div>
