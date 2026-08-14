@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Play, Heart, MessageCircle, ExternalLink, X, Film, Image as ImageIcon, Sparkles, Volume2, VolumeX } from 'lucide-react';
@@ -106,12 +106,27 @@ const instaPosts: InstagramPost[] = [
 ];
 
 export default function InstagramShowcase() {
-  const [filter, setFilter] = useState<'all' | 'video' | 'image'>('all');
+  const [filter, setFilter] = useState<'all' | 'video' | 'image' | 'live'>('live');
   const [activeModalPost, setActiveModalPost] = useState<InstagramPost | null>(null);
   const [isMuted, setIsMuted] = useState(false);
 
+  useEffect(() => {
+    // Load Instagram official embed script dynamically
+    const script = document.createElement('script');
+    script.src = '//www.instagram.com/embed.js';
+    script.async = true;
+    document.body.appendChild(script);
+    return () => {
+      if (document.body.contains(script)) {
+        document.body.removeChild(script);
+      }
+    };
+  }, []);
+
   const filteredPosts = filter === 'all' 
     ? instaPosts 
+    : filter === 'live'
+    ? instaPosts
     : instaPosts.filter(post => post.type === filter);
 
   return (
@@ -130,7 +145,7 @@ export default function InstagramShowcase() {
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-pink-400 text-sm font-extrabold mb-4 shadow-lg"
           >
             <InstagramIcon size={18} className="text-pink-500" />
-            <span>@play_solutions on Instagram</span>
+            <span>@play_solutions Official Instagram Feed</span>
           </motion.div>
 
           <motion.h2 
@@ -140,7 +155,7 @@ export default function InstagramShowcase() {
             transition={{ delay: 0.1 }}
             className="font-display font-black text-3xl sm:text-4xl md:text-5xl text-white mb-4 tracking-tight"
           >
-            Watch Instagram Reels & Videos Live 🎥
+            Live Instagram Videos & Profile Stream 📸
           </motion.h2>
 
           <motion.p 
@@ -150,22 +165,52 @@ export default function InstagramShowcase() {
             transition={{ delay: 0.2 }}
             className="text-gray-300 text-lg"
           >
-            Stream real video clips & photos of our playground installations directly on the website from our official Instagram feed.
+            Explore real videos and school installation reels directly from our official Instagram handle <strong className="text-pink-400 font-extrabold">@play_solutions</strong>.
           </motion.p>
         </div>
 
-        {/* Filter Pills & Follow CTA */}
+        {/* Profile Card Header */}
+        <div className="mb-12 p-6 rounded-3xl bg-white/10 backdrop-blur-xl border border-white/20 max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6 shadow-2xl">
+          <div className="flex items-center gap-5">
+            <div className="w-20 h-20 rounded-full bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-600 p-1 shadow-xl flex-shrink-0">
+              <div className="w-full h-full rounded-full bg-slate-900 flex items-center justify-center text-white">
+                <InstagramIcon size={36} className="text-pink-400" />
+              </div>
+            </div>
+            <div>
+              <div className="flex items-center gap-2">
+                <h3 className="font-display font-black text-2xl text-white">play_solutions</h3>
+                <span className="bg-blue-500 text-white rounded-full p-0.5 text-[10px] font-bold">✓</span>
+              </div>
+              <p className="text-pink-400 text-sm font-bold">Play Solution • Kindergarten & School Equipment</p>
+              <p className="text-gray-300 text-xs mt-1">Manufacturer of slides, swings, play stations & classroom furniture across India 🇮🇳</p>
+            </div>
+          </div>
+
+          <a
+            href="https://www.instagram.com/play_solutions?igsh=aHIyanNremtoN3dx"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-8 py-3 rounded-full bg-gradient-to-r from-pink-600 via-rose-500 to-orange-500 hover:opacity-95 text-white font-extrabold shadow-xl shadow-pink-500/30 hover:scale-105 active:scale-95 transition-all text-base flex items-center gap-2 flex-shrink-0"
+          >
+            <InstagramIcon size={20} />
+            <span>Follow on Instagram</span>
+            <ExternalLink size={16} />
+          </a>
+        </div>
+
+        {/* Filter Pills */}
         <div className="flex flex-wrap justify-between items-center gap-4 mb-10 pb-4 border-b border-white/10">
           <div className="flex items-center gap-2 bg-white/5 p-1.5 rounded-full border border-white/10 backdrop-blur-md">
             <button
-              onClick={() => setFilter('all')}
+              onClick={() => setFilter('live')}
               className={`px-5 py-2 rounded-full text-sm font-extrabold transition-all flex items-center gap-2 ${
-                filter === 'all'
+                filter === 'live'
                   ? 'bg-gradient-to-r from-orange-500 to-pink-500 text-white shadow-lg'
                   : 'text-gray-300 hover:text-white hover:bg-white/10'
               }`}
             >
-              <Sparkles size={16} /> All Posts
+              <Sparkles size={16} /> Live Feed
             </button>
             <button
               onClick={() => setFilter('video')}
@@ -185,23 +230,12 @@ export default function InstagramShowcase() {
                   : 'text-gray-300 hover:text-white hover:bg-white/10'
               }`}
             >
-              <ImageIcon size={16} /> Photos
+              <ImageIcon size={16} /> Installation Photos
             </button>
           </div>
-
-          <a
-            href="https://www.instagram.com/play_solutions?igsh=aHIyanNremtoN3dx"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full bg-gradient-to-r from-pink-600 via-rose-500 to-orange-500 hover:opacity-95 text-white font-extrabold shadow-lg shadow-pink-500/25 hover:scale-105 active:scale-95 transition-all text-sm"
-          >
-            <InstagramIcon size={18} />
-            <span>Follow @play_solutions</span>
-            <ExternalLink size={14} />
-          </a>
         </div>
 
-        {/* Instagram Grid */}
+        {/* Instagram Feed Cards */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredPosts.map((post, index) => (
             <motion.div
@@ -278,7 +312,7 @@ export default function InstagramShowcase() {
                       </span>
                     </div>
                     <span className="text-pink-400 font-extrabold flex items-center gap-1 group-hover:translate-x-1 transition-transform">
-                      Play Video <ExternalLink size={12} />
+                      Watch Video <ExternalLink size={12} />
                     </span>
                   </div>
                 </div>
