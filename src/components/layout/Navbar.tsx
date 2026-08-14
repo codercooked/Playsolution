@@ -4,7 +4,8 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Menu, X, Bot } from 'lucide-react';
+import { Menu, X, Bot, MessageCircle } from 'lucide-react';
+import { getWhatsAppGeneralUrl } from '@/lib/whatsapp';
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -74,6 +75,15 @@ export default function Navbar() {
             <Bot size={16} className="text-orange-400" />
             <span>AI Assistant</span>
           </button>
+          <a
+            href={getWhatsAppGeneralUrl()}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hidden sm:flex items-center gap-2 py-2.5 px-4 rounded-full text-xs font-black bg-emerald-500 hover:bg-emerald-600 text-white transition-all shadow-md hover:scale-105"
+          >
+            <MessageCircle size={16} />
+            <span>WhatsApp Chat</span>
+          </a>
           <Link href="/contact" className="btn-primary py-2.5 px-5 text-sm">
             Get a Quote
           </Link>

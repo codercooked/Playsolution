@@ -4,11 +4,11 @@ import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { ChevronRight, ShieldCheck, CheckCircle, Download, Tag } from 'lucide-react';
+import { ShieldCheck, CheckCircle, Download, Tag, MessageCircle } from 'lucide-react';
 import { Product, getRelatedProducts, categories } from '@/data/products';
 import ProductCard from '@/components/ui/ProductCard';
-import EnquiryModal from '@/components/ui/EnquiryModal';
 import WaveDivider from '@/components/ui/WaveDivider';
+import { getWhatsAppProductUrl } from '@/lib/whatsapp';
 
 interface ProductDetailContentProps {
   product: Product;
@@ -16,37 +16,39 @@ interface ProductDetailContentProps {
 
 export default function ProductDetailContent({ product }: ProductDetailContentProps) {
   const [selectedImage, setSelectedImage] = useState(product.image);
-  const [isEnquiryModalOpen, setIsEnquiryModalOpen] = useState(false);
 
   const category = categories.find(c => c.id === product.categoryId);
   const relatedProducts = getRelatedProducts(product, 4);
 
   const thumbnails = product.thumbnails && product.thumbnails.length > 0 
     ? product.thumbnails 
-    : [product.image, product.image, product.image]; 
+    : [product.image, product.image, product.image];
+
+  const handleWhatsAppEnquiry = () => {
+    const waUrl = getWhatsAppProductUrl(product);
+    window.open(waUrl, '_blank');
+  };
 
   return (
     <>
-      <div className="container mx-auto px-4 md:px-6">
+      <div className="container mx-auto px-4 md:px-6 py-12 pt-28">
         {/* Breadcrumb */}
-        <nav className="flex items-center text-sm text-gray-500 mb-8 whitespace-nowrap overflow-x-auto pb-2 hide-scrollbar">
+        <div className="flex items-center space-x-2 text-sm text-gray-500 mb-8">
           <Link href="/" className="hover:text-primary transition-colors">Home</Link>
-          <ChevronRight className="w-4 h-4 mx-2 flex-shrink-0" />
+          <span>/</span>
           <Link href="/products" className="hover:text-primary transition-colors">Products</Link>
-          <ChevronRight className="w-4 h-4 mx-2 flex-shrink-0" />
+          <span>/</span>
           {category && (
             <>
-              <Link href={`/products?category=${category.id}`} className="hover:text-primary transition-colors">
-                {category.name}
-              </Link>
-              <ChevronRight className="w-4 h-4 mx-2 flex-shrink-0" />
+              <Link href={`/products?category=${category.slug}`} className="hover:text-primary transition-colors">{category.name}</Link>
+              <span>/</span>
             </>
           )}
-          <span className="text-secondary font-medium truncate">{product.name}</span>
-        </nav>
+          <span className="text-secondary font-medium truncate max-w-[200px]">{product.name}</span>
+        </div>
 
-        {/* Main Content */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-20">
+        {/* Product Grid */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start mb-16">
           {/* Images */}
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
@@ -54,12 +56,12 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
             transition={{ duration: 0.5 }}
             className="flex flex-col gap-4"
           >
-            <div className="relative aspect-square w-full bg-white rounded-3xl overflow-hidden shadow-sm border border-gray-100">
+            <div className="relative aspect-square w-full bg-white rounded-3xl overflow-hidden shadow-md border border-gray-100 p-4">
               <Image
                 src={selectedImage}
                 alt={product.name}
                 fill
-                className="object-cover"
+                className="object-contain p-4"
                 sizes="(max-width: 768px) 100vw, 50vw"
                 priority
               />
@@ -78,7 +80,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                     src={thumb}
                     alt={`${product.name} thumbnail ${idx + 1}`}
                     fill
-                    className="object-cover"
+                    className="object-contain p-1"
                     sizes="(max-width: 768px) 33vw, 15vw"
                   />
                 </button>
@@ -95,14 +97,14 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
           >
             {category && (
               <div className="mb-4">
-                <span className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ${category.color ? category.color.replace('bg-', 'bg-opacity-20 text-').replace('-500', '-700') : ''} bg-opacity-10 text-primary bg-primary/10`}>
-                  <Tag className="w-3 h-3 mr-1.5" />
+                <span className="inline-flex items-center px-3.5 py-1.5 rounded-full text-xs font-bold bg-primary/10 text-primary">
+                  <Tag className="w-3.5 h-3.5 mr-1.5" />
                   {category.name}
                 </span>
               </div>
             )}
             
-            <h1 className="font-display font-black text-3xl md:text-4xl lg:text-5xl text-secondary mb-3">
+            <h1 className="font-display font-black text-3xl md:text-4xl lg:text-5xl text-secondary mb-3 leading-tight">
               {product.name}
             </h1>
 
@@ -118,15 +120,15 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
             {/* Safety Badges */}
             <div className="flex flex-wrap gap-2 mb-6">
               {['CE Certified', 'Child-Safe Materials', 'ISI Approved'].map((badge, idx) => (
-                <div key={idx} className="flex items-center bg-green-50 text-green-700 px-3 py-1 rounded-full text-xs font-medium border border-green-100">
-                  <ShieldCheck className="w-3.5 h-3.5 mr-1.5" />
+                <span key={idx} className="inline-flex items-center px-3 py-1 bg-green-50 text-green-700 text-xs font-semibold rounded-full border border-green-200">
+                  <ShieldCheck className="w-3.5 h-3.5 mr-1 text-green-600" />
                   {badge}
-                </div>
+                </span>
               ))}
             </div>
-            
-            <p className="text-gray-600 leading-relaxed text-lg mb-8">
-              {product.longDescription || product.description || product.shortDescription}
+
+            <p className="font-body text-gray-600 text-base md:text-lg mb-8 leading-relaxed">
+              {product.longDescription || product.description}
             </p>
             
             {/* Features */}
@@ -137,7 +139,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                   {product.features.map((feature, idx) => (
                     <li key={idx} className="flex items-start">
                       <CheckCircle className="w-5 h-5 text-primary mr-3 flex-shrink-0 mt-0.5" />
-                      <span className="text-gray-700">{feature}</span>
+                      <span className="text-gray-700 font-medium">{feature}</span>
                     </li>
                   ))}
                 </ul>
@@ -152,19 +154,19 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                   <tbody>
                     <tr className="border-b border-gray-50 bg-gray-50/50">
                       <th className="py-3 px-4 font-medium text-gray-900 w-1/3">Material</th>
-                      <td className="py-3 px-4 text-gray-600">{product.specifications?.material || 'High-density Polyethylene (HDPE)'}</td>
+                      <td className="py-3 px-4 text-gray-600">{product.specifications?.material || 'Food-Grade LLDPE Plastic & Metal'}</td>
                     </tr>
                     <tr className="border-b border-gray-50">
                       <th className="py-3 px-4 font-medium text-gray-900">Age Group</th>
-                      <td className="py-3 px-4 text-gray-600">{product.specifications?.ageGroup || '2 - 6 Years'}</td>
+                      <td className="py-3 px-4 text-gray-600">{product.specifications?.ageGroup || '2 - 10 Years'}</td>
                     </tr>
                     <tr className="border-b border-gray-50 bg-gray-50/50">
                       <th className="py-3 px-4 font-medium text-gray-900">Dimensions</th>
-                      <td className="py-3 px-4 text-gray-600">{product.specifications?.dimensions || 'Customizable'}</td>
+                      <td className="py-3 px-4 text-gray-600">{product.specifications?.dimensions || 'Standard School Size'}</td>
                     </tr>
                     <tr className="border-b border-gray-50">
-                      <th className="py-3 px-4 font-medium text-gray-900">Capacity</th>
-                      <td className="py-3 px-4 text-gray-600">{product.specifications?.capacity || 'Varies by configuration'}</td>
+                      <th className="py-3 px-4 font-medium text-gray-900">Color Finish</th>
+                      <td className="py-3 px-4 text-gray-600">{product.specifications?.colorOptions || 'Multi-Color Primary / Soft Pastels'}</td>
                     </tr>
                     <tr className="bg-gray-50/50">
                       <th className="py-3 px-4 font-medium text-gray-900">Warranty</th>
@@ -175,24 +177,25 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
               </div>
             </div>
             
-            {/* Actions */}
+            {/* Direct WhatsApp Action Button */}
             <div className="flex flex-col sm:flex-row gap-4 mt-auto">
               <button 
-                onClick={() => setIsEnquiryModalOpen(true)}
-                className="btn-primary flex-1 py-4 text-lg justify-center shadow-lg shadow-primary/20 hover:shadow-xl hover:shadow-primary/30"
+                type="button"
+                onClick={handleWhatsAppEnquiry}
+                className="py-4 px-6 bg-emerald-500 hover:bg-emerald-600 text-white rounded-2xl font-display font-extrabold text-lg flex items-center justify-center gap-3 shadow-xl shadow-emerald-500/25 transition-all hover:scale-[1.02] active:scale-[0.98]"
               >
-                Enquire About This Product
+                <MessageCircle size={24} />
+                <span>Chat on WhatsApp for Quote & Specs</span>
               </button>
+              
               <a 
-                href="#"
-                className="btn-outline flex-1 py-4 text-lg justify-center border-2"
-                onClick={(e) => {
-                  e.preventDefault();
-                  alert("Brochure download will begin shortly.");
-                }}
+                href={getWhatsAppProductUrl(product)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="py-4 px-6 border-2 border-slate-900 hover:bg-slate-900 hover:text-white text-slate-900 rounded-2xl font-display font-extrabold text-base flex items-center justify-center gap-2 transition-all"
               >
-                <Download className="w-5 h-5 mr-2" />
-                Download Brochure
+                <Download className="w-5 h-5" />
+                <span>Download Brochure</span>
               </a>
             </div>
           </motion.div>
@@ -208,41 +211,24 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
             <div className="flex justify-between items-end mb-10">
               <div>
                 <h2 className="text-3xl md:text-4xl font-display font-black text-secondary mb-2">Related Products</h2>
-                <p className="text-gray-500">You might also be interested in these items</p>
+                <p className="text-gray-600">More equipment from this category</p>
               </div>
-              <Link href="/products" className="hidden md:flex text-primary font-medium hover:underline items-center">
-                View all products <ChevronRight className="w-4 h-4 ml-1" />
+              <Link 
+                href="/products" 
+                className="text-primary font-bold hover:underline hidden sm:block"
+              >
+                View All Catalog →
               </Link>
             </div>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-              {relatedProducts.map((p, idx) => (
-                <motion.div
-                  key={p.id}
-                  initial={{ opacity: 0, y: 20 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  viewport={{ once: true }}
-                  transition={{ duration: 0.5, delay: idx * 0.1 }}
-                >
-                  <ProductCard product={p} />
-                </motion.div>
+              {relatedProducts.map((relProduct) => (
+                <ProductCard key={relProduct.id} product={relProduct} />
               ))}
-            </div>
-            
-            <div className="mt-8 text-center md:hidden">
-              <Link href="/products" className="btn-outline w-full justify-center">
-                View all products
-              </Link>
             </div>
           </div>
         </section>
       )}
-
-      <EnquiryModal 
-        isOpen={isEnquiryModalOpen}
-        onClose={() => setIsEnquiryModalOpen(false)}
-        productName={product.name}
-      />
     </>
   );
 }
