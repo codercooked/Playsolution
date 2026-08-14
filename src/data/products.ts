@@ -95,1404 +95,1404 @@ export const products: Product[] = [
     "id": "1",
     "slug": "lf-7021-play-equipment-lf-7021-1",
     "name": "LF 7021 - Play Equipment LF 7021",
-    "price": "Quote on Request",
+    "price": "\u20b97,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 7021 - Play Equipment LF 7021 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 7021 - Play Equipment LF 7021 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 7021 - Play Equipment LF 7021 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 7021 - Play Equipment LF 7021 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 7021 - Play Equipment LF 7021 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 7021 - Play Equipment LF 7021 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 4). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p4_LF_7021_1.png",
-    "imageUrl": "/images/products/prod_p4_LF_7021_1.png",
+    "image": "/images/products/page_4_full.png",
+    "imageUrl": "/images/products/page_4_full.png",
     "thumbnails": [
-      "/images/products/prod_p4_LF_7021_1.png",
-      "/images/products/prod_p4_LF_7021_1.png"
+      "/images/products/page_4_full.png",
+      "/images/products/page_4_full.png"
     ]
   },
   {
     "id": "2",
     "slug": "lf-7022-play-equipment-lf-7022-2",
     "name": "LF 7022 - Play Equipment LF 7022",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 7022 - Play Equipment LF 7022 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 7022 - Play Equipment LF 7022 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 7022 - Play Equipment LF 7022 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 7022 - Play Equipment LF 7022 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 7022 - Play Equipment LF 7022 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 7022 - Play Equipment LF 7022 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 5). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p5_LF_7022_2.png",
-    "imageUrl": "/images/products/prod_p5_LF_7022_2.png",
+    "image": "/images/products/page_5_full.png",
+    "imageUrl": "/images/products/page_5_full.png",
     "thumbnails": [
-      "/images/products/prod_p5_LF_7022_2.png",
-      "/images/products/prod_p5_LF_7022_2.png"
+      "/images/products/page_5_full.png",
+      "/images/products/page_5_full.png"
     ]
   },
   {
     "id": "3",
     "slug": "lf-7023-play-equipment-lf-7023-3",
     "name": "LF 7023 - Play Equipment LF 7023",
-    "price": "Quote on Request",
+    "price": "\u20b910,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 7023 - Play Equipment LF 7023 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 7023 - Play Equipment LF 7023 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 7023 - Play Equipment LF 7023 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 7023 - Play Equipment LF 7023 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 7023 - Play Equipment LF 7023 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 7023 - Play Equipment LF 7023 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 6). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p6_LF_7023_3.png",
-    "imageUrl": "/images/products/prod_p6_LF_7023_3.png",
+    "image": "/images/products/page_6_full.png",
+    "imageUrl": "/images/products/page_6_full.png",
     "thumbnails": [
-      "/images/products/prod_p6_LF_7023_3.png",
-      "/images/products/prod_p6_LF_7023_3.png"
+      "/images/products/page_6_full.png",
+      "/images/products/page_6_full.png"
     ]
   },
   {
     "id": "4",
     "slug": "lf-0431-play-equipment-lf-0431-4",
     "name": "LF 0431 - Play Equipment LF 0431",
-    "price": "Quote on Request",
+    "price": "\u20b913,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0431 - Play Equipment LF 0431 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0431 - Play Equipment LF 0431 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0431 - Play Equipment LF 0431 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0431 - Play Equipment LF 0431 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0431 - Play Equipment LF 0431 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0431 - Play Equipment LF 0431 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 7). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p7_LF_0431_4.png",
-    "imageUrl": "/images/products/prod_p7_LF_0431_4.png",
+    "image": "/images/products/page_7_full.png",
+    "imageUrl": "/images/products/page_7_full.png",
     "thumbnails": [
-      "/images/products/prod_p7_LF_0431_4.png",
-      "/images/products/prod_p7_LF_0431_4.png"
+      "/images/products/page_7_full.png",
+      "/images/products/page_7_full.png"
     ]
   },
   {
     "id": "5",
     "slug": "lf-0431p-use-code-middle-5",
     "name": "LF 0431P - - use code Middle",
-    "price": "Quote on Request",
+    "price": "\u20b916,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0431P - - use code Middle is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0431P - - use code Middle features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0431P - - use code Middle is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0431P - - use code Middle from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0431P - - use code Middle is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0431P - - use code Middle from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 7). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p7_LF_0431P_5.png",
-    "imageUrl": "/images/products/prod_p7_LF_0431P_5.png",
+    "image": "/images/products/page_7_full.png",
+    "imageUrl": "/images/products/page_7_full.png",
     "thumbnails": [
-      "/images/products/prod_p7_LF_0431P_5.png",
-      "/images/products/prod_p7_LF_0431P_5.png"
+      "/images/products/page_7_full.png",
+      "/images/products/page_7_full.png"
     ]
   },
   {
     "id": "6",
     "slug": "lf-0431m-use-code-primary-6",
     "name": "LF 0431M - - use code Primary",
-    "price": "Quote on Request",
+    "price": "\u20b918,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0431M - - use code Primary is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0431M - - use code Primary features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0431M - - use code Primary is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0431M - - use code Primary from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0431M - - use code Primary is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0431M - - use code Primary from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 7). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p7_LF_0431M_6.png",
-    "imageUrl": "/images/products/prod_p7_LF_0431M_6.png",
+    "image": "/images/products/page_7_full.png",
+    "imageUrl": "/images/products/page_7_full.png",
     "thumbnails": [
-      "/images/products/prod_p7_LF_0431M_6.png",
-      "/images/products/prod_p7_LF_0431M_6.png"
+      "/images/products/page_7_full.png",
+      "/images/products/page_7_full.png"
     ]
   },
   {
     "id": "7",
     "slug": "lf-0447-play-equipment-lf-0447-7",
     "name": "LF 0447 - Play Equipment LF 0447",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0447 - Play Equipment LF 0447 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0447 - Play Equipment LF 0447 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0447 - Play Equipment LF 0447 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0447 - Play Equipment LF 0447 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0447 - Play Equipment LF 0447 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0447 - Play Equipment LF 0447 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 8). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p8_LF_0447_7.png",
-    "imageUrl": "/images/products/prod_p8_LF_0447_7.png",
+    "image": "/images/products/page_8_full.png",
+    "imageUrl": "/images/products/page_8_full.png",
     "thumbnails": [
-      "/images/products/prod_p8_LF_0447_7.png",
-      "/images/products/prod_p8_LF_0447_7.png"
+      "/images/products/page_8_full.png",
+      "/images/products/page_8_full.png"
     ]
   },
   {
     "id": "8",
     "slug": "lf-0447p-play-equipment-lf-0447p-8",
     "name": "LF 0447P - Play Equipment LF 0447P",
-    "price": "Quote on Request",
+    "price": "\u20b97,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0447P - Play Equipment LF 0447P is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0447P - Play Equipment LF 0447P features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0447P - Play Equipment LF 0447P is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0447P - Play Equipment LF 0447P from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0447P - Play Equipment LF 0447P is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0447P - Play Equipment LF 0447P from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 8). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p8_LF_0447P_8.png",
-    "imageUrl": "/images/products/prod_p8_LF_0447P_8.png",
+    "image": "/images/products/page_8_full.png",
+    "imageUrl": "/images/products/page_8_full.png",
     "thumbnails": [
-      "/images/products/prod_p8_LF_0447P_8.png",
-      "/images/products/prod_p8_LF_0447P_8.png"
+      "/images/products/page_8_full.png",
+      "/images/products/page_8_full.png"
     ]
   },
   {
     "id": "9",
     "slug": "lf-0448-play-equipment-lf-0448-9",
     "name": "LF 0448 - Play Equipment LF 0448",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0448 - Play Equipment LF 0448 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0448 - Play Equipment LF 0448 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0448 - Play Equipment LF 0448 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0448 - Play Equipment LF 0448 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0448 - Play Equipment LF 0448 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0448 - Play Equipment LF 0448 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 9). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p9_LF_0448_9.png",
-    "imageUrl": "/images/products/prod_p9_LF_0448_9.png",
+    "image": "/images/products/page_9_full.png",
+    "imageUrl": "/images/products/page_9_full.png",
     "thumbnails": [
-      "/images/products/prod_p9_LF_0448_9.png",
-      "/images/products/prod_p9_LF_0448_9.png"
+      "/images/products/page_9_full.png",
+      "/images/products/page_9_full.png"
     ]
   },
   {
     "id": "10",
     "slug": "lf-0448p-play-equipment-lf-0448p-10",
     "name": "LF 0448P - Play Equipment LF 0448P",
-    "price": "Quote on Request",
+    "price": "\u20b910,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0448P - Play Equipment LF 0448P is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0448P - Play Equipment LF 0448P features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0448P - Play Equipment LF 0448P is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0448P - Play Equipment LF 0448P from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0448P - Play Equipment LF 0448P is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0448P - Play Equipment LF 0448P from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 9). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p9_LF_0448P_10.png",
-    "imageUrl": "/images/products/prod_p9_LF_0448P_10.png",
+    "image": "/images/products/page_9_full.png",
+    "imageUrl": "/images/products/page_9_full.png",
     "thumbnails": [
-      "/images/products/prod_p9_LF_0448P_10.png",
-      "/images/products/prod_p9_LF_0448P_10.png"
+      "/images/products/page_9_full.png",
+      "/images/products/page_9_full.png"
     ]
   },
   {
     "id": "11",
     "slug": "lf-0429-play-equipment-lf-0429-11",
     "name": "LF 0429 - Play Equipment LF 0429",
-    "price": "Quote on Request",
+    "price": "\u20b913,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0429 - Play Equipment LF 0429 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0429 - Play Equipment LF 0429 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0429 - Play Equipment LF 0429 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0429 - Play Equipment LF 0429 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0429 - Play Equipment LF 0429 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0429 - Play Equipment LF 0429 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 10). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p10_LF_0429_11.png",
-    "imageUrl": "/images/products/prod_p10_LF_0429_11.png",
+    "image": "/images/products/page_10_full.png",
+    "imageUrl": "/images/products/page_10_full.png",
     "thumbnails": [
-      "/images/products/prod_p10_LF_0429_11.png",
-      "/images/products/prod_p10_LF_0429_11.png"
+      "/images/products/page_10_full.png",
+      "/images/products/page_10_full.png"
     ]
   },
   {
     "id": "12",
     "slug": "lf-0235-play-equipment-lf-0235-12",
     "name": "LF 0235 - Play Equipment LF 0235",
-    "price": "Quote on Request",
+    "price": "\u20b916,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0235 - Play Equipment LF 0235 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0235 - Play Equipment LF 0235 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0235 - Play Equipment LF 0235 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0235 - Play Equipment LF 0235 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0235 - Play Equipment LF 0235 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0235 - Play Equipment LF 0235 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 10). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p10_LF_0235_12.png",
-    "imageUrl": "/images/products/prod_p10_LF_0235_12.png",
+    "image": "/images/products/page_10_full.png",
+    "imageUrl": "/images/products/page_10_full.png",
     "thumbnails": [
-      "/images/products/prod_p10_LF_0235_12.png",
-      "/images/products/prod_p10_LF_0235_12.png"
+      "/images/products/page_10_full.png",
+      "/images/products/page_10_full.png"
     ]
   },
   {
     "id": "13",
     "slug": "lf-0405-play-equipment-lf-0405-13",
     "name": "LF 0405 - Play Equipment LF 0405",
-    "price": "Quote on Request",
+    "price": "\u20b918,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0405 - Play Equipment LF 0405 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0405 - Play Equipment LF 0405 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0405 - Play Equipment LF 0405 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0405 - Play Equipment LF 0405 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0405 - Play Equipment LF 0405 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0405 - Play Equipment LF 0405 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 11). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p11_LF_0405_13.png",
-    "imageUrl": "/images/products/prod_p11_LF_0405_13.png",
+    "image": "/images/products/page_11_full.png",
+    "imageUrl": "/images/products/page_11_full.png",
     "thumbnails": [
-      "/images/products/prod_p11_LF_0405_13.png",
-      "/images/products/prod_p11_LF_0405_13.png"
+      "/images/products/page_11_full.png",
+      "/images/products/page_11_full.png"
     ]
   },
   {
     "id": "14",
     "slug": "lf-0406-frame-heavy-duty-metal-structure-with-plastic-bushes-for-oor-protection-and-noise-reduction-14",
     "name": "LF 0406 - Frame Heavy-duty metal structure with Plastic bushes for oor protection and noise reduction",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0406 - Frame Heavy-duty metal structure with Plastic bushes for oor protection and noise reduction is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0406 - Frame Heavy-duty metal structure with Plastic bushes for oor protection and noise reduction features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0406 - Frame Heavy-duty metal structure with Plastic bushes for oor protection and noise reduction is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0406 - Frame Heavy-duty metal structure with Plastic bushes for oor protection and noise reduction from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0406 - Frame Heavy-duty metal structure with Plastic bushes for oor protection and noise reduction is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0406 - Frame Heavy-duty metal structure with Plastic bushes for oor protection and noise reduction from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 11). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p11_LF_0406_14.png",
-    "imageUrl": "/images/products/prod_p11_LF_0406_14.png",
+    "image": "/images/products/page_11_full.png",
+    "imageUrl": "/images/products/page_11_full.png",
     "thumbnails": [
-      "/images/products/prod_p11_LF_0406_14.png",
-      "/images/products/prod_p11_LF_0406_14.png"
+      "/images/products/page_11_full.png",
+      "/images/products/page_11_full.png"
     ]
   },
   {
     "id": "15",
     "slug": "lf-0407-dual-seating-desk-adjustable-15",
     "name": "LF 0407 - Dual Seating Desk (Adjustable)",
-    "price": "Quote on Request",
+    "price": "\u20b97,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0407 - Dual Seating Desk (Adjustable) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0407 - Dual Seating Desk (Adjustable) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0407 - Dual Seating Desk (Adjustable) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0407 - Dual Seating Desk (Adjustable) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0407 - Dual Seating Desk (Adjustable) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0407 - Dual Seating Desk (Adjustable) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 13). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p13_LF_0407_15.png",
-    "imageUrl": "/images/products/prod_p13_LF_0407_15.png",
+    "image": "/images/products/page_13_full.png",
+    "imageUrl": "/images/products/page_13_full.png",
     "thumbnails": [
-      "/images/products/prod_p13_LF_0407_15.png",
-      "/images/products/prod_p13_LF_0407_15.png"
+      "/images/products/page_13_full.png",
+      "/images/products/page_13_full.png"
     ]
   },
   {
     "id": "16",
     "slug": "lf-081-play-equipment-lf-081-16",
     "name": "LF 081 - Play Equipment LF 081",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 081 - Play Equipment LF 081 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 081 - Play Equipment LF 081 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 081 - Play Equipment LF 081 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 081 - Play Equipment LF 081 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 081 - Play Equipment LF 081 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 081 - Play Equipment LF 081 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 14). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p14_LF_081_16.png",
-    "imageUrl": "/images/products/prod_p14_LF_081_16.png",
+    "image": "/images/products/page_14_full.png",
+    "imageUrl": "/images/products/page_14_full.png",
     "thumbnails": [
-      "/images/products/prod_p14_LF_081_16.png",
-      "/images/products/prod_p14_LF_081_16.png"
+      "/images/products/page_14_full.png",
+      "/images/products/page_14_full.png"
     ]
   },
   {
     "id": "17",
     "slug": "lf-082-play-equipment-lf-082-17",
     "name": "LF 082 - Play Equipment LF 082",
-    "price": "Quote on Request",
+    "price": "\u20b910,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 082 - Play Equipment LF 082 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 082 - Play Equipment LF 082 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 082 - Play Equipment LF 082 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 082 - Play Equipment LF 082 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 082 - Play Equipment LF 082 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 082 - Play Equipment LF 082 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 14). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p14_LF_082_17.png",
-    "imageUrl": "/images/products/prod_p14_LF_082_17.png",
+    "image": "/images/products/page_14_full.png",
+    "imageUrl": "/images/products/page_14_full.png",
     "thumbnails": [
-      "/images/products/prod_p14_LF_082_17.png",
-      "/images/products/prod_p14_LF_082_17.png"
+      "/images/products/page_14_full.png",
+      "/images/products/page_14_full.png"
     ]
   },
   {
     "id": "18",
     "slug": "lf-029-play-equipment-lf-029-18",
     "name": "LF 029 - Play Equipment LF 029",
-    "price": "Quote on Request",
+    "price": "\u20b913,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 029 - Play Equipment LF 029 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 029 - Play Equipment LF 029 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 029 - Play Equipment LF 029 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 029 - Play Equipment LF 029 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 029 - Play Equipment LF 029 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 029 - Play Equipment LF 029 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 15). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p15_LF_029_18.png",
-    "imageUrl": "/images/products/prod_p15_LF_029_18.png",
+    "image": "/images/products/page_15_full.png",
+    "imageUrl": "/images/products/page_15_full.png",
     "thumbnails": [
-      "/images/products/prod_p15_LF_029_18.png",
-      "/images/products/prod_p15_LF_029_18.png"
+      "/images/products/page_15_full.png",
+      "/images/products/page_15_full.png"
     ]
   },
   {
     "id": "19",
     "slug": "lf-028-play-equipment-lf-028-19",
     "name": "LF 028 - Play Equipment LF 028",
-    "price": "Quote on Request",
+    "price": "\u20b916,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 028 - Play Equipment LF 028 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 028 - Play Equipment LF 028 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 028 - Play Equipment LF 028 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 028 - Play Equipment LF 028 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 028 - Play Equipment LF 028 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 028 - Play Equipment LF 028 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 16). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p16_LF_028_19.png",
-    "imageUrl": "/images/products/prod_p16_LF_028_19.png",
+    "image": "/images/products/page_16_full.png",
+    "imageUrl": "/images/products/page_16_full.png",
     "thumbnails": [
-      "/images/products/prod_p16_LF_028_19.png",
-      "/images/products/prod_p16_LF_028_19.png"
+      "/images/products/page_16_full.png",
+      "/images/products/page_16_full.png"
     ]
   },
   {
     "id": "20",
     "slug": "lf-0331-play-equipment-lf-0331-20",
     "name": "LF 0331 - Play Equipment LF 0331",
-    "price": "Quote on Request",
+    "price": "\u20b918,990",
     "category": "Classroom Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0331 - Play Equipment LF 0331 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0331 - Play Equipment LF 0331 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0331 - Play Equipment LF 0331 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0331 - Play Equipment LF 0331 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0331 - Play Equipment LF 0331 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0331 - Play Equipment LF 0331 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 17). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p17_LF_0331_20.png",
-    "imageUrl": "/images/products/prod_p17_LF_0331_20.png",
+    "image": "/images/products/page_17_full.png",
+    "imageUrl": "/images/products/page_17_full.png",
     "thumbnails": [
-      "/images/products/prod_p17_LF_0331_20.png",
-      "/images/products/prod_p17_LF_0331_20.png"
+      "/images/products/page_17_full.png",
+      "/images/products/page_17_full.png"
     ]
   },
   {
     "id": "21",
     "slug": "lf-035-play-equipment-lf-035-21",
     "name": "LF 035 - Play Equipment LF 035",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 035 - Play Equipment LF 035 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 035 - Play Equipment LF 035 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 035 - Play Equipment LF 035 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 035 - Play Equipment LF 035 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 035 - Play Equipment LF 035 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 035 - Play Equipment LF 035 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 18). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p18_LF_035_21.png",
-    "imageUrl": "/images/products/prod_p18_LF_035_21.png",
+    "image": "/images/products/page_18_full.png",
+    "imageUrl": "/images/products/page_18_full.png",
     "thumbnails": [
-      "/images/products/prod_p18_LF_035_21.png",
-      "/images/products/prod_p18_LF_035_21.png"
+      "/images/products/page_18_full.png",
+      "/images/products/page_18_full.png"
     ]
   },
   {
     "id": "22",
     "slug": "lf-025-play-equipment-lf-025-22",
     "name": "LF 025 - Play Equipment LF 025",
-    "price": "Quote on Request",
+    "price": "\u20b97,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 025 - Play Equipment LF 025 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 025 - Play Equipment LF 025 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 025 - Play Equipment LF 025 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 025 - Play Equipment LF 025 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 025 - Play Equipment LF 025 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 025 - Play Equipment LF 025 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 19). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p19_LF_025_22.png",
-    "imageUrl": "/images/products/prod_p19_LF_025_22.png",
+    "image": "/images/products/page_19_full.png",
+    "imageUrl": "/images/products/page_19_full.png",
     "thumbnails": [
-      "/images/products/prod_p19_LF_025_22.png",
-      "/images/products/prod_p19_LF_025_22.png"
+      "/images/products/page_19_full.png",
+      "/images/products/page_19_full.png"
     ]
   },
   {
     "id": "23",
     "slug": "lf-155-play-equipment-lf-155-23",
     "name": "LF 155 - Play Equipment LF 155",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 155 - Play Equipment LF 155 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 155 - Play Equipment LF 155 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 155 - Play Equipment LF 155 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 155 - Play Equipment LF 155 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 155 - Play Equipment LF 155 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 155 - Play Equipment LF 155 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 20). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p20_LF_155_23.png",
-    "imageUrl": "/images/products/prod_p20_LF_155_23.png",
+    "image": "/images/products/page_20_full.png",
+    "imageUrl": "/images/products/page_20_full.png",
     "thumbnails": [
-      "/images/products/prod_p20_LF_155_23.png",
-      "/images/products/prod_p20_LF_155_23.png"
+      "/images/products/page_20_full.png",
+      "/images/products/page_20_full.png"
     ]
   },
   {
     "id": "24",
     "slug": "lf-157-play-equipment-lf-157-24",
     "name": "LF 157 - Play Equipment LF 157",
-    "price": "Quote on Request",
+    "price": "\u20b910,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 157 - Play Equipment LF 157 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 157 - Play Equipment LF 157 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 157 - Play Equipment LF 157 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 157 - Play Equipment LF 157 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 157 - Play Equipment LF 157 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 157 - Play Equipment LF 157 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 21). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p21_LF_157_24.png",
-    "imageUrl": "/images/products/prod_p21_LF_157_24.png",
+    "image": "/images/products/page_21_full.png",
+    "imageUrl": "/images/products/page_21_full.png",
     "thumbnails": [
-      "/images/products/prod_p21_LF_157_24.png",
-      "/images/products/prod_p21_LF_157_24.png"
+      "/images/products/page_21_full.png",
+      "/images/products/page_21_full.png"
     ]
   },
   {
     "id": "25",
     "slug": "lf-158-play-equipment-lf-158-25",
     "name": "LF 158 - Play Equipment LF 158",
-    "price": "Quote on Request",
+    "price": "\u20b913,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 158 - Play Equipment LF 158 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 158 - Play Equipment LF 158 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 158 - Play Equipment LF 158 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 158 - Play Equipment LF 158 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 158 - Play Equipment LF 158 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 158 - Play Equipment LF 158 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 21). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p21_LF_158_25.png",
-    "imageUrl": "/images/products/prod_p21_LF_158_25.png",
+    "image": "/images/products/page_21_full.png",
+    "imageUrl": "/images/products/page_21_full.png",
     "thumbnails": [
-      "/images/products/prod_p21_LF_158_25.png",
-      "/images/products/prod_p21_LF_158_25.png"
+      "/images/products/page_21_full.png",
+      "/images/products/page_21_full.png"
     ]
   },
   {
     "id": "26",
     "slug": "lf-159-play-equipment-lf-159-26",
     "name": "LF 159 - Play Equipment LF 159",
-    "price": "Quote on Request",
+    "price": "\u20b916,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 159 - Play Equipment LF 159 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 159 - Play Equipment LF 159 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 159 - Play Equipment LF 159 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 159 - Play Equipment LF 159 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 159 - Play Equipment LF 159 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 159 - Play Equipment LF 159 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 22). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p22_LF_159_26.png",
-    "imageUrl": "/images/products/prod_p22_LF_159_26.png",
+    "image": "/images/products/page_22_full.png",
+    "imageUrl": "/images/products/page_22_full.png",
     "thumbnails": [
-      "/images/products/prod_p22_LF_159_26.png",
-      "/images/products/prod_p22_LF_159_26.png"
+      "/images/products/page_22_full.png",
+      "/images/products/page_22_full.png"
     ]
   },
   {
     "id": "27",
     "slug": "lf-0504-play-equipment-lf-0504-27",
     "name": "LF 0504 - Play Equipment LF 0504",
-    "price": "Quote on Request",
+    "price": "\u20b918,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0504 - Play Equipment LF 0504 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0504 - Play Equipment LF 0504 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0504 - Play Equipment LF 0504 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0504 - Play Equipment LF 0504 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0504 - Play Equipment LF 0504 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0504 - Play Equipment LF 0504 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 23). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p23_LF_0504_27.png",
-    "imageUrl": "/images/products/prod_p23_LF_0504_27.png",
+    "image": "/images/products/page_23_full.png",
+    "imageUrl": "/images/products/page_23_full.png",
     "thumbnails": [
-      "/images/products/prod_p23_LF_0504_27.png",
-      "/images/products/prod_p23_LF_0504_27.png"
+      "/images/products/page_23_full.png",
+      "/images/products/page_23_full.png"
     ]
   },
   {
     "id": "28",
     "slug": "lf-0512-play-equipment-lf-0512-28",
     "name": "LF 0512 - Play Equipment LF 0512",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0512 - Play Equipment LF 0512 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0512 - Play Equipment LF 0512 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0512 - Play Equipment LF 0512 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0512 - Play Equipment LF 0512 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0512 - Play Equipment LF 0512 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0512 - Play Equipment LF 0512 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 24). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p24_LF_0512_28.png",
-    "imageUrl": "/images/products/prod_p24_LF_0512_28.png",
+    "image": "/images/products/page_24_full.png",
+    "imageUrl": "/images/products/page_24_full.png",
     "thumbnails": [
-      "/images/products/prod_p24_LF_0512_28.png",
-      "/images/products/prod_p24_LF_0512_28.png"
+      "/images/products/page_24_full.png",
+      "/images/products/page_24_full.png"
     ]
   },
   {
     "id": "29",
     "slug": "lf-0513-play-equipment-lf-0513-29",
     "name": "LF 0513 - Play Equipment LF 0513",
-    "price": "Quote on Request",
+    "price": "\u20b97,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 0513 - Play Equipment LF 0513 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0513 - Play Equipment LF 0513 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0513 - Play Equipment LF 0513 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0513 - Play Equipment LF 0513 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0513 - Play Equipment LF 0513 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0513 - Play Equipment LF 0513 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 25). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p25_LF_0513_29.png",
-    "imageUrl": "/images/products/prod_p25_LF_0513_29.png",
+    "image": "/images/products/page_25_full.png",
+    "imageUrl": "/images/products/page_25_full.png",
     "thumbnails": [
-      "/images/products/prod_p25_LF_0513_29.png",
-      "/images/products/prod_p25_LF_0513_29.png"
+      "/images/products/page_25_full.png",
+      "/images/products/page_25_full.png"
     ]
   },
   {
     "id": "30",
     "slug": "lf-311-play-equipment-lf-311-30",
     "name": "LF 311 - Play Equipment LF 311",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 311 - Play Equipment LF 311 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 311 - Play Equipment LF 311 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 311 - Play Equipment LF 311 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 311 - Play Equipment LF 311 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 311 - Play Equipment LF 311 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 311 - Play Equipment LF 311 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 26). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p26_LF_311_30.png",
-    "imageUrl": "/images/products/prod_p26_LF_311_30.png",
+    "image": "/images/products/page_26_full.png",
+    "imageUrl": "/images/products/page_26_full.png",
     "thumbnails": [
-      "/images/products/prod_p26_LF_311_30.png",
-      "/images/products/prod_p26_LF_311_30.png"
+      "/images/products/page_26_full.png",
+      "/images/products/page_26_full.png"
     ]
   },
   {
     "id": "31",
     "slug": "lf-314-round-table-adjustable-31",
     "name": "LF 314 - Round Table (Adjustable)",
-    "price": "Quote on Request",
+    "price": "\u20b910,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 314 - Round Table (Adjustable) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 314 - Round Table (Adjustable) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 314 - Round Table (Adjustable) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 314 - Round Table (Adjustable) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 314 - Round Table (Adjustable) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 314 - Round Table (Adjustable) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 26). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p26_LF_314_31.png",
-    "imageUrl": "/images/products/prod_p26_LF_314_31.png",
+    "image": "/images/products/page_26_full.png",
+    "imageUrl": "/images/products/page_26_full.png",
     "thumbnails": [
-      "/images/products/prod_p26_LF_314_31.png",
-      "/images/products/prod_p26_LF_314_31.png"
+      "/images/products/page_26_full.png",
+      "/images/products/page_26_full.png"
     ]
   },
   {
     "id": "32",
     "slug": "lf-315-play-equipment-lf-315-32",
     "name": "LF 315 - Play Equipment LF 315",
-    "price": "Quote on Request",
+    "price": "\u20b913,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 315 - Play Equipment LF 315 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 315 - Play Equipment LF 315 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 315 - Play Equipment LF 315 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 315 - Play Equipment LF 315 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 315 - Play Equipment LF 315 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 315 - Play Equipment LF 315 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 27). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p27_LF_315_32.png",
-    "imageUrl": "/images/products/prod_p27_LF_315_32.png",
+    "image": "/images/products/page_27_full.png",
+    "imageUrl": "/images/products/page_27_full.png",
     "thumbnails": [
-      "/images/products/prod_p27_LF_315_32.png",
-      "/images/products/prod_p27_LF_315_32.png"
+      "/images/products/page_27_full.png",
+      "/images/products/page_27_full.png"
     ]
   },
   {
     "id": "33",
     "slug": "lf-211-moon-table-adjustable-33",
     "name": "LF 211 - Moon Table (Adjustable)",
-    "price": "Quote on Request",
+    "price": "\u20b916,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 211 - Moon Table (Adjustable) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 211 - Moon Table (Adjustable) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 211 - Moon Table (Adjustable) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 211 - Moon Table (Adjustable) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 211 - Moon Table (Adjustable) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 211 - Moon Table (Adjustable) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 28). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p28_LF_211_33.png",
-    "imageUrl": "/images/products/prod_p28_LF_211_33.png",
+    "image": "/images/products/page_28_full.png",
+    "imageUrl": "/images/products/page_28_full.png",
     "thumbnails": [
-      "/images/products/prod_p28_LF_211_33.png",
-      "/images/products/prod_p28_LF_211_33.png"
+      "/images/products/page_28_full.png",
+      "/images/products/page_28_full.png"
     ]
   },
   {
     "id": "34",
     "slug": "lf-214-play-equipment-lf-214-34",
     "name": "LF 214 - Play Equipment LF 214",
-    "price": "Quote on Request",
+    "price": "\u20b918,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 214 - Play Equipment LF 214 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 214 - Play Equipment LF 214 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 214 - Play Equipment LF 214 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 214 - Play Equipment LF 214 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 214 - Play Equipment LF 214 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 214 - Play Equipment LF 214 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 29). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p29_LF_214_34.png",
-    "imageUrl": "/images/products/prod_p29_LF_214_34.png",
+    "image": "/images/products/page_29_full.png",
+    "imageUrl": "/images/products/page_29_full.png",
     "thumbnails": [
-      "/images/products/prod_p29_LF_214_34.png",
-      "/images/products/prod_p29_LF_214_34.png"
+      "/images/products/page_29_full.png",
+      "/images/products/page_29_full.png"
     ]
   },
   {
     "id": "35",
     "slug": "lf-215-rectangle-table-adjustable-35",
     "name": "LF 215 - Rectangle Table (Adjustable)",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 215 - Rectangle Table (Adjustable) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 215 - Rectangle Table (Adjustable) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 215 - Rectangle Table (Adjustable) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 215 - Rectangle Table (Adjustable) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 215 - Rectangle Table (Adjustable) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 215 - Rectangle Table (Adjustable) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 29). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p29_LF_215_35.png",
-    "imageUrl": "/images/products/prod_p29_LF_215_35.png",
+    "image": "/images/products/page_29_full.png",
+    "imageUrl": "/images/products/page_29_full.png",
     "thumbnails": [
-      "/images/products/prod_p29_LF_215_35.png",
-      "/images/products/prod_p29_LF_215_35.png"
+      "/images/products/page_29_full.png",
+      "/images/products/page_29_full.png"
     ]
   },
   {
     "id": "36",
     "slug": "lf-110-play-equipment-lf-110-36",
     "name": "LF 110 - Play Equipment LF 110",
-    "price": "Quote on Request",
+    "price": "\u20b97,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 110 - Play Equipment LF 110 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 110 - Play Equipment LF 110 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 110 - Play Equipment LF 110 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 110 - Play Equipment LF 110 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 110 - Play Equipment LF 110 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 110 - Play Equipment LF 110 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 30). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p30_LF_110_36.png",
-    "imageUrl": "/images/products/prod_p30_LF_110_36.png",
+    "image": "/images/products/page_30_full.png",
+    "imageUrl": "/images/products/page_30_full.png",
     "thumbnails": [
-      "/images/products/prod_p30_LF_110_36.png",
-      "/images/products/prod_p30_LF_110_36.png"
+      "/images/products/page_30_full.png",
+      "/images/products/page_30_full.png"
     ]
   },
   {
     "id": "37",
     "slug": "lf-111-play-equipment-lf-111-37",
     "name": "LF 111 - Play Equipment LF 111",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 111 - Play Equipment LF 111 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 111 - Play Equipment LF 111 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 111 - Play Equipment LF 111 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 111 - Play Equipment LF 111 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 111 - Play Equipment LF 111 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 111 - Play Equipment LF 111 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 31). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p31_LF_111_37.png",
-    "imageUrl": "/images/products/prod_p31_LF_111_37.png",
+    "image": "/images/products/page_31_full.png",
+    "imageUrl": "/images/products/page_31_full.png",
     "thumbnails": [
-      "/images/products/prod_p31_LF_111_37.png",
-      "/images/products/prod_p31_LF_111_37.png"
+      "/images/products/page_31_full.png",
+      "/images/products/page_31_full.png"
     ]
   },
   {
     "id": "38",
     "slug": "lf-113-square-table-38",
     "name": "LF 113 - Square Table",
-    "price": "Quote on Request",
+    "price": "\u20b910,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 113 - Square Table is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 113 - Square Table features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 113 - Square Table is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 113 - Square Table from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 113 - Square Table is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 113 - Square Table from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 31). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p31_LF_113_38.png",
-    "imageUrl": "/images/products/prod_p31_LF_113_38.png",
+    "image": "/images/products/page_31_full.png",
+    "imageUrl": "/images/products/page_31_full.png",
     "thumbnails": [
-      "/images/products/prod_p31_LF_113_38.png",
-      "/images/products/prod_p31_LF_113_38.png"
+      "/images/products/page_31_full.png",
+      "/images/products/page_31_full.png"
     ]
   },
   {
     "id": "39",
     "slug": "lf-114-round-table-39",
     "name": "LF 114 - Round Table",
-    "price": "Quote on Request",
+    "price": "\u20b913,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 114 - Round Table is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 114 - Round Table features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 114 - Round Table is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 114 - Round Table from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 114 - Round Table is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 114 - Round Table from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 32). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p32_LF_114_39.png",
-    "imageUrl": "/images/products/prod_p32_LF_114_39.png",
+    "image": "/images/products/page_32_full.png",
+    "imageUrl": "/images/products/page_32_full.png",
     "thumbnails": [
-      "/images/products/prod_p32_LF_114_39.png",
-      "/images/products/prod_p32_LF_114_39.png"
+      "/images/products/page_32_full.png",
+      "/images/products/page_32_full.png"
     ]
   },
   {
     "id": "40",
     "slug": "lf-114s-round-table-40",
     "name": "LF 114S - Round Table",
-    "price": "Quote on Request",
+    "price": "\u20b916,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 114S - Round Table is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 114S - Round Table features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 114S - Round Table is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 114S - Round Table from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 114S - Round Table is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 114S - Round Table from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 32). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p32_LF_114S_40.png",
-    "imageUrl": "/images/products/prod_p32_LF_114S_40.png",
+    "image": "/images/products/page_32_full.png",
+    "imageUrl": "/images/products/page_32_full.png",
     "thumbnails": [
-      "/images/products/prod_p32_LF_114S_40.png",
-      "/images/products/prod_p32_LF_114S_40.png"
+      "/images/products/page_32_full.png",
+      "/images/products/page_32_full.png"
     ]
   },
   {
     "id": "41",
     "slug": "lf-115-play-equipment-lf-115-41",
     "name": "LF 115 - Play Equipment LF 115",
-    "price": "Quote on Request",
+    "price": "\u20b918,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 115 - Play Equipment LF 115 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 115 - Play Equipment LF 115 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 115 - Play Equipment LF 115 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 115 - Play Equipment LF 115 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 115 - Play Equipment LF 115 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 115 - Play Equipment LF 115 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 33). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p33_LF_115_41.png",
-    "imageUrl": "/images/products/prod_p33_LF_115_41.png",
+    "image": "/images/products/page_33_full.png",
+    "imageUrl": "/images/products/page_33_full.png",
     "thumbnails": [
-      "/images/products/prod_p33_LF_115_41.png",
-      "/images/products/prod_p33_LF_115_41.png"
+      "/images/products/page_33_full.png",
+      "/images/products/page_33_full.png"
     ]
   },
   {
     "id": "42",
     "slug": "lf-115s-play-equipment-lf-115s-42",
     "name": "LF 115S - Play Equipment LF 115S",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 115S - Play Equipment LF 115S is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 115S - Play Equipment LF 115S features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 115S - Play Equipment LF 115S is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 115S - Play Equipment LF 115S from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 115S - Play Equipment LF 115S is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 115S - Play Equipment LF 115S from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 33). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p33_LF_115S_42.png",
-    "imageUrl": "/images/products/prod_p33_LF_115S_42.png",
+    "image": "/images/products/page_33_full.png",
+    "imageUrl": "/images/products/page_33_full.png",
     "thumbnails": [
-      "/images/products/prod_p33_LF_115S_42.png",
-      "/images/products/prod_p33_LF_115S_42.png"
+      "/images/products/page_33_full.png",
+      "/images/products/page_33_full.png"
     ]
   },
   {
     "id": "43",
     "slug": "lf-207-size-l120xw105xh50-cm-43",
     "name": "LF 207 - Size L120xW105xH50 CM",
-    "price": "Quote on Request",
+    "price": "\u20b97,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 207 - Size L120xW105xH50 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 207 - Size L120xW105xH50 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 207 - Size L120xW105xH50 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 207 - Size L120xW105xH50 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 207 - Size L120xW105xH50 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 207 - Size L120xW105xH50 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 34). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1503,29 +1503,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p34_LF_207_43.png",
-    "imageUrl": "/images/products/prod_p34_LF_207_43.png",
+    "image": "/images/products/page_34_full.png",
+    "imageUrl": "/images/products/page_34_full.png",
     "thumbnails": [
-      "/images/products/prod_p34_LF_207_43.png",
-      "/images/products/prod_p34_LF_207_43.png"
+      "/images/products/page_34_full.png",
+      "/images/products/page_34_full.png"
     ]
   },
   {
     "id": "44",
     "slug": "lf-202-play-equipment-lf-202-44",
     "name": "LF 202 - Play Equipment LF 202",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 202 - Play Equipment LF 202 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 202 - Play Equipment LF 202 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 202 - Play Equipment LF 202 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 202 - Play Equipment LF 202 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 202 - Play Equipment LF 202 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 202 - Play Equipment LF 202 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 34). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1536,29 +1536,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p34_LF_202_44.png",
-    "imageUrl": "/images/products/prod_p34_LF_202_44.png",
+    "image": "/images/products/page_34_full.png",
+    "imageUrl": "/images/products/page_34_full.png",
     "thumbnails": [
-      "/images/products/prod_p34_LF_202_44.png",
-      "/images/products/prod_p34_LF_202_44.png"
+      "/images/products/page_34_full.png",
+      "/images/products/page_34_full.png"
     ]
   },
   {
     "id": "45",
     "slug": "lf-206-size-diaxh53-cm-45",
     "name": "LF 206 - Size DiaxH53 CM",
-    "price": "Quote on Request",
+    "price": "\u20b910,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 206 - Size DiaxH53 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 206 - Size DiaxH53 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 206 - Size DiaxH53 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 206 - Size DiaxH53 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 206 - Size DiaxH53 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 206 - Size DiaxH53 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 34). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1569,29 +1569,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p34_LF_206_45.png",
-    "imageUrl": "/images/products/prod_p34_LF_206_45.png",
+    "image": "/images/products/page_34_full.png",
+    "imageUrl": "/images/products/page_34_full.png",
     "thumbnails": [
-      "/images/products/prod_p34_LF_206_45.png",
-      "/images/products/prod_p34_LF_206_45.png"
+      "/images/products/page_34_full.png",
+      "/images/products/page_34_full.png"
     ]
   },
   {
     "id": "46",
     "slug": "lf-205-size-l120xw60xh53-cm-46",
     "name": "LF 205 - Size L120xW60xH53 CM",
-    "price": "Quote on Request",
+    "price": "\u20b913,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 205 - Size L120xW60xH53 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 205 - Size L120xW60xH53 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 205 - Size L120xW60xH53 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 205 - Size L120xW60xH53 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 205 - Size L120xW60xH53 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 205 - Size L120xW60xH53 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 34). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1602,29 +1602,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p34_LF_205_46.png",
-    "imageUrl": "/images/products/prod_p34_LF_205_46.png",
+    "image": "/images/products/page_34_full.png",
+    "imageUrl": "/images/products/page_34_full.png",
     "thumbnails": [
-      "/images/products/prod_p34_LF_205_46.png",
-      "/images/products/prod_p34_LF_205_46.png"
+      "/images/products/page_34_full.png",
+      "/images/products/page_34_full.png"
     ]
   },
   {
     "id": "47",
     "slug": "lf-201-play-equipment-lf-201-47",
     "name": "LF 201 - Play Equipment LF 201",
-    "price": "Quote on Request",
+    "price": "\u20b916,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 201 - Play Equipment LF 201 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 201 - Play Equipment LF 201 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 201 - Play Equipment LF 201 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 201 - Play Equipment LF 201 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 201 - Play Equipment LF 201 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 201 - Play Equipment LF 201 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 34). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1635,29 +1635,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p34_LF_201_47.png",
-    "imageUrl": "/images/products/prod_p34_LF_201_47.png",
+    "image": "/images/products/page_34_full.png",
+    "imageUrl": "/images/products/page_34_full.png",
     "thumbnails": [
-      "/images/products/prod_p34_LF_201_47.png",
-      "/images/products/prod_p34_LF_201_47.png"
+      "/images/products/page_34_full.png",
+      "/images/products/page_34_full.png"
     ]
   },
   {
     "id": "48",
     "slug": "lf-1421-size-l44xw35xh50-cm-48",
     "name": "LF 1421 - Size L44xW35xH50 CM",
-    "price": "Quote on Request",
+    "price": "\u20b918,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 1421 - Size L44xW35xH50 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1421 - Size L44xW35xH50 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1421 - Size L44xW35xH50 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1421 - Size L44xW35xH50 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1421 - Size L44xW35xH50 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1421 - Size L44xW35xH50 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 35). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1668,29 +1668,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p35_LF_1421_48.png",
-    "imageUrl": "/images/products/prod_p35_LF_1421_48.png",
+    "image": "/images/products/page_35_full.png",
+    "imageUrl": "/images/products/page_35_full.png",
     "thumbnails": [
-      "/images/products/prod_p35_LF_1421_48.png",
-      "/images/products/prod_p35_LF_1421_48.png"
+      "/images/products/page_35_full.png",
+      "/images/products/page_35_full.png"
     ]
   },
   {
     "id": "49",
     "slug": "lf-1422-play-equipment-lf-1422-49",
     "name": "LF 1422 - Play Equipment LF 1422",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 1422 - Play Equipment LF 1422 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1422 - Play Equipment LF 1422 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1422 - Play Equipment LF 1422 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1422 - Play Equipment LF 1422 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1422 - Play Equipment LF 1422 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1422 - Play Equipment LF 1422 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 35). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1701,29 +1701,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p35_LF_1422_49.png",
-    "imageUrl": "/images/products/prod_p35_LF_1422_49.png",
+    "image": "/images/products/page_35_full.png",
+    "imageUrl": "/images/products/page_35_full.png",
     "thumbnails": [
-      "/images/products/prod_p35_LF_1422_49.png",
-      "/images/products/prod_p35_LF_1422_49.png"
+      "/images/products/page_35_full.png",
+      "/images/products/page_35_full.png"
     ]
   },
   {
     "id": "50",
     "slug": "lf-1423-play-equipment-lf-1423-50",
     "name": "LF 1423 - Play Equipment LF 1423",
-    "price": "Quote on Request",
+    "price": "\u20b97,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 1423 - Play Equipment LF 1423 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1423 - Play Equipment LF 1423 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1423 - Play Equipment LF 1423 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1423 - Play Equipment LF 1423 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1423 - Play Equipment LF 1423 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1423 - Play Equipment LF 1423 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 35). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1734,29 +1734,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p35_LF_1423_50.png",
-    "imageUrl": "/images/products/prod_p35_LF_1423_50.png",
+    "image": "/images/products/page_35_full.png",
+    "imageUrl": "/images/products/page_35_full.png",
     "thumbnails": [
-      "/images/products/prod_p35_LF_1423_50.png",
-      "/images/products/prod_p35_LF_1423_50.png"
+      "/images/products/page_35_full.png",
+      "/images/products/page_35_full.png"
     ]
   },
   {
     "id": "51",
     "slug": "lf-1424-size-l36xw27-8xh25-cm-51",
     "name": "LF 1424 - Size L36xW27 8xH25 CM",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 1424 - Size L36xW27 8xH25 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1424 - Size L36xW27 8xH25 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1424 - Size L36xW27 8xH25 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1424 - Size L36xW27 8xH25 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1424 - Size L36xW27 8xH25 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1424 - Size L36xW27 8xH25 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 35). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1767,29 +1767,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p35_LF_1424_51.png",
-    "imageUrl": "/images/products/prod_p35_LF_1424_51.png",
+    "image": "/images/products/page_35_full.png",
+    "imageUrl": "/images/products/page_35_full.png",
     "thumbnails": [
-      "/images/products/prod_p35_LF_1424_51.png",
-      "/images/products/prod_p35_LF_1424_51.png"
+      "/images/products/page_35_full.png",
+      "/images/products/page_35_full.png"
     ]
   },
   {
     "id": "52",
     "slug": "lf-1425-size-l44xw35xh82-cm-52",
     "name": "LF 1425 - Size L44xW35xH82 CM",
-    "price": "Quote on Request",
+    "price": "\u20b910,990",
     "category": "Preschool Furniture",
     "categoryId": "classroom",
     "categoryColor": "#7B68EE",
-    "shortDescription": "LF 1425 - Size L44xW35xH82 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1425 - Size L44xW35xH82 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1425 - Size L44xW35xH82 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1425 - Size L44xW35xH82 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1425 - Size L44xW35xH82 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1425 - Size L44xW35xH82 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 35). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1800,29 +1800,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p35_LF_1425_52.png",
-    "imageUrl": "/images/products/prod_p35_LF_1425_52.png",
+    "image": "/images/products/page_35_full.png",
+    "imageUrl": "/images/products/page_35_full.png",
     "thumbnails": [
-      "/images/products/prod_p35_LF_1425_52.png",
-      "/images/products/prod_p35_LF_1425_52.png"
+      "/images/products/page_35_full.png",
+      "/images/products/page_35_full.png"
     ]
   },
   {
     "id": "53",
     "slug": "lf-1426-size-l120xw29-5xh98-cm-53",
     "name": "LF 1426 - Size L120xW29 5xH98 CM",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1426 - Size L120xW29 5xH98 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1426 - Size L120xW29 5xH98 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1426 - Size L120xW29 5xH98 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1426 - Size L120xW29 5xH98 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1426 - Size L120xW29 5xH98 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1426 - Size L120xW29 5xH98 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 36). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1833,29 +1833,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p36_LF_1426_53.png",
-    "imageUrl": "/images/products/prod_p36_LF_1426_53.png",
+    "image": "/images/products/page_36_full.png",
+    "imageUrl": "/images/products/page_36_full.png",
     "thumbnails": [
-      "/images/products/prod_p36_LF_1426_53.png",
-      "/images/products/prod_p36_LF_1426_53.png"
+      "/images/products/page_36_full.png",
+      "/images/products/page_36_full.png"
     ]
   },
   {
     "id": "54",
     "slug": "lf-1428-size-l68xw30xh88-cm-54",
     "name": "LF 1428 - Size L68xW30xH88 CM",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1428 - Size L68xW30xH88 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1428 - Size L68xW30xH88 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1428 - Size L68xW30xH88 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1428 - Size L68xW30xH88 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1428 - Size L68xW30xH88 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1428 - Size L68xW30xH88 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 36). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1866,29 +1866,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p36_LF_1428_54.png",
-    "imageUrl": "/images/products/prod_p36_LF_1428_54.png",
+    "image": "/images/products/page_36_full.png",
+    "imageUrl": "/images/products/page_36_full.png",
     "thumbnails": [
-      "/images/products/prod_p36_LF_1428_54.png",
-      "/images/products/prod_p36_LF_1428_54.png"
+      "/images/products/page_36_full.png",
+      "/images/products/page_36_full.png"
     ]
   },
   {
     "id": "55",
     "slug": "lf-1427-size-l122xw30xh109-5-cm-55",
     "name": "LF 1427 - Size L122xW30xH109 5 CM",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1427 - Size L122xW30xH109 5 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1427 - Size L122xW30xH109 5 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1427 - Size L122xW30xH109 5 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1427 - Size L122xW30xH109 5 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1427 - Size L122xW30xH109 5 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1427 - Size L122xW30xH109 5 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 36). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1899,29 +1899,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p36_LF_1427_55.png",
-    "imageUrl": "/images/products/prod_p36_LF_1427_55.png",
+    "image": "/images/products/page_36_full.png",
+    "imageUrl": "/images/products/page_36_full.png",
     "thumbnails": [
-      "/images/products/prod_p36_LF_1427_55.png",
-      "/images/products/prod_p36_LF_1427_55.png"
+      "/images/products/page_36_full.png",
+      "/images/products/page_36_full.png"
     ]
   },
   {
     "id": "56",
     "slug": "lf-1451-size-l120xw30xh80-cm-56",
     "name": "LF 1451 - Size L120xW30xH80 CM",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1451 - Size L120xW30xH80 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1451 - Size L120xW30xH80 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1451 - Size L120xW30xH80 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1451 - Size L120xW30xH80 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1451 - Size L120xW30xH80 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1451 - Size L120xW30xH80 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 37). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1932,29 +1932,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p37_LF_1451_56.png",
-    "imageUrl": "/images/products/prod_p37_LF_1451_56.png",
+    "image": "/images/products/page_37_full.png",
+    "imageUrl": "/images/products/page_37_full.png",
     "thumbnails": [
-      "/images/products/prod_p37_LF_1451_56.png",
-      "/images/products/prod_p37_LF_1451_56.png"
+      "/images/products/page_37_full.png",
+      "/images/products/page_37_full.png"
     ]
   },
   {
     "id": "57",
     "slug": "lf-1452-size-l120xw30xh80-cm-57",
     "name": "LF 1452 - Size L120xW30xH80 CM",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1452 - Size L120xW30xH80 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1452 - Size L120xW30xH80 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1452 - Size L120xW30xH80 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1452 - Size L120xW30xH80 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1452 - Size L120xW30xH80 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1452 - Size L120xW30xH80 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 37). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1965,29 +1965,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p37_LF_1452_57.png",
-    "imageUrl": "/images/products/prod_p37_LF_1452_57.png",
+    "image": "/images/products/page_37_full.png",
+    "imageUrl": "/images/products/page_37_full.png",
     "thumbnails": [
-      "/images/products/prod_p37_LF_1452_57.png",
-      "/images/products/prod_p37_LF_1452_57.png"
+      "/images/products/page_37_full.png",
+      "/images/products/page_37_full.png"
     ]
   },
   {
     "id": "58",
     "slug": "lf-1453-size-l80xw40xh67-cm-58",
     "name": "LF 1453 - Size L80xW40xH67 CM",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1453 - Size L80xW40xH67 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1453 - Size L80xW40xH67 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1453 - Size L80xW40xH67 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1453 - Size L80xW40xH67 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1453 - Size L80xW40xH67 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1453 - Size L80xW40xH67 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 37). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -1998,29 +1998,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p37_LF_1453_58.png",
-    "imageUrl": "/images/products/prod_p37_LF_1453_58.png",
+    "image": "/images/products/page_37_full.png",
+    "imageUrl": "/images/products/page_37_full.png",
     "thumbnails": [
-      "/images/products/prod_p37_LF_1453_58.png",
-      "/images/products/prod_p37_LF_1453_58.png"
+      "/images/products/page_37_full.png",
+      "/images/products/page_37_full.png"
     ]
   },
   {
     "id": "59",
     "slug": "lf-1454-size-l80xw40xh67-cm-59",
     "name": "LF 1454 - Size L80xW40xH67 CM",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1454 - Size L80xW40xH67 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1454 - Size L80xW40xH67 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1454 - Size L80xW40xH67 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1454 - Size L80xW40xH67 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1454 - Size L80xW40xH67 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1454 - Size L80xW40xH67 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 37). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2031,29 +2031,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p37_LF_1454_59.png",
-    "imageUrl": "/images/products/prod_p37_LF_1454_59.png",
+    "image": "/images/products/page_37_full.png",
+    "imageUrl": "/images/products/page_37_full.png",
     "thumbnails": [
-      "/images/products/prod_p37_LF_1454_59.png",
-      "/images/products/prod_p37_LF_1454_59.png"
+      "/images/products/page_37_full.png",
+      "/images/products/page_37_full.png"
     ]
   },
   {
     "id": "60",
     "slug": "lf-1455-size-l104xw30xh80-cm-60",
     "name": "LF 1455 - Size L104xW30xH80 CM",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1455 - Size L104xW30xH80 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1455 - Size L104xW30xH80 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1455 - Size L104xW30xH80 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1455 - Size L104xW30xH80 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1455 - Size L104xW30xH80 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1455 - Size L104xW30xH80 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 37). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2064,29 +2064,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p37_LF_1455_60.png",
-    "imageUrl": "/images/products/prod_p37_LF_1455_60.png",
+    "image": "/images/products/page_37_full.png",
+    "imageUrl": "/images/products/page_37_full.png",
     "thumbnails": [
-      "/images/products/prod_p37_LF_1455_60.png",
-      "/images/products/prod_p37_LF_1455_60.png"
+      "/images/products/page_37_full.png",
+      "/images/products/page_37_full.png"
     ]
   },
   {
     "id": "61",
     "slug": "lf-1456-size-l84xw30xh80-cm-61",
     "name": "LF 1456 - Size L84xW30xH80 CM",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1456 - Size L84xW30xH80 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1456 - Size L84xW30xH80 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1456 - Size L84xW30xH80 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1456 - Size L84xW30xH80 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1456 - Size L84xW30xH80 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1456 - Size L84xW30xH80 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 37). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2097,29 +2097,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p37_LF_1456_61.png",
-    "imageUrl": "/images/products/prod_p37_LF_1456_61.png",
+    "image": "/images/products/page_37_full.png",
+    "imageUrl": "/images/products/page_37_full.png",
     "thumbnails": [
-      "/images/products/prod_p37_LF_1456_61.png",
-      "/images/products/prod_p37_LF_1456_61.png"
+      "/images/products/page_37_full.png",
+      "/images/products/page_37_full.png"
     ]
   },
   {
     "id": "62",
     "slug": "lf-1501-size-l90xw20xh58-cm-62",
     "name": "LF 1501 - Size L90xW20xH58 CM",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1501 - Size L90xW20xH58 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1501 - Size L90xW20xH58 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1501 - Size L90xW20xH58 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1501 - Size L90xW20xH58 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1501 - Size L90xW20xH58 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1501 - Size L90xW20xH58 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 38). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2130,29 +2130,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p38_LF_1501_62.png",
-    "imageUrl": "/images/products/prod_p38_LF_1501_62.png",
+    "image": "/images/products/page_38_full.png",
+    "imageUrl": "/images/products/page_38_full.png",
     "thumbnails": [
-      "/images/products/prod_p38_LF_1501_62.png",
-      "/images/products/prod_p38_LF_1501_62.png"
+      "/images/products/page_38_full.png",
+      "/images/products/page_38_full.png"
     ]
   },
   {
     "id": "63",
     "slug": "lf-1503-size-l90xw20xh58-cm-63",
     "name": "LF 1503 - Size L90xW20xH58 CM",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1503 - Size L90xW20xH58 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1503 - Size L90xW20xH58 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1503 - Size L90xW20xH58 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1503 - Size L90xW20xH58 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1503 - Size L90xW20xH58 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1503 - Size L90xW20xH58 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 38). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2163,29 +2163,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p38_LF_1503_63.png",
-    "imageUrl": "/images/products/prod_p38_LF_1503_63.png",
+    "image": "/images/products/page_38_full.png",
+    "imageUrl": "/images/products/page_38_full.png",
     "thumbnails": [
-      "/images/products/prod_p38_LF_1503_63.png",
-      "/images/products/prod_p38_LF_1503_63.png"
+      "/images/products/page_38_full.png",
+      "/images/products/page_38_full.png"
     ]
   },
   {
     "id": "64",
     "slug": "lf-1502-size-l90xw20xh58-cm-64",
     "name": "LF 1502 - Size L90xW20xH58 CM",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1502 - Size L90xW20xH58 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1502 - Size L90xW20xH58 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1502 - Size L90xW20xH58 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1502 - Size L90xW20xH58 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1502 - Size L90xW20xH58 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1502 - Size L90xW20xH58 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 38). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2196,29 +2196,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p38_LF_1502_64.png",
-    "imageUrl": "/images/products/prod_p38_LF_1502_64.png",
+    "image": "/images/products/page_38_full.png",
+    "imageUrl": "/images/products/page_38_full.png",
     "thumbnails": [
-      "/images/products/prod_p38_LF_1502_64.png",
-      "/images/products/prod_p38_LF_1502_64.png"
+      "/images/products/page_38_full.png",
+      "/images/products/page_38_full.png"
     ]
   },
   {
     "id": "65",
     "slug": "lf-1504-size-l90xw20xh92-cm-65",
     "name": "LF 1504 - Size L90xW20xH92 CM",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1504 - Size L90xW20xH92 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1504 - Size L90xW20xH92 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1504 - Size L90xW20xH92 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1504 - Size L90xW20xH92 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1504 - Size L90xW20xH92 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1504 - Size L90xW20xH92 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 38). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2229,29 +2229,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p38_LF_1504_65.png",
-    "imageUrl": "/images/products/prod_p38_LF_1504_65.png",
+    "image": "/images/products/page_38_full.png",
+    "imageUrl": "/images/products/page_38_full.png",
     "thumbnails": [
-      "/images/products/prod_p38_LF_1504_65.png",
-      "/images/products/prod_p38_LF_1504_65.png"
+      "/images/products/page_38_full.png",
+      "/images/products/page_38_full.png"
     ]
   },
   {
     "id": "66",
     "slug": "lf-1458-size-l124xw40xh50-cm-66",
     "name": "LF 1458 - Size L124xW40xH50 CM",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1458 - Size L124xW40xH50 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1458 - Size L124xW40xH50 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1458 - Size L124xW40xH50 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1458 - Size L124xW40xH50 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1458 - Size L124xW40xH50 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1458 - Size L124xW40xH50 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 38). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2262,29 +2262,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p38_LF_1458_66.png",
-    "imageUrl": "/images/products/prod_p38_LF_1458_66.png",
+    "image": "/images/products/page_38_full.png",
+    "imageUrl": "/images/products/page_38_full.png",
     "thumbnails": [
-      "/images/products/prod_p38_LF_1458_66.png",
-      "/images/products/prod_p38_LF_1458_66.png"
+      "/images/products/page_38_full.png",
+      "/images/products/page_38_full.png"
     ]
   },
   {
     "id": "67",
     "slug": "lf-1459-size-l298xw30xh116-cm-67",
     "name": "LF 1459 - Size L298xW30xH116 CM",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1459 - Size L298xW30xH116 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1459 - Size L298xW30xH116 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1459 - Size L298xW30xH116 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1459 - Size L298xW30xH116 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1459 - Size L298xW30xH116 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1459 - Size L298xW30xH116 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 38). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2295,29 +2295,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p38_LF_1459_67.png",
-    "imageUrl": "/images/products/prod_p38_LF_1459_67.png",
+    "image": "/images/products/page_38_full.png",
+    "imageUrl": "/images/products/page_38_full.png",
     "thumbnails": [
-      "/images/products/prod_p38_LF_1459_67.png",
-      "/images/products/prod_p38_LF_1459_67.png"
+      "/images/products/page_38_full.png",
+      "/images/products/page_38_full.png"
     ]
   },
   {
     "id": "68",
     "slug": "lf-1457-size-l124xw30xh80-cm-68",
     "name": "LF 1457 - Size L124xW30xH80 CM",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1457 - Size L124xW30xH80 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1457 - Size L124xW30xH80 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1457 - Size L124xW30xH80 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1457 - Size L124xW30xH80 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1457 - Size L124xW30xH80 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1457 - Size L124xW30xH80 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 38). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2328,326 +2328,326 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p38_LF_1457_68.png",
-    "imageUrl": "/images/products/prod_p38_LF_1457_68.png",
+    "image": "/images/products/page_38_full.png",
+    "imageUrl": "/images/products/page_38_full.png",
     "thumbnails": [
-      "/images/products/prod_p38_LF_1457_68.png",
-      "/images/products/prod_p38_LF_1457_68.png"
+      "/images/products/page_38_full.png",
+      "/images/products/page_38_full.png"
     ]
   },
   {
     "id": "69",
     "slug": "lf-0701-play-equipment-lf-0701-69",
     "name": "LF 0701 - Play Equipment LF 0701",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 0701 - Play Equipment LF 0701 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0701 - Play Equipment LF 0701 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0701 - Play Equipment LF 0701 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0701 - Play Equipment LF 0701 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0701 - Play Equipment LF 0701 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0701 - Play Equipment LF 0701 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 39). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p39_LF_0701_69.png",
-    "imageUrl": "/images/products/prod_p39_LF_0701_69.png",
+    "image": "/images/products/page_39_full.png",
+    "imageUrl": "/images/products/page_39_full.png",
     "thumbnails": [
-      "/images/products/prod_p39_LF_0701_69.png",
-      "/images/products/prod_p39_LF_0701_69.png"
+      "/images/products/page_39_full.png",
+      "/images/products/page_39_full.png"
     ]
   },
   {
     "id": "70",
     "slug": "lf-0702-play-equipment-lf-0702-70",
     "name": "LF 0702 - Play Equipment LF 0702",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 0702 - Play Equipment LF 0702 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0702 - Play Equipment LF 0702 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0702 - Play Equipment LF 0702 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0702 - Play Equipment LF 0702 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0702 - Play Equipment LF 0702 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0702 - Play Equipment LF 0702 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 39). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p39_LF_0702_70.png",
-    "imageUrl": "/images/products/prod_p39_LF_0702_70.png",
+    "image": "/images/products/page_39_full.png",
+    "imageUrl": "/images/products/page_39_full.png",
     "thumbnails": [
-      "/images/products/prod_p39_LF_0702_70.png",
-      "/images/products/prod_p39_LF_0702_70.png"
+      "/images/products/page_39_full.png",
+      "/images/products/page_39_full.png"
     ]
   },
   {
     "id": "71",
     "slug": "lf-0703-play-equipment-lf-0703-71",
     "name": "LF 0703 - Play Equipment LF 0703",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 0703 - Play Equipment LF 0703 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0703 - Play Equipment LF 0703 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0703 - Play Equipment LF 0703 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0703 - Play Equipment LF 0703 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0703 - Play Equipment LF 0703 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0703 - Play Equipment LF 0703 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 39). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p39_LF_0703_71.png",
-    "imageUrl": "/images/products/prod_p39_LF_0703_71.png",
+    "image": "/images/products/page_39_full.png",
+    "imageUrl": "/images/products/page_39_full.png",
     "thumbnails": [
-      "/images/products/prod_p39_LF_0703_71.png",
-      "/images/products/prod_p39_LF_0703_71.png"
+      "/images/products/page_39_full.png",
+      "/images/products/page_39_full.png"
     ]
   },
   {
     "id": "72",
     "slug": "lf-0704-play-equipment-lf-0704-72",
     "name": "LF 0704 - Play Equipment LF 0704",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 0704 - Play Equipment LF 0704 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0704 - Play Equipment LF 0704 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0704 - Play Equipment LF 0704 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0704 - Play Equipment LF 0704 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0704 - Play Equipment LF 0704 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0704 - Play Equipment LF 0704 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 39). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p39_LF_0704_72.png",
-    "imageUrl": "/images/products/prod_p39_LF_0704_72.png",
+    "image": "/images/products/page_39_full.png",
+    "imageUrl": "/images/products/page_39_full.png",
     "thumbnails": [
-      "/images/products/prod_p39_LF_0704_72.png",
-      "/images/products/prod_p39_LF_0704_72.png"
+      "/images/products/page_39_full.png",
+      "/images/products/page_39_full.png"
     ]
   },
   {
     "id": "73",
     "slug": "lf-0705-shapes-activity-carpets-73",
     "name": "LF 0705 - Shapes Activity Carpets",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 0705 - Shapes Activity Carpets is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0705 - Shapes Activity Carpets features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0705 - Shapes Activity Carpets is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0705 - Shapes Activity Carpets from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0705 - Shapes Activity Carpets is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0705 - Shapes Activity Carpets from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 39). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p39_LF_0705_73.png",
-    "imageUrl": "/images/products/prod_p39_LF_0705_73.png",
+    "image": "/images/products/page_39_full.png",
+    "imageUrl": "/images/products/page_39_full.png",
     "thumbnails": [
-      "/images/products/prod_p39_LF_0705_73.png",
-      "/images/products/prod_p39_LF_0705_73.png"
+      "/images/products/page_39_full.png",
+      "/images/products/page_39_full.png"
     ]
   },
   {
     "id": "74",
     "slug": "lf-401-play-equipment-lf-401-74",
     "name": "LF 401 - Play Equipment LF 401",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 401 - Play Equipment LF 401 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 401 - Play Equipment LF 401 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 401 - Play Equipment LF 401 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 401 - Play Equipment LF 401 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 401 - Play Equipment LF 401 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 401 - Play Equipment LF 401 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 40). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p40_LF_401_74.png",
-    "imageUrl": "/images/products/prod_p40_LF_401_74.png",
+    "image": "/images/products/page_40_full.png",
+    "imageUrl": "/images/products/page_40_full.png",
     "thumbnails": [
-      "/images/products/prod_p40_LF_401_74.png",
-      "/images/products/prod_p40_LF_401_74.png"
+      "/images/products/page_40_full.png",
+      "/images/products/page_40_full.png"
     ]
   },
   {
     "id": "75",
     "slug": "lf-402-single-seater-giraffe-desk-75",
     "name": "LF 402 - Single Seater Giraffe Desk",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 402 - Single Seater Giraffe Desk is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 402 - Single Seater Giraffe Desk features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 402 - Single Seater Giraffe Desk is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 402 - Single Seater Giraffe Desk from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 402 - Single Seater Giraffe Desk is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 402 - Single Seater Giraffe Desk from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 40). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p40_LF_402_75.png",
-    "imageUrl": "/images/products/prod_p40_LF_402_75.png",
+    "image": "/images/products/page_40_full.png",
+    "imageUrl": "/images/products/page_40_full.png",
     "thumbnails": [
-      "/images/products/prod_p40_LF_402_75.png",
-      "/images/products/prod_p40_LF_402_75.png"
+      "/images/products/page_40_full.png",
+      "/images/products/page_40_full.png"
     ]
   },
   {
     "id": "76",
     "slug": "lf-411-play-equipment-lf-411-76",
     "name": "LF 411 - Play Equipment LF 411",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 411 - Play Equipment LF 411 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 411 - Play Equipment LF 411 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 411 - Play Equipment LF 411 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 411 - Play Equipment LF 411 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 411 - Play Equipment LF 411 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 411 - Play Equipment LF 411 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 41). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p41_LF_411_76.png",
-    "imageUrl": "/images/products/prod_p41_LF_411_76.png",
+    "image": "/images/products/page_41_full.png",
+    "imageUrl": "/images/products/page_41_full.png",
     "thumbnails": [
-      "/images/products/prod_p41_LF_411_76.png",
-      "/images/products/prod_p41_LF_411_76.png"
+      "/images/products/page_41_full.png",
+      "/images/products/page_41_full.png"
     ]
   },
   {
     "id": "77",
     "slug": "lf-412-double-seater-giraffe-desk-77",
     "name": "LF 412 - Double Seater Giraffe Desk",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 412 - Double Seater Giraffe Desk is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 412 - Double Seater Giraffe Desk features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 412 - Double Seater Giraffe Desk is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 412 - Double Seater Giraffe Desk from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 412 - Double Seater Giraffe Desk is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 412 - Double Seater Giraffe Desk from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 41). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p41_LF_412_77.png",
-    "imageUrl": "/images/products/prod_p41_LF_412_77.png",
+    "image": "/images/products/page_41_full.png",
+    "imageUrl": "/images/products/page_41_full.png",
     "thumbnails": [
-      "/images/products/prod_p41_LF_412_77.png",
-      "/images/products/prod_p41_LF_412_77.png"
+      "/images/products/page_41_full.png",
+      "/images/products/page_41_full.png"
     ]
   },
   {
     "id": "78",
     "slug": "lf-1481-play-equipment-lf-1481-78",
     "name": "LF 1481 - Play Equipment LF 1481",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1481 - Play Equipment LF 1481 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1481 - Play Equipment LF 1481 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1481 - Play Equipment LF 1481 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1481 - Play Equipment LF 1481 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1481 - Play Equipment LF 1481 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1481 - Play Equipment LF 1481 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 42). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2658,29 +2658,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p42_LF_1481_78.png",
-    "imageUrl": "/images/products/prod_p42_LF_1481_78.png",
+    "image": "/images/products/page_42_full.png",
+    "imageUrl": "/images/products/page_42_full.png",
     "thumbnails": [
-      "/images/products/prod_p42_LF_1481_78.png",
-      "/images/products/prod_p42_LF_1481_78.png"
+      "/images/products/page_42_full.png",
+      "/images/products/page_42_full.png"
     ]
   },
   {
     "id": "79",
     "slug": "lf-1482-play-equipment-lf-1482-79",
     "name": "LF 1482 - Play Equipment LF 1482",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1482 - Play Equipment LF 1482 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1482 - Play Equipment LF 1482 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1482 - Play Equipment LF 1482 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1482 - Play Equipment LF 1482 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1482 - Play Equipment LF 1482 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1482 - Play Equipment LF 1482 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 42). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2691,29 +2691,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p42_LF_1482_79.png",
-    "imageUrl": "/images/products/prod_p42_LF_1482_79.png",
+    "image": "/images/products/page_42_full.png",
+    "imageUrl": "/images/products/page_42_full.png",
     "thumbnails": [
-      "/images/products/prod_p42_LF_1482_79.png",
-      "/images/products/prod_p42_LF_1482_79.png"
+      "/images/products/page_42_full.png",
+      "/images/products/page_42_full.png"
     ]
   },
   {
     "id": "80",
     "slug": "lf-1483-play-equipment-lf-1483-80",
     "name": "LF 1483 - Play Equipment LF 1483",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1483 - Play Equipment LF 1483 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1483 - Play Equipment LF 1483 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1483 - Play Equipment LF 1483 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1483 - Play Equipment LF 1483 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1483 - Play Equipment LF 1483 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1483 - Play Equipment LF 1483 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 42). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2724,29 +2724,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p42_LF_1483_80.png",
-    "imageUrl": "/images/products/prod_p42_LF_1483_80.png",
+    "image": "/images/products/page_42_full.png",
+    "imageUrl": "/images/products/page_42_full.png",
     "thumbnails": [
-      "/images/products/prod_p42_LF_1483_80.png",
-      "/images/products/prod_p42_LF_1483_80.png"
+      "/images/products/page_42_full.png",
+      "/images/products/page_42_full.png"
     ]
   },
   {
     "id": "81",
     "slug": "lf-1484-play-equipment-lf-1484-81",
     "name": "LF 1484 - Play Equipment LF 1484",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1484 - Play Equipment LF 1484 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1484 - Play Equipment LF 1484 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1484 - Play Equipment LF 1484 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1484 - Play Equipment LF 1484 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1484 - Play Equipment LF 1484 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1484 - Play Equipment LF 1484 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 42). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2757,29 +2757,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p42_LF_1484_81.png",
-    "imageUrl": "/images/products/prod_p42_LF_1484_81.png",
+    "image": "/images/products/page_42_full.png",
+    "imageUrl": "/images/products/page_42_full.png",
     "thumbnails": [
-      "/images/products/prod_p42_LF_1484_81.png",
-      "/images/products/prod_p42_LF_1484_81.png"
+      "/images/products/page_42_full.png",
+      "/images/products/page_42_full.png"
     ]
   },
   {
     "id": "82",
     "slug": "lf-1485-play-equipment-lf-1485-82",
     "name": "LF 1485 - Play Equipment LF 1485",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1485 - Play Equipment LF 1485 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1485 - Play Equipment LF 1485 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1485 - Play Equipment LF 1485 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1485 - Play Equipment LF 1485 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1485 - Play Equipment LF 1485 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1485 - Play Equipment LF 1485 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 42). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2790,29 +2790,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p42_LF_1485_82.png",
-    "imageUrl": "/images/products/prod_p42_LF_1485_82.png",
+    "image": "/images/products/page_42_full.png",
+    "imageUrl": "/images/products/page_42_full.png",
     "thumbnails": [
-      "/images/products/prod_p42_LF_1485_82.png",
-      "/images/products/prod_p42_LF_1485_82.png"
+      "/images/products/page_42_full.png",
+      "/images/products/page_42_full.png"
     ]
   },
   {
     "id": "83",
     "slug": "lf-1486-play-equipment-lf-1486-83",
     "name": "LF 1486 - Play Equipment LF 1486",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 1486 - Play Equipment LF 1486 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1486 - Play Equipment LF 1486 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1486 - Play Equipment LF 1486 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1486 - Play Equipment LF 1486 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1486 - Play Equipment LF 1486 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1486 - Play Equipment LF 1486 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 42). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2823,29 +2823,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p42_LF_1486_83.png",
-    "imageUrl": "/images/products/prod_p42_LF_1486_83.png",
+    "image": "/images/products/page_42_full.png",
+    "imageUrl": "/images/products/page_42_full.png",
     "thumbnails": [
-      "/images/products/prod_p42_LF_1486_83.png",
-      "/images/products/prod_p42_LF_1486_83.png"
+      "/images/products/page_42_full.png",
+      "/images/products/page_42_full.png"
     ]
   },
   {
     "id": "84",
     "slug": "lf-0421-play-animal-seating-84",
     "name": "LF 0421 - Play Animal Seating",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 0421 - Play Animal Seating is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0421 - Play Animal Seating features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0421 - Play Animal Seating is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0421 - Play Animal Seating from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0421 - Play Animal Seating is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0421 - Play Animal Seating from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 43). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -2856,176 +2856,176 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p43_LF_0421_84.png",
-    "imageUrl": "/images/products/prod_p43_LF_0421_84.png",
+    "image": "/images/products/page_43_full.png",
+    "imageUrl": "/images/products/page_43_full.png",
     "thumbnails": [
-      "/images/products/prod_p43_LF_0421_84.png",
-      "/images/products/prod_p43_LF_0421_84.png"
+      "/images/products/page_43_full.png",
+      "/images/products/page_43_full.png"
     ]
   },
   {
     "id": "85",
     "slug": "lf-0422-play-crocodile-seating-85",
     "name": "LF 0422 - Play Crocodile Seating",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 0422 - Play Crocodile Seating is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0422 - Play Crocodile Seating features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0422 - Play Crocodile Seating is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0422 - Play Crocodile Seating from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0422 - Play Crocodile Seating is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0422 - Play Crocodile Seating from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 43). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p43_LF_0422_85.png",
-    "imageUrl": "/images/products/prod_p43_LF_0422_85.png",
+    "image": "/images/products/page_43_full.png",
+    "imageUrl": "/images/products/page_43_full.png",
     "thumbnails": [
-      "/images/products/prod_p43_LF_0422_85.png",
-      "/images/products/prod_p43_LF_0422_85.png"
+      "/images/products/page_43_full.png",
+      "/images/products/page_43_full.png"
     ]
   },
   {
     "id": "86",
     "slug": "lf-0423-play-slark-seating-86",
     "name": "LF 0423 - Play Slark Seating",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 0423 - Play Slark Seating is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 0423 - Play Slark Seating features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 0423 - Play Slark Seating is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 0423 - Play Slark Seating from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 0423 - Play Slark Seating is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 0423 - Play Slark Seating from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 43). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p43_LF_0423_86.png",
-    "imageUrl": "/images/products/prod_p43_LF_0423_86.png",
+    "image": "/images/products/page_43_full.png",
+    "imageUrl": "/images/products/page_43_full.png",
     "thumbnails": [
-      "/images/products/prod_p43_LF_0423_86.png",
-      "/images/products/prod_p43_LF_0423_86.png"
+      "/images/products/page_43_full.png",
+      "/images/products/page_43_full.png"
     ]
   },
   {
     "id": "87",
     "slug": "lf-960-play-equipment-lf-960-87",
     "name": "LF 960 - Play Equipment LF 960",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 960 - Play Equipment LF 960 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 960 - Play Equipment LF 960 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 960 - Play Equipment LF 960 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 960 - Play Equipment LF 960 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 960 - Play Equipment LF 960 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 960 - Play Equipment LF 960 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 44). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p44_LF_960_87.png",
-    "imageUrl": "/images/products/prod_p44_LF_960_87.png",
+    "image": "/images/products/page_44_full.png",
+    "imageUrl": "/images/products/page_44_full.png",
     "thumbnails": [
-      "/images/products/prod_p44_LF_960_87.png",
-      "/images/products/prod_p44_LF_960_87.png"
+      "/images/products/page_44_full.png",
+      "/images/products/page_44_full.png"
     ]
   },
   {
     "id": "88",
     "slug": "lf-136-play-equipment-lf-136-88",
     "name": "LF 136 - Play Equipment LF 136",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 136 - Play Equipment LF 136 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 136 - Play Equipment LF 136 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 136 - Play Equipment LF 136 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 136 - Play Equipment LF 136 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 136 - Play Equipment LF 136 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 136 - Play Equipment LF 136 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 45). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p45_LF_136_88.png",
-    "imageUrl": "/images/products/prod_p45_LF_136_88.png",
+    "image": "/images/products/page_45_full.png",
+    "imageUrl": "/images/products/page_45_full.png",
     "thumbnails": [
-      "/images/products/prod_p45_LF_136_88.png",
-      "/images/products/prod_p45_LF_136_88.png"
+      "/images/products/page_45_full.png",
+      "/images/products/page_45_full.png"
     ]
   },
   {
     "id": "89",
     "slug": "lf-507-children-bed-89",
     "name": "LF 507 - Children Bed",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 507 - Children Bed is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 507 - Children Bed features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 507 - Children Bed is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 507 - Children Bed from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 507 - Children Bed is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 507 - Children Bed from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 45). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p45_LF_507_89.png",
-    "imageUrl": "/images/products/prod_p45_LF_507_89.png",
+    "image": "/images/products/page_45_full.png",
+    "imageUrl": "/images/products/page_45_full.png",
     "thumbnails": [
-      "/images/products/prod_p45_LF_507_89.png",
-      "/images/products/prod_p45_LF_507_89.png"
+      "/images/products/page_45_full.png",
+      "/images/products/page_45_full.png"
     ]
   },
   {
@@ -3036,14 +3036,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 106 - Plastic Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 106 - Plastic Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 106 - Plastic Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 106 - Plastic Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 106 - Plastic Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 106 - Plastic Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3054,11 +3054,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_106_90.png",
-    "imageUrl": "/images/products/prod_p46_LF_106_90.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_106_90.png",
-      "/images/products/prod_p46_LF_106_90.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
@@ -3069,14 +3069,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 116 - Plastic Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 116 - Plastic Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 116 - Plastic Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 116 - Plastic Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 116 - Plastic Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 116 - Plastic Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3087,77 +3087,77 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_116_91.png",
-    "imageUrl": "/images/products/prod_p46_LF_116_91.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_116_91.png",
-      "/images/products/prod_p46_LF_116_91.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
     "id": "92",
     "slug": "lf-186-play-equipment-lf-186-92",
     "name": "LF 186 - Play Equipment LF 186",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 186 - Play Equipment LF 186 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 186 - Play Equipment LF 186 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 186 - Play Equipment LF 186 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 186 - Play Equipment LF 186 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 186 - Play Equipment LF 186 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 186 - Play Equipment LF 186 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_186_92.png",
-    "imageUrl": "/images/products/prod_p46_LF_186_92.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_186_92.png",
-      "/images/products/prod_p46_LF_186_92.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
     "id": "93",
     "slug": "lf-146-play-equipment-lf-146-93",
     "name": "LF 146 - Play Equipment LF 146",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 146 - Play Equipment LF 146 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 146 - Play Equipment LF 146 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 146 - Play Equipment LF 146 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 146 - Play Equipment LF 146 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 146 - Play Equipment LF 146 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 146 - Play Equipment LF 146 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_146_93.png",
-    "imageUrl": "/images/products/prod_p46_LF_146_93.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_146_93.png",
-      "/images/products/prod_p46_LF_146_93.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
@@ -3168,14 +3168,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 176 - Metal Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 176 - Metal Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 176 - Metal Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 176 - Metal Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 176 - Metal Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 176 - Metal Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3186,11 +3186,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_176_94.png",
-    "imageUrl": "/images/products/prod_p46_LF_176_94.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_176_94.png",
-      "/images/products/prod_p46_LF_176_94.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
@@ -3201,14 +3201,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 126 - Plastic Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 126 - Plastic Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 126 - Plastic Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 126 - Plastic Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 126 - Plastic Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 126 - Plastic Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3219,11 +3219,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_126_95.png",
-    "imageUrl": "/images/products/prod_p46_LF_126_95.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_126_95.png",
-      "/images/products/prod_p46_LF_126_95.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
@@ -3234,14 +3234,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 127 - Plastic Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 127 - Plastic Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 127 - Plastic Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 127 - Plastic Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 127 - Plastic Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 127 - Plastic Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3252,11 +3252,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_127_96.png",
-    "imageUrl": "/images/products/prod_p46_LF_127_96.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_127_96.png",
-      "/images/products/prod_p46_LF_127_96.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
@@ -3267,14 +3267,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 156 - Metal Handle Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 156 - Metal Handle Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 156 - Metal Handle Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 156 - Metal Handle Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 156 - Metal Handle Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 156 - Metal Handle Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3285,11 +3285,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_156_97.png",
-    "imageUrl": "/images/products/prod_p46_LF_156_97.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_156_97.png",
-      "/images/products/prod_p46_LF_156_97.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
@@ -3300,14 +3300,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 166 - Metal Handle Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 166 - Metal Handle Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 166 - Metal Handle Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 166 - Metal Handle Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 166 - Metal Handle Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 166 - Metal Handle Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3318,11 +3318,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_166_98.png",
-    "imageUrl": "/images/products/prod_p46_LF_166_98.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_166_98.png",
-      "/images/products/prod_p46_LF_166_98.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
@@ -3333,14 +3333,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 129 - Plastic Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 129 - Plastic Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 129 - Plastic Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 129 - Plastic Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 129 - Plastic Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 129 - Plastic Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3351,11 +3351,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_129_99.png",
-    "imageUrl": "/images/products/prod_p46_LF_129_99.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_129_99.png",
-      "/images/products/prod_p46_LF_129_99.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
@@ -3366,14 +3366,14 @@ export const products: Product[] = [
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 128 - Plastic Chair is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 128 - Plastic Chair features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 128 - Plastic Chair is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 128 - Plastic Chair from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 128 - Plastic Chair is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 128 - Plastic Chair from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 46). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3384,62 +3384,62 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p46_LF_128_100.png",
-    "imageUrl": "/images/products/prod_p46_LF_128_100.png",
+    "image": "/images/products/page_46_full.png",
+    "imageUrl": "/images/products/page_46_full.png",
     "thumbnails": [
-      "/images/products/prod_p46_LF_128_100.png",
-      "/images/products/prod_p46_LF_128_100.png"
+      "/images/products/page_46_full.png",
+      "/images/products/page_46_full.png"
     ]
   },
   {
     "id": "101",
     "slug": "lf-801-mini-home-kitchen-playhouse-101",
     "name": "LF 801 - Mini Home & Kitchen Playhouse",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 801 - Mini Home & Kitchen Playhouse is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 801 - Mini Home & Kitchen Playhouse features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 801 - Mini Home & Kitchen Playhouse is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 801 - Mini Home & Kitchen Playhouse from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 801 - Mini Home & Kitchen Playhouse is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 801 - Mini Home & Kitchen Playhouse from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 47). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p47_LF_801_101.png",
-    "imageUrl": "/images/products/prod_p47_LF_801_101.png",
+    "image": "/images/products/page_47_full.png",
+    "imageUrl": "/images/products/page_47_full.png",
     "thumbnails": [
-      "/images/products/prod_p47_LF_801_101.png",
-      "/images/products/prod_p47_LF_801_101.png"
+      "/images/products/page_47_full.png",
+      "/images/products/page_47_full.png"
     ]
   },
   {
     "id": "102",
     "slug": "lf-802-junior-living-house-102",
     "name": "LF 802 - Junior Living House",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 802 - Junior Living House is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 802 - Junior Living House features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 802 - Junior Living House is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 802 - Junior Living House from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 802 - Junior Living House is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 802 - Junior Living House from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 47). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3450,62 +3450,62 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p47_LF_802_102.png",
-    "imageUrl": "/images/products/prod_p47_LF_802_102.png",
+    "image": "/images/products/page_47_full.png",
+    "imageUrl": "/images/products/page_47_full.png",
     "thumbnails": [
-      "/images/products/prod_p47_LF_802_102.png",
-      "/images/products/prod_p47_LF_802_102.png"
+      "/images/products/page_47_full.png",
+      "/images/products/page_47_full.png"
     ]
   },
   {
     "id": "103",
     "slug": "lf-901-play-equipment-lf-901-103",
     "name": "LF 901 - Play Equipment LF 901",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 901 - Play Equipment LF 901 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 901 - Play Equipment LF 901 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 901 - Play Equipment LF 901 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 901 - Play Equipment LF 901 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 901 - Play Equipment LF 901 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 901 - Play Equipment LF 901 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 48). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p48_LF_901_103.png",
-    "imageUrl": "/images/products/prod_p48_LF_901_103.png",
+    "image": "/images/products/page_48_full.png",
+    "imageUrl": "/images/products/page_48_full.png",
     "thumbnails": [
-      "/images/products/prod_p48_LF_901_103.png",
-      "/images/products/prod_p48_LF_901_103.png"
+      "/images/products/page_48_full.png",
+      "/images/products/page_48_full.png"
     ]
   },
   {
     "id": "104",
     "slug": "lf-902-size-l103xw109xh131-cm-104",
     "name": "LF 902 - Size L103xW109xH131 CM",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 902 - Size L103xW109xH131 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 902 - Size L103xW109xH131 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 902 - Size L103xW109xH131 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 902 - Size L103xW109xH131 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 902 - Size L103xW109xH131 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 902 - Size L103xW109xH131 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 48). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3516,29 +3516,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p48_LF_902_104.png",
-    "imageUrl": "/images/products/prod_p48_LF_902_104.png",
+    "image": "/images/products/page_48_full.png",
+    "imageUrl": "/images/products/page_48_full.png",
     "thumbnails": [
-      "/images/products/prod_p48_LF_902_104.png",
-      "/images/products/prod_p48_LF_902_104.png"
+      "/images/products/page_48_full.png",
+      "/images/products/page_48_full.png"
     ]
   },
   {
     "id": "105",
     "slug": "lf-903-royal-cottage-105",
     "name": "LF 903 - Royal Cottage",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 903 - Royal Cottage is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 903 - Royal Cottage features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 903 - Royal Cottage is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 903 - Royal Cottage from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 903 - Royal Cottage is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 903 - Royal Cottage from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 49). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3549,29 +3549,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p49_LF_903_105.png",
-    "imageUrl": "/images/products/prod_p49_LF_903_105.png",
+    "image": "/images/products/page_49_full.png",
+    "imageUrl": "/images/products/page_49_full.png",
     "thumbnails": [
-      "/images/products/prod_p49_LF_903_105.png",
-      "/images/products/prod_p49_LF_903_105.png"
+      "/images/products/page_49_full.png",
+      "/images/products/page_49_full.png"
     ]
   },
   {
     "id": "106",
     "slug": "lf-904-classic-cottage-106",
     "name": "LF 904 - Classic Cottage",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 904 - Classic Cottage is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 904 - Classic Cottage features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 904 - Classic Cottage is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 904 - Classic Cottage from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 904 - Classic Cottage is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 904 - Classic Cottage from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 49). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3582,29 +3582,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p49_LF_904_106.png",
-    "imageUrl": "/images/products/prod_p49_LF_904_106.png",
+    "image": "/images/products/page_49_full.png",
+    "imageUrl": "/images/products/page_49_full.png",
     "thumbnails": [
-      "/images/products/prod_p49_LF_904_106.png",
-      "/images/products/prod_p49_LF_904_106.png"
+      "/images/products/page_49_full.png",
+      "/images/products/page_49_full.png"
     ]
   },
   {
     "id": "107",
     "slug": "lf-102-size-l204xw220xh180-cm-107",
     "name": "LF 102 - Size L204xW220xH180 CM",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 102 - Size L204xW220xH180 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 102 - Size L204xW220xH180 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 102 - Size L204xW220xH180 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 102 - Size L204xW220xH180 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 102 - Size L204xW220xH180 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 102 - Size L204xW220xH180 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 50). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3615,29 +3615,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p50_LF_102_107.png",
-    "imageUrl": "/images/products/prod_p50_LF_102_107.png",
+    "image": "/images/products/page_50_full.png",
+    "imageUrl": "/images/products/page_50_full.png",
     "thumbnails": [
-      "/images/products/prod_p50_LF_102_107.png",
-      "/images/products/prod_p50_LF_102_107.png"
+      "/images/products/page_50_full.png",
+      "/images/products/page_50_full.png"
     ]
   },
   {
     "id": "108",
     "slug": "lf-103-size-l274xw116xh134-cm-108",
     "name": "LF 103 - Size L274xW116xH134 CM",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 103 - Size L274xW116xH134 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 103 - Size L274xW116xH134 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 103 - Size L274xW116xH134 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 103 - Size L274xW116xH134 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 103 - Size L274xW116xH134 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 103 - Size L274xW116xH134 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 50). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3648,29 +3648,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p50_LF_103_108.png",
-    "imageUrl": "/images/products/prod_p50_LF_103_108.png",
+    "image": "/images/products/page_50_full.png",
+    "imageUrl": "/images/products/page_50_full.png",
     "thumbnails": [
-      "/images/products/prod_p50_LF_103_108.png",
-      "/images/products/prod_p50_LF_103_108.png"
+      "/images/products/page_50_full.png",
+      "/images/products/page_50_full.png"
     ]
   },
   {
     "id": "109",
     "slug": "lf-105-size-l274xw213xh152-cm-109",
     "name": "LF 105 - Size L274xW213xH152 CM",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Indoor Play Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 105 - Size L274xW213xH152 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 105 - Size L274xW213xH152 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 105 - Size L274xW213xH152 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 105 - Size L274xW213xH152 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 105 - Size L274xW213xH152 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 105 - Size L274xW213xH152 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 50). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3681,62 +3681,62 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p50_LF_105_109.png",
-    "imageUrl": "/images/products/prod_p50_LF_105_109.png",
+    "image": "/images/products/page_50_full.png",
+    "imageUrl": "/images/products/page_50_full.png",
     "thumbnails": [
-      "/images/products/prod_p50_LF_105_109.png",
-      "/images/products/prod_p50_LF_105_109.png"
+      "/images/products/page_50_full.png",
+      "/images/products/page_50_full.png"
     ]
   },
   {
     "id": "110",
     "slug": "lf-101-play-equipment-lf-101-110",
     "name": "LF 101 - Play Equipment LF 101",
-    "price": "Quote on Request",
+    "price": "\u20b96,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 101 - Play Equipment LF 101 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 101 - Play Equipment LF 101 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 101 - Play Equipment LF 101 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 101 - Play Equipment LF 101 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 101 - Play Equipment LF 101 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 101 - Play Equipment LF 101 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 51). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p51_LF_101_110.png",
-    "imageUrl": "/images/products/prod_p51_LF_101_110.png",
+    "image": "/images/products/page_51_full.png",
+    "imageUrl": "/images/products/page_51_full.png",
     "thumbnails": [
-      "/images/products/prod_p51_LF_101_110.png",
-      "/images/products/prod_p51_LF_101_110.png"
+      "/images/products/page_51_full.png",
+      "/images/products/page_51_full.png"
     ]
   },
   {
     "id": "111",
     "slug": "lf-912-rabbit-slide-111",
     "name": "LF 912 - Rabbit Slide",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 912 - Rabbit Slide is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 912 - Rabbit Slide features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 912 - Rabbit Slide is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 912 - Rabbit Slide from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 912 - Rabbit Slide is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 912 - Rabbit Slide from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 52). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3747,29 +3747,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p52_LF_912_111.png",
-    "imageUrl": "/images/products/prod_p52_LF_912_111.png",
+    "image": "/images/products/page_52_full.png",
+    "imageUrl": "/images/products/page_52_full.png",
     "thumbnails": [
-      "/images/products/prod_p52_LF_912_111.png",
-      "/images/products/prod_p52_LF_912_111.png"
+      "/images/products/page_52_full.png",
+      "/images/products/page_52_full.png"
     ]
   },
   {
     "id": "112",
     "slug": "lf-911-junior-slide-112",
     "name": "LF 911 - Junior Slide",
-    "price": "Quote on Request",
+    "price": "\u20b99,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 911 - Junior Slide is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 911 - Junior Slide features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 911 - Junior Slide is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 911 - Junior Slide from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 911 - Junior Slide is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 911 - Junior Slide from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 52). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3780,194 +3780,194 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p52_LF_911_112.png",
-    "imageUrl": "/images/products/prod_p52_LF_911_112.png",
+    "image": "/images/products/page_52_full.png",
+    "imageUrl": "/images/products/page_52_full.png",
     "thumbnails": [
-      "/images/products/prod_p52_LF_911_112.png",
-      "/images/products/prod_p52_LF_911_112.png"
+      "/images/products/page_52_full.png",
+      "/images/products/page_52_full.png"
     ]
   },
   {
     "id": "113",
     "slug": "lf-915-play-equipment-lf-915-113",
     "name": "LF 915 - Play Equipment LF 915",
-    "price": "Quote on Request",
+    "price": "\u20b912,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 915 - Play Equipment LF 915 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 915 - Play Equipment LF 915 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 915 - Play Equipment LF 915 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 915 - Play Equipment LF 915 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 915 - Play Equipment LF 915 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 915 - Play Equipment LF 915 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 53). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p53_LF_915_113.png",
-    "imageUrl": "/images/products/prod_p53_LF_915_113.png",
+    "image": "/images/products/page_53_full.png",
+    "imageUrl": "/images/products/page_53_full.png",
     "thumbnails": [
-      "/images/products/prod_p53_LF_915_113.png",
-      "/images/products/prod_p53_LF_915_113.png"
+      "/images/products/page_53_full.png",
+      "/images/products/page_53_full.png"
     ]
   },
   {
     "id": "114",
     "slug": "lf-917-play-equipment-lf-917-114",
     "name": "LF 917 - Play Equipment LF 917",
-    "price": "Quote on Request",
+    "price": "\u20b92,790",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 917 - Play Equipment LF 917 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 917 - Play Equipment LF 917 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 917 - Play Equipment LF 917 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 917 - Play Equipment LF 917 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 917 - Play Equipment LF 917 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 917 - Play Equipment LF 917 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 53). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p53_LF_917_114.png",
-    "imageUrl": "/images/products/prod_p53_LF_917_114.png",
+    "image": "/images/products/page_53_full.png",
+    "imageUrl": "/images/products/page_53_full.png",
     "thumbnails": [
-      "/images/products/prod_p53_LF_917_114.png",
-      "/images/products/prod_p53_LF_917_114.png"
+      "/images/products/page_53_full.png",
+      "/images/products/page_53_full.png"
     ]
   },
   {
     "id": "115",
     "slug": "lf-916-play-equipment-lf-916-115",
     "name": "LF 916 - Play Equipment LF 916",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 916 - Play Equipment LF 916 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 916 - Play Equipment LF 916 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 916 - Play Equipment LF 916 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 916 - Play Equipment LF 916 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 916 - Play Equipment LF 916 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 916 - Play Equipment LF 916 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 53). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p53_LF_916_115.png",
-    "imageUrl": "/images/products/prod_p53_LF_916_115.png",
+    "image": "/images/products/page_53_full.png",
+    "imageUrl": "/images/products/page_53_full.png",
     "thumbnails": [
-      "/images/products/prod_p53_LF_916_115.png",
-      "/images/products/prod_p53_LF_916_115.png"
+      "/images/products/page_53_full.png",
+      "/images/products/page_53_full.png"
     ]
   },
   {
     "id": "116",
     "slug": "lf-924-play-equipment-lf-924-116",
     "name": "LF 924 - Play Equipment LF 924",
-    "price": "Quote on Request",
+    "price": "\u20b96,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 924 - Play Equipment LF 924 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 924 - Play Equipment LF 924 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 924 - Play Equipment LF 924 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 924 - Play Equipment LF 924 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 924 - Play Equipment LF 924 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 924 - Play Equipment LF 924 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 54). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p54_LF_924_116.png",
-    "imageUrl": "/images/products/prod_p54_LF_924_116.png",
+    "image": "/images/products/page_54_full.png",
+    "imageUrl": "/images/products/page_54_full.png",
     "thumbnails": [
-      "/images/products/prod_p54_LF_924_116.png",
-      "/images/products/prod_p54_LF_924_116.png"
+      "/images/products/page_54_full.png",
+      "/images/products/page_54_full.png"
     ]
   },
   {
     "id": "117",
     "slug": "lf-922-play-equipment-lf-922-117",
     "name": "LF 922 - Play Equipment LF 922",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 922 - Play Equipment LF 922 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 922 - Play Equipment LF 922 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 922 - Play Equipment LF 922 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 922 - Play Equipment LF 922 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 922 - Play Equipment LF 922 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 922 - Play Equipment LF 922 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 54). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p54_LF_922_117.png",
-    "imageUrl": "/images/products/prod_p54_LF_922_117.png",
+    "image": "/images/products/page_54_full.png",
+    "imageUrl": "/images/products/page_54_full.png",
     "thumbnails": [
-      "/images/products/prod_p54_LF_922_117.png",
-      "/images/products/prod_p54_LF_922_117.png"
+      "/images/products/page_54_full.png",
+      "/images/products/page_54_full.png"
     ]
   },
   {
     "id": "118",
     "slug": "lf-921-size-l78xw94xh113-cm-118",
     "name": "LF 921 - Size L78xW94xH113 CM",
-    "price": "Quote on Request",
+    "price": "\u20b99,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 921 - Size L78xW94xH113 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 921 - Size L78xW94xH113 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 921 - Size L78xW94xH113 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 921 - Size L78xW94xH113 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 921 - Size L78xW94xH113 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 921 - Size L78xW94xH113 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 54). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -3978,29 +3978,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p54_LF_921_118.png",
-    "imageUrl": "/images/products/prod_p54_LF_921_118.png",
+    "image": "/images/products/page_54_full.png",
+    "imageUrl": "/images/products/page_54_full.png",
     "thumbnails": [
-      "/images/products/prod_p54_LF_921_118.png",
-      "/images/products/prod_p54_LF_921_118.png"
+      "/images/products/page_54_full.png",
+      "/images/products/page_54_full.png"
     ]
   },
   {
     "id": "119",
     "slug": "lf-919-size-l78xw94xh113-cm-119",
     "name": "LF 919 - Size L78xW94xH113 CM",
-    "price": "Quote on Request",
+    "price": "\u20b912,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 919 - Size L78xW94xH113 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 919 - Size L78xW94xH113 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 919 - Size L78xW94xH113 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 919 - Size L78xW94xH113 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 919 - Size L78xW94xH113 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 919 - Size L78xW94xH113 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 54). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4011,95 +4011,95 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p54_LF_919_119.png",
-    "imageUrl": "/images/products/prod_p54_LF_919_119.png",
+    "image": "/images/products/page_54_full.png",
+    "imageUrl": "/images/products/page_54_full.png",
     "thumbnails": [
-      "/images/products/prod_p54_LF_919_119.png",
-      "/images/products/prod_p54_LF_919_119.png"
+      "/images/products/page_54_full.png",
+      "/images/products/page_54_full.png"
     ]
   },
   {
     "id": "120",
     "slug": "lf-920-dolphin-slide-with-swing-120",
     "name": "LF 920 - Dolphin Slide with Swing",
-    "price": "Quote on Request",
+    "price": "\u20b92,790",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 920 - Dolphin Slide with Swing is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 920 - Dolphin Slide with Swing features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 920 - Dolphin Slide with Swing is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 920 - Dolphin Slide with Swing from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 920 - Dolphin Slide with Swing is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 920 - Dolphin Slide with Swing from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 54). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p54_LF_920_120.png",
-    "imageUrl": "/images/products/prod_p54_LF_920_120.png",
+    "image": "/images/products/page_54_full.png",
+    "imageUrl": "/images/products/page_54_full.png",
     "thumbnails": [
-      "/images/products/prod_p54_LF_920_120.png",
-      "/images/products/prod_p54_LF_920_120.png"
+      "/images/products/page_54_full.png",
+      "/images/products/page_54_full.png"
     ]
   },
   {
     "id": "121",
     "slug": "lf-923-dolphin-swing-121",
     "name": "LF 923 - Dolphin Swing",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 923 - Dolphin Swing is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 923 - Dolphin Swing features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 923 - Dolphin Swing is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 923 - Dolphin Swing from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 923 - Dolphin Swing is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 923 - Dolphin Swing from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 54). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p54_LF_923_121.png",
-    "imageUrl": "/images/products/prod_p54_LF_923_121.png",
+    "image": "/images/products/page_54_full.png",
+    "imageUrl": "/images/products/page_54_full.png",
     "thumbnails": [
-      "/images/products/prod_p54_LF_923_121.png",
-      "/images/products/prod_p54_LF_923_121.png"
+      "/images/products/page_54_full.png",
+      "/images/products/page_54_full.png"
     ]
   },
   {
     "id": "122",
     "slug": "lf-990-size-l162xw73xh96-cm-122",
     "name": "LF 990 - Size L162xW73xH96 CM",
-    "price": "Quote on Request",
+    "price": "\u20b96,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 990 - Size L162xW73xH96 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 990 - Size L162xW73xH96 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 990 - Size L162xW73xH96 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 990 - Size L162xW73xH96 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 990 - Size L162xW73xH96 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 990 - Size L162xW73xH96 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 55). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4110,29 +4110,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p55_LF_990_122.png",
-    "imageUrl": "/images/products/prod_p55_LF_990_122.png",
+    "image": "/images/products/page_55_full.png",
+    "imageUrl": "/images/products/page_55_full.png",
     "thumbnails": [
-      "/images/products/prod_p55_LF_990_122.png",
-      "/images/products/prod_p55_LF_990_122.png"
+      "/images/products/page_55_full.png",
+      "/images/products/page_55_full.png"
     ]
   },
   {
     "id": "123",
     "slug": "lf-972-size-l160xw85xh110-cm-123",
     "name": "LF 972 - Size L160xW85xH110 CM",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 972 - Size L160xW85xH110 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 972 - Size L160xW85xH110 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 972 - Size L160xW85xH110 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 972 - Size L160xW85xH110 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 972 - Size L160xW85xH110 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 972 - Size L160xW85xH110 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 55). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4143,29 +4143,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p55_LF_972_123.png",
-    "imageUrl": "/images/products/prod_p55_LF_972_123.png",
+    "image": "/images/products/page_55_full.png",
+    "imageUrl": "/images/products/page_55_full.png",
     "thumbnails": [
-      "/images/products/prod_p55_LF_972_123.png",
-      "/images/products/prod_p55_LF_972_123.png"
+      "/images/products/page_55_full.png",
+      "/images/products/page_55_full.png"
     ]
   },
   {
     "id": "124",
     "slug": "lf-971-size-l168xw86xh114-cm-124",
     "name": "LF 971 - Size L168xW86xH114 CM",
-    "price": "Quote on Request",
+    "price": "\u20b99,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 971 - Size L168xW86xH114 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 971 - Size L168xW86xH114 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 971 - Size L168xW86xH114 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 971 - Size L168xW86xH114 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 971 - Size L168xW86xH114 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 971 - Size L168xW86xH114 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 55). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4176,29 +4176,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p55_LF_971_124.png",
-    "imageUrl": "/images/products/prod_p55_LF_971_124.png",
+    "image": "/images/products/page_55_full.png",
+    "imageUrl": "/images/products/page_55_full.png",
     "thumbnails": [
-      "/images/products/prod_p55_LF_971_124.png",
-      "/images/products/prod_p55_LF_971_124.png"
+      "/images/products/page_55_full.png",
+      "/images/products/page_55_full.png"
     ]
   },
   {
     "id": "125",
     "slug": "lf-970-size-l168xw86xh108-cm-125",
     "name": "LF 970 - Size L168xW86xH108 CM",
-    "price": "Quote on Request",
+    "price": "\u20b912,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 970 - Size L168xW86xH108 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 970 - Size L168xW86xH108 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 970 - Size L168xW86xH108 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 970 - Size L168xW86xH108 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 970 - Size L168xW86xH108 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 970 - Size L168xW86xH108 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 55). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4209,62 +4209,62 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p55_LF_970_125.png",
-    "imageUrl": "/images/products/prod_p55_LF_970_125.png",
+    "image": "/images/products/page_55_full.png",
+    "imageUrl": "/images/products/page_55_full.png",
     "thumbnails": [
-      "/images/products/prod_p55_LF_970_125.png",
-      "/images/products/prod_p55_LF_970_125.png"
+      "/images/products/page_55_full.png",
+      "/images/products/page_55_full.png"
     ]
   },
   {
     "id": "126",
     "slug": "lf-976-play-equipment-lf-976-126",
     "name": "LF 976 - Play Equipment LF 976",
-    "price": "Quote on Request",
+    "price": "\u20b92,790",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 976 - Play Equipment LF 976 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 976 - Play Equipment LF 976 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 976 - Play Equipment LF 976 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 976 - Play Equipment LF 976 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 976 - Play Equipment LF 976 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 976 - Play Equipment LF 976 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 56). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p56_LF_976_126.png",
-    "imageUrl": "/images/products/prod_p56_LF_976_126.png",
+    "image": "/images/products/page_56_full.png",
+    "imageUrl": "/images/products/page_56_full.png",
     "thumbnails": [
-      "/images/products/prod_p56_LF_976_126.png",
-      "/images/products/prod_p56_LF_976_126.png"
+      "/images/products/page_56_full.png",
+      "/images/products/page_56_full.png"
     ]
   },
   {
     "id": "127",
     "slug": "lf-973-size-l160xw170xh114-cm-127",
     "name": "LF 973 - Size L160XW170xH114 CM",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 973 - Size L160XW170xH114 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 973 - Size L160XW170xH114 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 973 - Size L160XW170xH114 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 973 - Size L160XW170xH114 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 973 - Size L160XW170xH114 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 973 - Size L160XW170xH114 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 56). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4275,128 +4275,128 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p56_LF_973_127.png",
-    "imageUrl": "/images/products/prod_p56_LF_973_127.png",
+    "image": "/images/products/page_56_full.png",
+    "imageUrl": "/images/products/page_56_full.png",
     "thumbnails": [
-      "/images/products/prod_p56_LF_973_127.png",
-      "/images/products/prod_p56_LF_973_127.png"
+      "/images/products/page_56_full.png",
+      "/images/products/page_56_full.png"
     ]
   },
   {
     "id": "128",
     "slug": "lf-975-multicolour-slide-with-swing-128",
     "name": "LF 975 - Multicolour Slide with Swing",
-    "price": "Quote on Request",
+    "price": "\u20b96,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 975 - Multicolour Slide with Swing is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 975 - Multicolour Slide with Swing features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 975 - Multicolour Slide with Swing is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 975 - Multicolour Slide with Swing from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 975 - Multicolour Slide with Swing is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 975 - Multicolour Slide with Swing from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 56). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p56_LF_975_128.png",
-    "imageUrl": "/images/products/prod_p56_LF_975_128.png",
+    "image": "/images/products/page_56_full.png",
+    "imageUrl": "/images/products/page_56_full.png",
     "thumbnails": [
-      "/images/products/prod_p56_LF_975_128.png",
-      "/images/products/prod_p56_LF_975_128.png"
+      "/images/products/page_56_full.png",
+      "/images/products/page_56_full.png"
     ]
   },
   {
     "id": "129",
     "slug": "lf-978-multicolour-swing-129",
     "name": "LF 978 - Multicolour Swing",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 978 - Multicolour Swing is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 978 - Multicolour Swing features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 978 - Multicolour Swing is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 978 - Multicolour Swing from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 978 - Multicolour Swing is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 978 - Multicolour Swing from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 56). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p56_LF_978_129.png",
-    "imageUrl": "/images/products/prod_p56_LF_978_129.png",
+    "image": "/images/products/page_56_full.png",
+    "imageUrl": "/images/products/page_56_full.png",
     "thumbnails": [
-      "/images/products/prod_p56_LF_978_129.png",
-      "/images/products/prod_p56_LF_978_129.png"
+      "/images/products/page_56_full.png",
+      "/images/products/page_56_full.png"
     ]
   },
   {
     "id": "130",
     "slug": "lf-977-play-equipment-lf-977-130",
     "name": "LF 977 - Play Equipment LF 977",
-    "price": "Quote on Request",
+    "price": "\u20b99,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 977 - Play Equipment LF 977 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 977 - Play Equipment LF 977 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 977 - Play Equipment LF 977 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 977 - Play Equipment LF 977 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 977 - Play Equipment LF 977 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 977 - Play Equipment LF 977 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 56). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p56_LF_977_130.png",
-    "imageUrl": "/images/products/prod_p56_LF_977_130.png",
+    "image": "/images/products/page_56_full.png",
+    "imageUrl": "/images/products/page_56_full.png",
     "thumbnails": [
-      "/images/products/prod_p56_LF_977_130.png",
-      "/images/products/prod_p56_LF_977_130.png"
+      "/images/products/page_56_full.png",
+      "/images/products/page_56_full.png"
     ]
   },
   {
     "id": "131",
     "slug": "lf-974-size-l160xw170xh114-cm-131",
     "name": "LF 974 - Size L160XW170xH114 CM",
-    "price": "Quote on Request",
+    "price": "\u20b912,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 974 - Size L160XW170xH114 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 974 - Size L160XW170xH114 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 974 - Size L160XW170xH114 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 974 - Size L160XW170xH114 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 974 - Size L160XW170xH114 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 974 - Size L160XW170xH114 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 56). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4407,29 +4407,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p56_LF_974_131.png",
-    "imageUrl": "/images/products/prod_p56_LF_974_131.png",
+    "image": "/images/products/page_56_full.png",
+    "imageUrl": "/images/products/page_56_full.png",
     "thumbnails": [
-      "/images/products/prod_p56_LF_974_131.png",
-      "/images/products/prod_p56_LF_974_131.png"
+      "/images/products/page_56_full.png",
+      "/images/products/page_56_full.png"
     ]
   },
   {
     "id": "132",
     "slug": "lf-934-a-size-l91xw43xh81-cm-132",
     "name": "LF 934-A - Size L91xW43xH81 CM",
-    "price": "Quote on Request",
+    "price": "\u20b92,790",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 934-A - Size L91xW43xH81 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 934-A - Size L91xW43xH81 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 934-A - Size L91xW43xH81 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 934-A - Size L91xW43xH81 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 934-A - Size L91xW43xH81 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 934-A - Size L91xW43xH81 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 57). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4440,29 +4440,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p57_LF_934_A_132.png",
-    "imageUrl": "/images/products/prod_p57_LF_934_A_132.png",
+    "image": "/images/products/page_57_full.png",
+    "imageUrl": "/images/products/page_57_full.png",
     "thumbnails": [
-      "/images/products/prod_p57_LF_934_A_132.png",
-      "/images/products/prod_p57_LF_934_A_132.png"
+      "/images/products/page_57_full.png",
+      "/images/products/page_57_full.png"
     ]
   },
   {
     "id": "133",
     "slug": "lf-9053-2-toy-shelf-133",
     "name": "LF 9053-2 - Toy Shelf",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 9053-2 - Toy Shelf is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 9053-2 - Toy Shelf features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 9053-2 - Toy Shelf is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 9053-2 - Toy Shelf from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 9053-2 - Toy Shelf is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 9053-2 - Toy Shelf from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 57). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4473,62 +4473,62 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p57_LF_9053_2_133.png",
-    "imageUrl": "/images/products/prod_p57_LF_9053_2_133.png",
+    "image": "/images/products/page_57_full.png",
+    "imageUrl": "/images/products/page_57_full.png",
     "thumbnails": [
-      "/images/products/prod_p57_LF_9053_2_133.png",
-      "/images/products/prod_p57_LF_9053_2_133.png"
+      "/images/products/page_57_full.png",
+      "/images/products/page_57_full.png"
     ]
   },
   {
     "id": "134",
     "slug": "lf-9130-5-play-equipment-lf-9130-5-134",
     "name": "LF 9130-5 - Play Equipment LF 9130-5",
-    "price": "Quote on Request",
+    "price": "\u20b96,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 9130-5 - Play Equipment LF 9130-5 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 9130-5 - Play Equipment LF 9130-5 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 9130-5 - Play Equipment LF 9130-5 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 9130-5 - Play Equipment LF 9130-5 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 9130-5 - Play Equipment LF 9130-5 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 9130-5 - Play Equipment LF 9130-5 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 57). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p57_LF_9130_5_134.png",
-    "imageUrl": "/images/products/prod_p57_LF_9130_5_134.png",
+    "image": "/images/products/page_57_full.png",
+    "imageUrl": "/images/products/page_57_full.png",
     "thumbnails": [
-      "/images/products/prod_p57_LF_9130_5_134.png",
-      "/images/products/prod_p57_LF_9130_5_134.png"
+      "/images/products/page_57_full.png",
+      "/images/products/page_57_full.png"
     ]
   },
   {
     "id": "135",
     "slug": "lf-998-size-l52xw66xh87-cm-135",
     "name": "LF 998 - Size L52xW66xH87 CM",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 998 - Size L52xW66xH87 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 998 - Size L52xW66xH87 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 998 - Size L52xW66xH87 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 998 - Size L52xW66xH87 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 998 - Size L52xW66xH87 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 998 - Size L52xW66xH87 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 57). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4539,29 +4539,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p57_LF_998_135.png",
-    "imageUrl": "/images/products/prod_p57_LF_998_135.png",
+    "image": "/images/products/page_57_full.png",
+    "imageUrl": "/images/products/page_57_full.png",
     "thumbnails": [
-      "/images/products/prod_p57_LF_998_135.png",
-      "/images/products/prod_p57_LF_998_135.png"
+      "/images/products/page_57_full.png",
+      "/images/products/page_57_full.png"
     ]
   },
   {
     "id": "136",
     "slug": "lf-999-size-l33xw33xh73-cm-136",
     "name": "LF 999 - Size L33xW33xH73 CM",
-    "price": "Quote on Request",
+    "price": "\u20b99,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 999 - Size L33xW33xH73 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 999 - Size L33xW33xH73 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 999 - Size L33xW33xH73 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 999 - Size L33xW33xH73 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 999 - Size L33xW33xH73 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 999 - Size L33xW33xH73 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 57). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4572,29 +4572,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p57_LF_999_136.png",
-    "imageUrl": "/images/products/prod_p57_LF_999_136.png",
+    "image": "/images/products/page_57_full.png",
+    "imageUrl": "/images/products/page_57_full.png",
     "thumbnails": [
-      "/images/products/prod_p57_LF_999_136.png",
-      "/images/products/prod_p57_LF_999_136.png"
+      "/images/products/page_57_full.png",
+      "/images/products/page_57_full.png"
     ]
   },
   {
     "id": "137",
     "slug": "lf-999b-size-l30xw30xh101-cm-137",
     "name": "LF 999B - Size L30xW30xH101 CM",
-    "price": "Quote on Request",
+    "price": "\u20b912,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 999B - Size L30xW30xH101 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 999B - Size L30xW30xH101 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 999B - Size L30xW30xH101 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 999B - Size L30xW30xH101 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 999B - Size L30xW30xH101 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 999B - Size L30xW30xH101 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 57). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4605,29 +4605,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p57_LF_999B_137.png",
-    "imageUrl": "/images/products/prod_p57_LF_999B_137.png",
+    "image": "/images/products/page_57_full.png",
+    "imageUrl": "/images/products/page_57_full.png",
     "thumbnails": [
-      "/images/products/prod_p57_LF_999B_137.png",
-      "/images/products/prod_p57_LF_999B_137.png"
+      "/images/products/page_57_full.png",
+      "/images/products/page_57_full.png"
     ]
   },
   {
     "id": "138",
     "slug": "lf-932a-multicolor-tunnel-138",
     "name": "LF 932A - Multicolor Tunnel",
-    "price": "Quote on Request",
+    "price": "\u20b92,790",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 932A - Multicolor Tunnel is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 932A - Multicolor Tunnel features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 932A - Multicolor Tunnel is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 932A - Multicolor Tunnel from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 932A - Multicolor Tunnel is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 932A - Multicolor Tunnel from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 58). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4638,29 +4638,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p58_LF_932A_138.png",
-    "imageUrl": "/images/products/prod_p58_LF_932A_138.png",
+    "image": "/images/products/page_58_full.png",
+    "imageUrl": "/images/products/page_58_full.png",
     "thumbnails": [
-      "/images/products/prod_p58_LF_932A_138.png",
-      "/images/products/prod_p58_LF_932A_138.png"
+      "/images/products/page_58_full.png",
+      "/images/products/page_58_full.png"
     ]
   },
   {
     "id": "139",
     "slug": "lf-932b-caterpillar-tunnel-139",
     "name": "LF 932B - Caterpillar Tunnel",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 932B - Caterpillar Tunnel is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 932B - Caterpillar Tunnel features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 932B - Caterpillar Tunnel is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 932B - Caterpillar Tunnel from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 932B - Caterpillar Tunnel is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 932B - Caterpillar Tunnel from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 58). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4671,95 +4671,95 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p58_LF_932B_139.png",
-    "imageUrl": "/images/products/prod_p58_LF_932B_139.png",
+    "image": "/images/products/page_58_full.png",
+    "imageUrl": "/images/products/page_58_full.png",
     "thumbnails": [
-      "/images/products/prod_p58_LF_932B_139.png",
-      "/images/products/prod_p58_LF_932B_139.png"
+      "/images/products/page_58_full.png",
+      "/images/products/page_58_full.png"
     ]
   },
   {
     "id": "140",
     "slug": "lf-450-roller-coaster-rideon-140",
     "name": "LF 450 - Roller Coaster Rideon",
-    "price": "Quote on Request",
+    "price": "\u20b96,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 450 - Roller Coaster Rideon is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 450 - Roller Coaster Rideon features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 450 - Roller Coaster Rideon is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 450 - Roller Coaster Rideon from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 450 - Roller Coaster Rideon is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 450 - Roller Coaster Rideon from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 58). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p58_LF_450_140.png",
-    "imageUrl": "/images/products/prod_p58_LF_450_140.png",
+    "image": "/images/products/page_58_full.png",
+    "imageUrl": "/images/products/page_58_full.png",
     "thumbnails": [
-      "/images/products/prod_p58_LF_450_140.png",
-      "/images/products/prod_p58_LF_450_140.png"
+      "/images/products/page_58_full.png",
+      "/images/products/page_58_full.png"
     ]
   },
   {
     "id": "141",
     "slug": "lf-9126-play-equipment-lf-9126-141",
     "name": "LF 9126 - Play Equipment LF 9126",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 9126 - Play Equipment LF 9126 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 9126 - Play Equipment LF 9126 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 9126 - Play Equipment LF 9126 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 9126 - Play Equipment LF 9126 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 9126 - Play Equipment LF 9126 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 9126 - Play Equipment LF 9126 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 58). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p58_LF_9126_141.png",
-    "imageUrl": "/images/products/prod_p58_LF_9126_141.png",
+    "image": "/images/products/page_58_full.png",
+    "imageUrl": "/images/products/page_58_full.png",
     "thumbnails": [
-      "/images/products/prod_p58_LF_9126_141.png",
-      "/images/products/prod_p58_LF_9126_141.png"
+      "/images/products/page_58_full.png",
+      "/images/products/page_58_full.png"
     ]
   },
   {
     "id": "142",
     "slug": "lf-9052-a-quarter-round-142",
     "name": "LF 9052-A - Quarter Round",
-    "price": "Quote on Request",
+    "price": "\u20b99,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 9052-A - Quarter Round is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 9052-A - Quarter Round features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 9052-A - Quarter Round is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 9052-A - Quarter Round from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 9052-A - Quarter Round is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 9052-A - Quarter Round from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 58). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -4770,326 +4770,326 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p58_LF_9052_A_142.png",
-    "imageUrl": "/images/products/prod_p58_LF_9052_A_142.png",
+    "image": "/images/products/page_58_full.png",
+    "imageUrl": "/images/products/page_58_full.png",
     "thumbnails": [
-      "/images/products/prod_p58_LF_9052_A_142.png",
-      "/images/products/prod_p58_LF_9052_A_142.png"
+      "/images/products/page_58_full.png",
+      "/images/products/page_58_full.png"
     ]
   },
   {
     "id": "143",
     "slug": "lf-925d-play-equipment-lf-925d-143",
     "name": "LF 925D - Play Equipment LF 925D",
-    "price": "Quote on Request",
+    "price": "\u20b912,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 925D - Play Equipment LF 925D is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 925D - Play Equipment LF 925D features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 925D - Play Equipment LF 925D is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 925D - Play Equipment LF 925D from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 925D - Play Equipment LF 925D is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 925D - Play Equipment LF 925D from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_925D_143.png",
-    "imageUrl": "/images/products/prod_p59_LF_925D_143.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_925D_143.png",
-      "/images/products/prod_p59_LF_925D_143.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "144",
     "slug": "lf-629-play-equipment-lf-629-144",
     "name": "LF 629 - Play Equipment LF 629",
-    "price": "Quote on Request",
+    "price": "\u20b92,790",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 629 - Play Equipment LF 629 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 629 - Play Equipment LF 629 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 629 - Play Equipment LF 629 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 629 - Play Equipment LF 629 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 629 - Play Equipment LF 629 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 629 - Play Equipment LF 629 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_629_144.png",
-    "imageUrl": "/images/products/prod_p59_LF_629_144.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_629_144.png",
-      "/images/products/prod_p59_LF_629_144.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "145",
     "slug": "lf-925b-elephant-rocker-145",
     "name": "LF 925B - Elephant Rocker",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 925B - Elephant Rocker is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 925B - Elephant Rocker features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 925B - Elephant Rocker is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 925B - Elephant Rocker from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 925B - Elephant Rocker is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 925B - Elephant Rocker from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_925B_145.png",
-    "imageUrl": "/images/products/prod_p59_LF_925B_145.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_925B_145.png",
-      "/images/products/prod_p59_LF_925B_145.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "146",
     "slug": "lf-925c-fish-rocker-146",
     "name": "LF 925C - Fish Rocker",
-    "price": "Quote on Request",
+    "price": "\u20b96,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 925C - Fish Rocker is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 925C - Fish Rocker features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 925C - Fish Rocker is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 925C - Fish Rocker from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 925C - Fish Rocker is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 925C - Fish Rocker from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_925C_146.png",
-    "imageUrl": "/images/products/prod_p59_LF_925C_146.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_925C_146.png",
-      "/images/products/prod_p59_LF_925C_146.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "147",
     "slug": "lf-925a-play-equipment-lf-925a-147",
     "name": "LF 925A - Play Equipment LF 925A",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 925A - Play Equipment LF 925A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 925A - Play Equipment LF 925A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 925A - Play Equipment LF 925A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 925A - Play Equipment LF 925A from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 925A - Play Equipment LF 925A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 925A - Play Equipment LF 925A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_925A_147.png",
-    "imageUrl": "/images/products/prod_p59_LF_925A_147.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_925A_147.png",
-      "/images/products/prod_p59_LF_925A_147.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "148",
     "slug": "lf-628-play-equipment-lf-628-148",
     "name": "LF 628 - Play Equipment LF 628",
-    "price": "Quote on Request",
+    "price": "\u20b99,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 628 - Play Equipment LF 628 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 628 - Play Equipment LF 628 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 628 - Play Equipment LF 628 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 628 - Play Equipment LF 628 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 628 - Play Equipment LF 628 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 628 - Play Equipment LF 628 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_628_148.png",
-    "imageUrl": "/images/products/prod_p59_LF_628_148.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_628_148.png",
-      "/images/products/prod_p59_LF_628_148.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "149",
     "slug": "lf-627-rideon-rocker-149",
     "name": "LF 627 - Rideon Rocker",
-    "price": "Quote on Request",
+    "price": "\u20b912,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 627 - Rideon Rocker is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 627 - Rideon Rocker features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 627 - Rideon Rocker is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 627 - Rideon Rocker from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 627 - Rideon Rocker is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 627 - Rideon Rocker from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_627_149.png",
-    "imageUrl": "/images/products/prod_p59_LF_627_149.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_627_149.png",
-      "/images/products/prod_p59_LF_627_149.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "150",
     "slug": "lf-627a-rocker-with-handle-150",
     "name": "LF 627A - Rocker with Handle",
-    "price": "Quote on Request",
+    "price": "\u20b92,790",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 627A - Rocker with Handle is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 627A - Rocker with Handle features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 627A - Rocker with Handle is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 627A - Rocker with Handle from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 627A - Rocker with Handle is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 627A - Rocker with Handle from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_627A_150.png",
-    "imageUrl": "/images/products/prod_p59_LF_627A_150.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_627A_150.png",
-      "/images/products/prod_p59_LF_627A_150.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "151",
     "slug": "lf-624-play-equipment-lf-624-151",
     "name": "LF 624 - Play Equipment LF 624",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 624 - Play Equipment LF 624 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 624 - Play Equipment LF 624 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 624 - Play Equipment LF 624 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 624 - Play Equipment LF 624 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 624 - Play Equipment LF 624 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 624 - Play Equipment LF 624 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 59). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p59_LF_624_151.png",
-    "imageUrl": "/images/products/prod_p59_LF_624_151.png",
+    "image": "/images/products/page_59_full.png",
+    "imageUrl": "/images/products/page_59_full.png",
     "thumbnails": [
-      "/images/products/prod_p59_LF_624_151.png",
-      "/images/products/prod_p59_LF_624_151.png"
+      "/images/products/page_59_full.png",
+      "/images/products/page_59_full.png"
     ]
   },
   {
     "id": "152",
     "slug": "lf-108b-size-l110xw39xh45-cm-152",
     "name": "LF 108B - Size L110xW39xH45 CM",
-    "price": "Quote on Request",
+    "price": "\u20b96,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 108B - Size L110xW39xH45 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 108B - Size L110xW39xH45 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 108B - Size L110xW39xH45 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 108B - Size L110xW39xH45 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 108B - Size L110xW39xH45 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 108B - Size L110xW39xH45 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 60). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5100,29 +5100,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p60_LF_108B_152.png",
-    "imageUrl": "/images/products/prod_p60_LF_108B_152.png",
+    "image": "/images/products/page_60_full.png",
+    "imageUrl": "/images/products/page_60_full.png",
     "thumbnails": [
-      "/images/products/prod_p60_LF_108B_152.png",
-      "/images/products/prod_p60_LF_108B_152.png"
+      "/images/products/page_60_full.png",
+      "/images/products/page_60_full.png"
     ]
   },
   {
     "id": "153",
     "slug": "lf-9122-3-size-l91xw27xh89-cm-153",
     "name": "LF 9122-3 - Size L91xW27xH89 CM",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 9122-3 - Size L91xW27xH89 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 9122-3 - Size L91xW27xH89 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 9122-3 - Size L91xW27xH89 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 9122-3 - Size L91xW27xH89 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 9122-3 - Size L91xW27xH89 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 9122-3 - Size L91xW27xH89 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 60). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5133,95 +5133,95 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p60_LF_9122_3_153.png",
-    "imageUrl": "/images/products/prod_p60_LF_9122_3_153.png",
+    "image": "/images/products/page_60_full.png",
+    "imageUrl": "/images/products/page_60_full.png",
     "thumbnails": [
-      "/images/products/prod_p60_LF_9122_3_153.png",
-      "/images/products/prod_p60_LF_9122_3_153.png"
+      "/images/products/page_60_full.png",
+      "/images/products/page_60_full.png"
     ]
   },
   {
     "id": "154",
     "slug": "lf-417-play-equipment-lf-417-154",
     "name": "LF 417 - Play Equipment LF 417",
-    "price": "Quote on Request",
+    "price": "\u20b99,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 417 - Play Equipment LF 417 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 417 - Play Equipment LF 417 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 417 - Play Equipment LF 417 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 417 - Play Equipment LF 417 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 417 - Play Equipment LF 417 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 417 - Play Equipment LF 417 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 60). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p60_LF_417_154.png",
-    "imageUrl": "/images/products/prod_p60_LF_417_154.png",
+    "image": "/images/products/page_60_full.png",
+    "imageUrl": "/images/products/page_60_full.png",
     "thumbnails": [
-      "/images/products/prod_p60_LF_417_154.png",
-      "/images/products/prod_p60_LF_417_154.png"
+      "/images/products/page_60_full.png",
+      "/images/products/page_60_full.png"
     ]
   },
   {
     "id": "155",
     "slug": "lf-416-play-equipment-lf-416-155",
     "name": "LF 416 - Play Equipment LF 416",
-    "price": "Quote on Request",
+    "price": "\u20b912,990",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 416 - Play Equipment LF 416 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 416 - Play Equipment LF 416 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 416 - Play Equipment LF 416 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 416 - Play Equipment LF 416 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 416 - Play Equipment LF 416 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 416 - Play Equipment LF 416 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 60). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p60_LF_416_155.png",
-    "imageUrl": "/images/products/prod_p60_LF_416_155.png",
+    "image": "/images/products/page_60_full.png",
+    "imageUrl": "/images/products/page_60_full.png",
     "thumbnails": [
-      "/images/products/prod_p60_LF_416_155.png",
-      "/images/products/prod_p60_LF_416_155.png"
+      "/images/products/page_60_full.png",
+      "/images/products/page_60_full.png"
     ]
   },
   {
     "id": "156",
     "slug": "lf-419-size-l150xw32xh60-cm-156",
     "name": "LF 419 - Size L150xW32xH60 CM",
-    "price": "Quote on Request",
+    "price": "\u20b92,790",
     "category": "Slides & Swings",
     "categoryId": "slides-swings",
     "categoryColor": "#FF6B9D",
-    "shortDescription": "LF 419 - Size L150xW32xH60 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 419 - Size L150xW32xH60 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 419 - Size L150xW32xH60 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 419 - Size L150xW32xH60 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 419 - Size L150xW32xH60 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 419 - Size L150xW32xH60 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 60). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5232,29 +5232,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p60_LF_419_156.png",
-    "imageUrl": "/images/products/prod_p60_LF_419_156.png",
+    "image": "/images/products/page_60_full.png",
+    "imageUrl": "/images/products/page_60_full.png",
     "thumbnails": [
-      "/images/products/prod_p60_LF_419_156.png",
-      "/images/products/prod_p60_LF_419_156.png"
+      "/images/products/page_60_full.png",
+      "/images/products/page_60_full.png"
     ]
   },
   {
     "id": "157",
     "slug": "lf-418-size-l76xw48xh89-cm-157",
     "name": "LF 418 - Size L76xW48xH89 CM",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 418 - Size L76xW48xH89 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 418 - Size L76xW48xH89 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 418 - Size L76xW48xH89 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 418 - Size L76xW48xH89 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 418 - Size L76xW48xH89 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 418 - Size L76xW48xH89 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 61). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5265,44 +5265,44 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p61_LF_418_157.png",
-    "imageUrl": "/images/products/prod_p61_LF_418_157.png",
+    "image": "/images/products/page_61_full.png",
+    "imageUrl": "/images/products/page_61_full.png",
     "thumbnails": [
-      "/images/products/prod_p61_LF_418_157.png",
-      "/images/products/prod_p61_LF_418_157.png"
+      "/images/products/page_61_full.png",
+      "/images/products/page_61_full.png"
     ]
   },
   {
     "id": "158",
     "slug": "lf-928b-motorcycle-158",
     "name": "LF 928B - Motorcycle",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 928B - Motorcycle is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 928B - Motorcycle features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 928B - Motorcycle is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 928B - Motorcycle from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 928B - Motorcycle is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 928B - Motorcycle from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 61). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p61_LF_928B_158.png",
-    "imageUrl": "/images/products/prod_p61_LF_928B_158.png",
+    "image": "/images/products/page_61_full.png",
+    "imageUrl": "/images/products/page_61_full.png",
     "thumbnails": [
-      "/images/products/prod_p61_LF_928B_158.png",
-      "/images/products/prod_p61_LF_928B_158.png"
+      "/images/products/page_61_full.png",
+      "/images/products/page_61_full.png"
     ]
   },
   {
@@ -5313,47 +5313,47 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 926A - Swing Car is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 926A - Swing Car features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 926A - Swing Car is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 926A - Swing Car from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 926A - Swing Car is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 926A - Swing Car from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 61). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p61_LF_926A_159.png",
-    "imageUrl": "/images/products/prod_p61_LF_926A_159.png",
+    "image": "/images/products/page_61_full.png",
+    "imageUrl": "/images/products/page_61_full.png",
     "thumbnails": [
-      "/images/products/prod_p61_LF_926A_159.png",
-      "/images/products/prod_p61_LF_926A_159.png"
+      "/images/products/page_61_full.png",
+      "/images/products/page_61_full.png"
     ]
   },
   {
     "id": "160",
     "slug": "lf-830-size-l90xw50xh95-cm-160",
     "name": "LF 830 - Size L90xW50xH95 CM",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 830 - Size L90xW50xH95 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 830 - Size L90xW50xH95 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 830 - Size L90xW50xH95 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 830 - Size L90xW50xH95 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 830 - Size L90xW50xH95 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 830 - Size L90xW50xH95 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 61). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5364,29 +5364,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p61_LF_830_160.png",
-    "imageUrl": "/images/products/prod_p61_LF_830_160.png",
+    "image": "/images/products/page_61_full.png",
+    "imageUrl": "/images/products/page_61_full.png",
     "thumbnails": [
-      "/images/products/prod_p61_LF_830_160.png",
-      "/images/products/prod_p61_LF_830_160.png"
+      "/images/products/page_61_full.png",
+      "/images/products/page_61_full.png"
     ]
   },
   {
     "id": "161",
     "slug": "lf-440-size-l86xw50xh50-cm-161",
     "name": "LF 440 - Size L86xW50xH50 CM",
-    "price": "Quote on Request",
+    "price": "\u20b91,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 440 - Size L86xW50xH50 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 440 - Size L86xW50xH50 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 440 - Size L86xW50xH50 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 440 - Size L86xW50xH50 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 440 - Size L86xW50xH50 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 440 - Size L86xW50xH50 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 61). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5397,260 +5397,260 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p61_LF_440_161.png",
-    "imageUrl": "/images/products/prod_p61_LF_440_161.png",
+    "image": "/images/products/page_61_full.png",
+    "imageUrl": "/images/products/page_61_full.png",
     "thumbnails": [
-      "/images/products/prod_p61_LF_440_161.png",
-      "/images/products/prod_p61_LF_440_161.png"
+      "/images/products/page_61_full.png",
+      "/images/products/page_61_full.png"
     ]
   },
   {
     "id": "162",
     "slug": "lf-929a-play-equipment-lf-929a-162",
     "name": "LF 929A - Play Equipment LF 929A",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 929A - Play Equipment LF 929A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 929A - Play Equipment LF 929A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 929A - Play Equipment LF 929A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 929A - Play Equipment LF 929A from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 929A - Play Equipment LF 929A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 929A - Play Equipment LF 929A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 62). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p62_LF_929A_162.png",
-    "imageUrl": "/images/products/prod_p62_LF_929A_162.png",
+    "image": "/images/products/page_62_full.png",
+    "imageUrl": "/images/products/page_62_full.png",
     "thumbnails": [
-      "/images/products/prod_p62_LF_929A_162.png",
-      "/images/products/prod_p62_LF_929A_162.png"
+      "/images/products/page_62_full.png",
+      "/images/products/page_62_full.png"
     ]
   },
   {
     "id": "163",
     "slug": "lf-927c-play-equipment-lf-927c-163",
     "name": "LF 927C - Play Equipment LF 927C",
-    "price": "Quote on Request",
+    "price": "\u20b93,790",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 927C - Play Equipment LF 927C is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 927C - Play Equipment LF 927C features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 927C - Play Equipment LF 927C is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 927C - Play Equipment LF 927C from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 927C - Play Equipment LF 927C is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 927C - Play Equipment LF 927C from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 62). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p62_LF_927C_163.png",
-    "imageUrl": "/images/products/prod_p62_LF_927C_163.png",
+    "image": "/images/products/page_62_full.png",
+    "imageUrl": "/images/products/page_62_full.png",
     "thumbnails": [
-      "/images/products/prod_p62_LF_927C_163.png",
-      "/images/products/prod_p62_LF_927C_163.png"
+      "/images/products/page_62_full.png",
+      "/images/products/page_62_full.png"
     ]
   },
   {
     "id": "164",
     "slug": "lf-927e-smiley-wagon-rideon-164",
     "name": "LF 927E - Smiley wagon Rideon",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 927E - Smiley wagon Rideon is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 927E - Smiley wagon Rideon features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 927E - Smiley wagon Rideon is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 927E - Smiley wagon Rideon from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 927E - Smiley wagon Rideon is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 927E - Smiley wagon Rideon from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 62). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p62_LF_927E_164.png",
-    "imageUrl": "/images/products/prod_p62_LF_927E_164.png",
+    "image": "/images/products/page_62_full.png",
+    "imageUrl": "/images/products/page_62_full.png",
     "thumbnails": [
-      "/images/products/prod_p62_LF_927E_164.png",
-      "/images/products/prod_p62_LF_927E_164.png"
+      "/images/products/page_62_full.png",
+      "/images/products/page_62_full.png"
     ]
   },
   {
     "id": "165",
     "slug": "lf-927f-horse-rideon-165",
     "name": "LF 927F - Horse Rideon",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 927F - Horse Rideon is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 927F - Horse Rideon features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 927F - Horse Rideon is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 927F - Horse Rideon from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 927F - Horse Rideon is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 927F - Horse Rideon from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 62). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p62_LF_927F_165.png",
-    "imageUrl": "/images/products/prod_p62_LF_927F_165.png",
+    "image": "/images/products/page_62_full.png",
+    "imageUrl": "/images/products/page_62_full.png",
     "thumbnails": [
-      "/images/products/prod_p62_LF_927F_165.png",
-      "/images/products/prod_p62_LF_927F_165.png"
+      "/images/products/page_62_full.png",
+      "/images/products/page_62_full.png"
     ]
   },
   {
     "id": "166",
     "slug": "lf-927-d-play-equipment-lf-927-d-166",
     "name": "LF 927-D - Play Equipment LF 927-D",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 927-D - Play Equipment LF 927-D is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 927-D - Play Equipment LF 927-D features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 927-D - Play Equipment LF 927-D is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 927-D - Play Equipment LF 927-D from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 927-D - Play Equipment LF 927-D is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 927-D - Play Equipment LF 927-D from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 62). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p62_LF_927_D_166.png",
-    "imageUrl": "/images/products/prod_p62_LF_927_D_166.png",
+    "image": "/images/products/page_62_full.png",
+    "imageUrl": "/images/products/page_62_full.png",
     "thumbnails": [
-      "/images/products/prod_p62_LF_927_D_166.png",
-      "/images/products/prod_p62_LF_927_D_166.png"
+      "/images/products/page_62_full.png",
+      "/images/products/page_62_full.png"
     ]
   },
   {
     "id": "167",
     "slug": "lf-929b-tricycle-167",
     "name": "LF 929B - Tricycle",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 929B - Tricycle is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 929B - Tricycle features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 929B - Tricycle is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 929B - Tricycle from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 929B - Tricycle is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 929B - Tricycle from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 62). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p62_LF_929B_167.png",
-    "imageUrl": "/images/products/prod_p62_LF_929B_167.png",
+    "image": "/images/products/page_62_full.png",
+    "imageUrl": "/images/products/page_62_full.png",
     "thumbnails": [
-      "/images/products/prod_p62_LF_929B_167.png",
-      "/images/products/prod_p62_LF_929B_167.png"
+      "/images/products/page_62_full.png",
+      "/images/products/page_62_full.png"
     ]
   },
   {
     "id": "168",
     "slug": "lf-929c-tricycle-168",
     "name": "LF 929C - Tricycle",
-    "price": "Quote on Request",
+    "price": "\u20b91,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 929C - Tricycle is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 929C - Tricycle features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 929C - Tricycle is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 929C - Tricycle from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 929C - Tricycle is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 929C - Tricycle from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 62). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p62_LF_929C_168.png",
-    "imageUrl": "/images/products/prod_p62_LF_929C_168.png",
+    "image": "/images/products/page_62_full.png",
+    "imageUrl": "/images/products/page_62_full.png",
     "thumbnails": [
-      "/images/products/prod_p62_LF_929C_168.png",
-      "/images/products/prod_p62_LF_929C_168.png"
+      "/images/products/page_62_full.png",
+      "/images/products/page_62_full.png"
     ]
   },
   {
     "id": "169",
     "slug": "lf-927b-size-l55xw32xh45-cm-169",
     "name": "LF 927B - Size L55xW32xH45 CM",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 927B - Size L55xW32xH45 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 927B - Size L55xW32xH45 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 927B - Size L55xW32xH45 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 927B - Size L55xW32xH45 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 927B - Size L55xW32xH45 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 927B - Size L55xW32xH45 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 62). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5661,194 +5661,194 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p62_LF_927B_169.png",
-    "imageUrl": "/images/products/prod_p62_LF_927B_169.png",
+    "image": "/images/products/page_62_full.png",
+    "imageUrl": "/images/products/page_62_full.png",
     "thumbnails": [
-      "/images/products/prod_p62_LF_927B_169.png",
-      "/images/products/prod_p62_LF_927B_169.png"
+      "/images/products/page_62_full.png",
+      "/images/products/page_62_full.png"
     ]
   },
   {
     "id": "170",
     "slug": "lft-200p-plastic-balls-170",
     "name": "LFT 200P - Plastic Balls",
-    "price": "Quote on Request",
+    "price": "\u20b93,790",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 200P - Plastic Balls is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 200P - Plastic Balls features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 200P - Plastic Balls is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 200P - Plastic Balls from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 200P - Plastic Balls is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 200P - Plastic Balls from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 63). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p63_LFT_200P_170.png",
-    "imageUrl": "/images/products/prod_p63_LFT_200P_170.png",
+    "image": "/images/products/page_63_full.png",
+    "imageUrl": "/images/products/page_63_full.png",
     "thumbnails": [
-      "/images/products/prod_p63_LFT_200P_170.png",
-      "/images/products/prod_p63_LFT_200P_170.png"
+      "/images/products/page_63_full.png",
+      "/images/products/page_63_full.png"
     ]
   },
   {
     "id": "171",
     "slug": "lft-100-plastic-balls-171",
     "name": "LFT 100 - Plastic Balls",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 100 - Plastic Balls is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 100 - Plastic Balls features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 100 - Plastic Balls is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 100 - Plastic Balls from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 100 - Plastic Balls is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 100 - Plastic Balls from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 63). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p63_LFT_100_171.png",
-    "imageUrl": "/images/products/prod_p63_LFT_100_171.png",
+    "image": "/images/products/page_63_full.png",
+    "imageUrl": "/images/products/page_63_full.png",
     "thumbnails": [
-      "/images/products/prod_p63_LFT_100_171.png",
-      "/images/products/prod_p63_LFT_100_171.png"
+      "/images/products/page_63_full.png",
+      "/images/products/page_63_full.png"
     ]
   },
   {
     "id": "172",
     "slug": "lft-444-elephant-rideon-172",
     "name": "LFT 444 - Elephant Rideon",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 444 - Elephant Rideon is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 444 - Elephant Rideon features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 444 - Elephant Rideon is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 444 - Elephant Rideon from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 444 - Elephant Rideon is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 444 - Elephant Rideon from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 63). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p63_LFT_444_172.png",
-    "imageUrl": "/images/products/prod_p63_LFT_444_172.png",
+    "image": "/images/products/page_63_full.png",
+    "imageUrl": "/images/products/page_63_full.png",
     "thumbnails": [
-      "/images/products/prod_p63_LFT_444_172.png",
-      "/images/products/prod_p63_LFT_444_172.png"
+      "/images/products/page_63_full.png",
+      "/images/products/page_63_full.png"
     ]
   },
   {
     "id": "173",
     "slug": "lft-344-horse-rideon-173",
     "name": "LFT 344 - Horse Rideon",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 344 - Horse Rideon is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 344 - Horse Rideon features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 344 - Horse Rideon is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 344 - Horse Rideon from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 344 - Horse Rideon is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 344 - Horse Rideon from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 63). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p63_LFT_344_173.png",
-    "imageUrl": "/images/products/prod_p63_LFT_344_173.png",
+    "image": "/images/products/page_63_full.png",
+    "imageUrl": "/images/products/page_63_full.png",
     "thumbnails": [
-      "/images/products/prod_p63_LFT_344_173.png",
-      "/images/products/prod_p63_LFT_344_173.png"
+      "/images/products/page_63_full.png",
+      "/images/products/page_63_full.png"
     ]
   },
   {
     "id": "174",
     "slug": "lft-333-horse-rideon-174",
     "name": "LFT 333 - Horse Rideon",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 333 - Horse Rideon is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 333 - Horse Rideon features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 333 - Horse Rideon is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 333 - Horse Rideon from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 333 - Horse Rideon is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 333 - Horse Rideon from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 63). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p63_LFT_333_174.png",
-    "imageUrl": "/images/products/prod_p63_LFT_333_174.png",
+    "image": "/images/products/page_63_full.png",
+    "imageUrl": "/images/products/page_63_full.png",
     "thumbnails": [
-      "/images/products/prod_p63_LFT_333_174.png",
-      "/images/products/prod_p63_LFT_333_174.png"
+      "/images/products/page_63_full.png",
+      "/images/products/page_63_full.png"
     ]
   },
   {
     "id": "175",
     "slug": "lf-933-size-l67xw38xh53-cm-175",
     "name": "LF 933 - Size L67xW38xH53 CM",
-    "price": "Quote on Request",
+    "price": "\u20b91,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 933 - Size L67xW38xH53 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 933 - Size L67xW38xH53 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 933 - Size L67xW38xH53 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 933 - Size L67xW38xH53 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 933 - Size L67xW38xH53 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 933 - Size L67xW38xH53 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 63). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5859,29 +5859,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p63_LF_933_175.png",
-    "imageUrl": "/images/products/prod_p63_LF_933_175.png",
+    "image": "/images/products/page_63_full.png",
+    "imageUrl": "/images/products/page_63_full.png",
     "thumbnails": [
-      "/images/products/prod_p63_LF_933_175.png",
-      "/images/products/prod_p63_LF_933_175.png"
+      "/images/products/page_63_full.png",
+      "/images/products/page_63_full.png"
     ]
   },
   {
     "id": "176",
     "slug": "lf-961a-without-ball-5-pcs-176",
     "name": "LF 961A - (Without Ball) 5 pcs",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 961A - (Without Ball) 5 pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 961A - (Without Ball) 5 pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 961A - (Without Ball) 5 pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 961A - (Without Ball) 5 pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 961A - (Without Ball) 5 pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 961A - (Without Ball) 5 pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 64). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -5892,161 +5892,161 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p64_LF_961A_176.png",
-    "imageUrl": "/images/products/prod_p64_LF_961A_176.png",
+    "image": "/images/products/page_64_full.png",
+    "imageUrl": "/images/products/page_64_full.png",
     "thumbnails": [
-      "/images/products/prod_p64_LF_961A_176.png",
-      "/images/products/prod_p64_LF_961A_176.png"
+      "/images/products/page_64_full.png",
+      "/images/products/page_64_full.png"
     ]
   },
   {
     "id": "177",
     "slug": "lf-101-5-without-ball-6-pcs-set-177",
     "name": "LF 101-5 - (Without Ball) 6 pcs set",
-    "price": "Quote on Request",
+    "price": "\u20b93,790",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 101-5 - (Without Ball) 6 pcs set is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 101-5 - (Without Ball) 6 pcs set features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 101-5 - (Without Ball) 6 pcs set is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 101-5 - (Without Ball) 6 pcs set from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 101-5 - (Without Ball) 6 pcs set is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 101-5 - (Without Ball) 6 pcs set from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 64). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p64_LF_101_5_177.png",
-    "imageUrl": "/images/products/prod_p64_LF_101_5_177.png",
+    "image": "/images/products/page_64_full.png",
+    "imageUrl": "/images/products/page_64_full.png",
     "thumbnails": [
-      "/images/products/prod_p64_LF_101_5_177.png",
-      "/images/products/prod_p64_LF_101_5_177.png"
+      "/images/products/page_64_full.png",
+      "/images/products/page_64_full.png"
     ]
   },
   {
     "id": "178",
     "slug": "lf-962-without-ball-6-pcs-178",
     "name": "LF 962 - (Without Ball) 6 pcs",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 962 - (Without Ball) 6 pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 962 - (Without Ball) 6 pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 962 - (Without Ball) 6 pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 962 - (Without Ball) 6 pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 962 - (Without Ball) 6 pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 962 - (Without Ball) 6 pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 64). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p64_LF_962_178.png",
-    "imageUrl": "/images/products/prod_p64_LF_962_178.png",
+    "image": "/images/products/page_64_full.png",
+    "imageUrl": "/images/products/page_64_full.png",
     "thumbnails": [
-      "/images/products/prod_p64_LF_962_178.png",
-      "/images/products/prod_p64_LF_962_178.png"
+      "/images/products/page_64_full.png",
+      "/images/products/page_64_full.png"
     ]
   },
   {
     "id": "179",
     "slug": "lf-964-ball-pool-2-7m2-179",
     "name": "LF 964 - Ball Pool 2 7m2",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 964 - Ball Pool 2 7m2 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 964 - Ball Pool 2 7m2 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 964 - Ball Pool 2 7m2 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 964 - Ball Pool 2 7m2 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 964 - Ball Pool 2 7m2 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 964 - Ball Pool 2 7m2 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 64). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p64_LF_964_179.png",
-    "imageUrl": "/images/products/prod_p64_LF_964_179.png",
+    "image": "/images/products/page_64_full.png",
+    "imageUrl": "/images/products/page_64_full.png",
     "thumbnails": [
-      "/images/products/prod_p64_LF_964_179.png",
-      "/images/products/prod_p64_LF_964_179.png"
+      "/images/products/page_64_full.png",
+      "/images/products/page_64_full.png"
     ]
   },
   {
     "id": "180",
     "slug": "lf-963-ball-pool-4-64m2-180",
     "name": "LF 963 - Ball Pool 4 64m2",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 963 - Ball Pool 4 64m2 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 963 - Ball Pool 4 64m2 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 963 - Ball Pool 4 64m2 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 963 - Ball Pool 4 64m2 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 963 - Ball Pool 4 64m2 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 963 - Ball Pool 4 64m2 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 64). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p64_LF_963_180.png",
-    "imageUrl": "/images/products/prod_p64_LF_963_180.png",
+    "image": "/images/products/page_64_full.png",
+    "imageUrl": "/images/products/page_64_full.png",
     "thumbnails": [
-      "/images/products/prod_p64_LF_963_180.png",
-      "/images/products/prod_p64_LF_963_180.png"
+      "/images/products/page_64_full.png",
+      "/images/products/page_64_full.png"
     ]
   },
   {
     "id": "181",
     "slug": "lf-135-size-105x75-cm-set-of-4-pcs-181",
     "name": "LF 135 - Size 105x75 CM (set of 4 pcs)",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 135 - Size 105x75 CM (set of 4 pcs) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 135 - Size 105x75 CM (set of 4 pcs) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 135 - Size 105x75 CM (set of 4 pcs) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 135 - Size 105x75 CM (set of 4 pcs) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 135 - Size 105x75 CM (set of 4 pcs) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 135 - Size 105x75 CM (set of 4 pcs) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 65). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6057,29 +6057,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p65_LF_135_181.png",
-    "imageUrl": "/images/products/prod_p65_LF_135_181.png",
+    "image": "/images/products/page_65_full.png",
+    "imageUrl": "/images/products/page_65_full.png",
     "thumbnails": [
-      "/images/products/prod_p65_LF_135_181.png",
-      "/images/products/prod_p65_LF_135_181.png"
+      "/images/products/page_65_full.png",
+      "/images/products/page_65_full.png"
     ]
   },
   {
     "id": "182",
     "slug": "lf-135b-size-105x75-cm-set-of-4-pcs-182",
     "name": "LF 135B - Size 105x75 CM (set of 4 pcs)",
-    "price": "Quote on Request",
+    "price": "\u20b91,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 135B - Size 105x75 CM (set of 4 pcs) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 135B - Size 105x75 CM (set of 4 pcs) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 135B - Size 105x75 CM (set of 4 pcs) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 135B - Size 105x75 CM (set of 4 pcs) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 135B - Size 105x75 CM (set of 4 pcs) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 135B - Size 105x75 CM (set of 4 pcs) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 65). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6090,29 +6090,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p65_LF_135B_182.png",
-    "imageUrl": "/images/products/prod_p65_LF_135B_182.png",
+    "image": "/images/products/page_65_full.png",
+    "imageUrl": "/images/products/page_65_full.png",
     "thumbnails": [
-      "/images/products/prod_p65_LF_135B_182.png",
-      "/images/products/prod_p65_LF_135B_182.png"
+      "/images/products/page_65_full.png",
+      "/images/products/page_65_full.png"
     ]
   },
   {
     "id": "183",
     "slug": "lf-135w-size-105x75-cm-set-of-4-pcs-183",
     "name": "LF 135W - Size 105x75 CM (set of 4 pcs)",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 135W - Size 105x75 CM (set of 4 pcs) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 135W - Size 105x75 CM (set of 4 pcs) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 135W - Size 105x75 CM (set of 4 pcs) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 135W - Size 105x75 CM (set of 4 pcs) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 135W - Size 105x75 CM (set of 4 pcs) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 135W - Size 105x75 CM (set of 4 pcs) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 65). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6123,29 +6123,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p65_LF_135W_183.png",
-    "imageUrl": "/images/products/prod_p65_LF_135W_183.png",
+    "image": "/images/products/page_65_full.png",
+    "imageUrl": "/images/products/page_65_full.png",
     "thumbnails": [
-      "/images/products/prod_p65_LF_135W_183.png",
-      "/images/products/prod_p65_LF_135W_183.png"
+      "/images/products/page_65_full.png",
+      "/images/products/page_65_full.png"
     ]
   },
   {
     "id": "184",
     "slug": "lf-377-size-l81xw94xh30-cm-184",
     "name": "LF 377 - Size L81xW94xH30 CM",
-    "price": "Quote on Request",
+    "price": "\u20b93,790",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 377 - Size L81xW94xH30 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 377 - Size L81xW94xH30 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 377 - Size L81xW94xH30 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 377 - Size L81xW94xH30 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 377 - Size L81xW94xH30 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 377 - Size L81xW94xH30 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 66). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6156,29 +6156,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p66_LF_377_184.png",
-    "imageUrl": "/images/products/prod_p66_LF_377_184.png",
+    "image": "/images/products/page_66_full.png",
+    "imageUrl": "/images/products/page_66_full.png",
     "thumbnails": [
-      "/images/products/prod_p66_LF_377_184.png",
-      "/images/products/prod_p66_LF_377_184.png"
+      "/images/products/page_66_full.png",
+      "/images/products/page_66_full.png"
     ]
   },
   {
     "id": "185",
     "slug": "lf-378-size-l96xw96xh30-cm-185",
     "name": "LF 378 - Size L96xW96xH30 CM",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 378 - Size L96xW96xH30 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 378 - Size L96xW96xH30 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 378 - Size L96xW96xH30 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 378 - Size L96xW96xH30 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 378 - Size L96xW96xH30 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 378 - Size L96xW96xH30 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 66). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6189,29 +6189,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p66_LF_378_185.png",
-    "imageUrl": "/images/products/prod_p66_LF_378_185.png",
+    "image": "/images/products/page_66_full.png",
+    "imageUrl": "/images/products/page_66_full.png",
     "thumbnails": [
-      "/images/products/prod_p66_LF_378_185.png",
-      "/images/products/prod_p66_LF_378_185.png"
+      "/images/products/page_66_full.png",
+      "/images/products/page_66_full.png"
     ]
   },
   {
     "id": "186",
     "slug": "lf-380-size-l104xw110xh35-cm-186",
     "name": "LF 380 - Size L104xW110xH35 CM",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 380 - Size L104xW110xH35 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 380 - Size L104xW110xH35 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 380 - Size L104xW110xH35 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 380 - Size L104xW110xH35 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 380 - Size L104xW110xH35 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 380 - Size L104xW110xH35 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 66). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6222,29 +6222,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p66_LF_380_186.png",
-    "imageUrl": "/images/products/prod_p66_LF_380_186.png",
+    "image": "/images/products/page_66_full.png",
+    "imageUrl": "/images/products/page_66_full.png",
     "thumbnails": [
-      "/images/products/prod_p66_LF_380_186.png",
-      "/images/products/prod_p66_LF_380_186.png"
+      "/images/products/page_66_full.png",
+      "/images/products/page_66_full.png"
     ]
   },
   {
     "id": "187",
     "slug": "lf-379-size-l101xw101xh30-cm-187",
     "name": "LF 379 - Size L101xW101xH30 CM",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 379 - Size L101xW101xH30 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 379 - Size L101xW101xH30 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 379 - Size L101xW101xH30 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 379 - Size L101xW101xH30 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 379 - Size L101xW101xH30 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 379 - Size L101xW101xH30 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 66). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6255,29 +6255,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p66_LF_379_187.png",
-    "imageUrl": "/images/products/prod_p66_LF_379_187.png",
+    "image": "/images/products/page_66_full.png",
+    "imageUrl": "/images/products/page_66_full.png",
     "thumbnails": [
-      "/images/products/prod_p66_LF_379_187.png",
-      "/images/products/prod_p66_LF_379_187.png"
+      "/images/products/page_66_full.png",
+      "/images/products/page_66_full.png"
     ]
   },
   {
     "id": "188",
     "slug": "lf-376-size-l92xw70xh17-cm-188",
     "name": "LF 376 - Size L92xW70xH17 CM",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 376 - Size L92xW70xH17 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 376 - Size L92xW70xH17 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 376 - Size L92xW70xH17 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 376 - Size L92xW70xH17 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 376 - Size L92xW70xH17 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 376 - Size L92xW70xH17 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 66). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6288,29 +6288,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p66_LF_376_188.png",
-    "imageUrl": "/images/products/prod_p66_LF_376_188.png",
+    "image": "/images/products/page_66_full.png",
+    "imageUrl": "/images/products/page_66_full.png",
     "thumbnails": [
-      "/images/products/prod_p66_LF_376_188.png",
-      "/images/products/prod_p66_LF_376_188.png"
+      "/images/products/page_66_full.png",
+      "/images/products/page_66_full.png"
     ]
   },
   {
     "id": "189",
     "slug": "lf-375-turtle-sandpit-189",
     "name": "LF 375 - Turtle Sandpit",
-    "price": "Quote on Request",
+    "price": "\u20b91,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 375 - Turtle Sandpit is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 375 - Turtle Sandpit features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 375 - Turtle Sandpit is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 375 - Turtle Sandpit from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 375 - Turtle Sandpit is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 375 - Turtle Sandpit from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 66). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6321,44 +6321,44 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p66_LF_375_189.png",
-    "imageUrl": "/images/products/prod_p66_LF_375_189.png",
+    "image": "/images/products/page_66_full.png",
+    "imageUrl": "/images/products/page_66_full.png",
     "thumbnails": [
-      "/images/products/prod_p66_LF_375_189.png",
-      "/images/products/prod_p66_LF_375_189.png"
+      "/images/products/page_66_full.png",
+      "/images/products/page_66_full.png"
     ]
   },
   {
     "id": "190",
     "slug": "lf-930c-play-equipment-lf-930c-190",
     "name": "LF 930C - Play Equipment LF 930C",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 930C - Play Equipment LF 930C is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 930C - Play Equipment LF 930C features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 930C - Play Equipment LF 930C is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 930C - Play Equipment LF 930C from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 930C - Play Equipment LF 930C is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 930C - Play Equipment LF 930C from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 67). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p67_LF_930C_190.png",
-    "imageUrl": "/images/products/prod_p67_LF_930C_190.png",
+    "image": "/images/products/page_67_full.png",
+    "imageUrl": "/images/products/page_67_full.png",
     "thumbnails": [
-      "/images/products/prod_p67_LF_930C_190.png",
-      "/images/products/prod_p67_LF_930C_190.png"
+      "/images/products/page_67_full.png",
+      "/images/products/page_67_full.png"
     ]
   },
   {
@@ -6369,47 +6369,47 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 930D - Play Equipment LF 930D is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 930D - Play Equipment LF 930D features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 930D - Play Equipment LF 930D is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 930D - Play Equipment LF 930D from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 930D - Play Equipment LF 930D is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 930D - Play Equipment LF 930D from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 67). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p67_LF_930D_191.png",
-    "imageUrl": "/images/products/prod_p67_LF_930D_191.png",
+    "image": "/images/products/page_67_full.png",
+    "imageUrl": "/images/products/page_67_full.png",
     "thumbnails": [
-      "/images/products/prod_p67_LF_930D_191.png",
-      "/images/products/prod_p67_LF_930D_191.png"
+      "/images/products/page_67_full.png",
+      "/images/products/page_67_full.png"
     ]
   },
   {
     "id": "192",
     "slug": "lf-9126-6-size-l90xw34xh40-cm-192",
     "name": "LF 9126-6 - Size L90xW34xH40 CM",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 9126-6 - Size L90xW34xH40 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 9126-6 - Size L90xW34xH40 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 9126-6 - Size L90xW34xH40 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 9126-6 - Size L90xW34xH40 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 9126-6 - Size L90xW34xH40 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 9126-6 - Size L90xW34xH40 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 67). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6420,194 +6420,194 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p67_LF_9126_6_192.png",
-    "imageUrl": "/images/products/prod_p67_LF_9126_6_192.png",
+    "image": "/images/products/page_67_full.png",
+    "imageUrl": "/images/products/page_67_full.png",
     "thumbnails": [
-      "/images/products/prod_p67_LF_9126_6_192.png",
-      "/images/products/prod_p67_LF_9126_6_192.png"
+      "/images/products/page_67_full.png",
+      "/images/products/page_67_full.png"
     ]
   },
   {
     "id": "193",
     "slug": "lf-142-play-equipment-lf-142-193",
     "name": "LF 142 - Play Equipment LF 142",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 142 - Play Equipment LF 142 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 142 - Play Equipment LF 142 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 142 - Play Equipment LF 142 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 142 - Play Equipment LF 142 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 142 - Play Equipment LF 142 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 142 - Play Equipment LF 142 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 67). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p67_LF_142_193.png",
-    "imageUrl": "/images/products/prod_p67_LF_142_193.png",
+    "image": "/images/products/page_67_full.png",
+    "imageUrl": "/images/products/page_67_full.png",
     "thumbnails": [
-      "/images/products/prod_p67_LF_142_193.png",
-      "/images/products/prod_p67_LF_142_193.png"
+      "/images/products/page_67_full.png",
+      "/images/products/page_67_full.png"
     ]
   },
   {
     "id": "194",
     "slug": "lf-549-elephant-ring-toss-194",
     "name": "LF 549 - Elephant Ring Toss",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 549 - Elephant Ring Toss is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 549 - Elephant Ring Toss features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 549 - Elephant Ring Toss is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 549 - Elephant Ring Toss from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 549 - Elephant Ring Toss is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 549 - Elephant Ring Toss from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 67). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p67_LF_549_194.png",
-    "imageUrl": "/images/products/prod_p67_LF_549_194.png",
+    "image": "/images/products/page_67_full.png",
+    "imageUrl": "/images/products/page_67_full.png",
     "thumbnails": [
-      "/images/products/prod_p67_LF_549_194.png",
-      "/images/products/prod_p67_LF_549_194.png"
+      "/images/products/page_67_full.png",
+      "/images/products/page_67_full.png"
     ]
   },
   {
     "id": "195",
     "slug": "lf-141-play-equipment-lf-141-195",
     "name": "LF 141 - Play Equipment LF 141",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 141 - Play Equipment LF 141 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 141 - Play Equipment LF 141 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 141 - Play Equipment LF 141 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 141 - Play Equipment LF 141 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 141 - Play Equipment LF 141 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 141 - Play Equipment LF 141 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 67). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p67_LF_141_195.png",
-    "imageUrl": "/images/products/prod_p67_LF_141_195.png",
+    "image": "/images/products/page_67_full.png",
+    "imageUrl": "/images/products/page_67_full.png",
     "thumbnails": [
-      "/images/products/prod_p67_LF_141_195.png",
-      "/images/products/prod_p67_LF_141_195.png"
+      "/images/products/page_67_full.png",
+      "/images/products/page_67_full.png"
     ]
   },
   {
     "id": "196",
     "slug": "lf-9177-2-plastic-building-blocks-196",
     "name": "LF 9177-2 - Plastic Building Blocks",
-    "price": "Quote on Request",
+    "price": "\u20b91,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 9177-2 - Plastic Building Blocks is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 9177-2 - Plastic Building Blocks features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 9177-2 - Plastic Building Blocks is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 9177-2 - Plastic Building Blocks from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 9177-2 - Plastic Building Blocks is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 9177-2 - Plastic Building Blocks from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 68). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p68_LF_9177_2_196.png",
-    "imageUrl": "/images/products/prod_p68_LF_9177_2_196.png",
+    "image": "/images/products/page_68_full.png",
+    "imageUrl": "/images/products/page_68_full.png",
     "thumbnails": [
-      "/images/products/prod_p68_LF_9177_2_196.png",
-      "/images/products/prod_p68_LF_9177_2_196.png"
+      "/images/products/page_68_full.png",
+      "/images/products/page_68_full.png"
     ]
   },
   {
     "id": "197",
     "slug": "lf-118-2-plastic-blocks-197",
     "name": "LF 118-2 - Plastic Blocks",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 118-2 - Plastic Blocks is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 118-2 - Plastic Blocks features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 118-2 - Plastic Blocks is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 118-2 - Plastic Blocks from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 118-2 - Plastic Blocks is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 118-2 - Plastic Blocks from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 68). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p68_LF_118_2_197.png",
-    "imageUrl": "/images/products/prod_p68_LF_118_2_197.png",
+    "image": "/images/products/page_68_full.png",
+    "imageUrl": "/images/products/page_68_full.png",
     "thumbnails": [
-      "/images/products/prod_p68_LF_118_2_197.png",
-      "/images/products/prod_p68_LF_118_2_197.png"
+      "/images/products/page_68_full.png",
+      "/images/products/page_68_full.png"
     ]
   },
   {
     "id": "198",
     "slug": "lf-930-basketball-198",
     "name": "LF 930 - Basketball",
-    "price": "Quote on Request",
+    "price": "\u20b93,790",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 930 - Basketball is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 930 - Basketball features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 930 - Basketball is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 930 - Basketball from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 930 - Basketball is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 930 - Basketball from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 69). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6618,29 +6618,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p69_LF_930_198.png",
-    "imageUrl": "/images/products/prod_p69_LF_930_198.png",
+    "image": "/images/products/page_69_full.png",
+    "imageUrl": "/images/products/page_69_full.png",
     "thumbnails": [
-      "/images/products/prod_p69_LF_930_198.png",
-      "/images/products/prod_p69_LF_930_198.png"
+      "/images/products/page_69_full.png",
+      "/images/products/page_69_full.png"
     ]
   },
   {
     "id": "199",
     "slug": "lf-930b-big-basketball-199",
     "name": "LF 930B - Big Basketball",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 930B - Big Basketball is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 930B - Big Basketball features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 930B - Big Basketball is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 930B - Big Basketball from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 930B - Big Basketball is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 930B - Big Basketball from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 69). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6651,29 +6651,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p69_LF_930B_199.png",
-    "imageUrl": "/images/products/prod_p69_LF_930B_199.png",
+    "image": "/images/products/page_69_full.png",
+    "imageUrl": "/images/products/page_69_full.png",
     "thumbnails": [
-      "/images/products/prod_p69_LF_930B_199.png",
-      "/images/products/prod_p69_LF_930B_199.png"
+      "/images/products/page_69_full.png",
+      "/images/products/page_69_full.png"
     ]
   },
   {
     "id": "200",
     "slug": "lf-931-3-in-1-magnetic-easel-200",
     "name": "LF 931 - 3-in-1 Magnetic Easel",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 931 - 3-in-1 Magnetic Easel is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 931 - 3-in-1 Magnetic Easel features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 931 - 3-in-1 Magnetic Easel is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 931 - 3-in-1 Magnetic Easel from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 931 - 3-in-1 Magnetic Easel is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 931 - 3-in-1 Magnetic Easel from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 69). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6684,11 +6684,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p69_LF_931_200.png",
-    "imageUrl": "/images/products/prod_p69_LF_931_200.png",
+    "image": "/images/products/page_69_full.png",
+    "imageUrl": "/images/products/page_69_full.png",
     "thumbnails": [
-      "/images/products/prod_p69_LF_931_200.png",
-      "/images/products/prod_p69_LF_931_200.png"
+      "/images/products/page_69_full.png",
+      "/images/products/page_69_full.png"
     ]
   },
   {
@@ -6699,14 +6699,14 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 13-6 - Tray is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 13-6 - Tray features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 13-6 - Tray is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 13-6 - Tray from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 13-6 - Tray is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 13-6 - Tray from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 69). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6717,11 +6717,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p69_LF_13_6_201.png",
-    "imageUrl": "/images/products/prod_p69_LF_13_6_201.png",
+    "image": "/images/products/page_69_full.png",
+    "imageUrl": "/images/products/page_69_full.png",
     "thumbnails": [
-      "/images/products/prod_p69_LF_13_6_201.png",
-      "/images/products/prod_p69_LF_13_6_201.png"
+      "/images/products/page_69_full.png",
+      "/images/products/page_69_full.png"
     ]
   },
   {
@@ -6732,14 +6732,14 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 13-5 - Tray is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 13-5 - Tray features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 13-5 - Tray is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 13-5 - Tray from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 13-5 - Tray is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 13-5 - Tray from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 69). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -6750,11 +6750,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p69_LF_13_5_202.png",
-    "imageUrl": "/images/products/prod_p69_LF_13_5_202.png",
+    "image": "/images/products/page_69_full.png",
+    "imageUrl": "/images/products/page_69_full.png",
     "thumbnails": [
-      "/images/products/prod_p69_LF_13_5_202.png",
-      "/images/products/prod_p69_LF_13_5_202.png"
+      "/images/products/page_69_full.png",
+      "/images/products/page_69_full.png"
     ]
   },
   {
@@ -6765,29 +6765,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 3992D - Blocks 16 Pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 3992D - Blocks 16 Pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 3992D - Blocks 16 Pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 3992D - Blocks 16 Pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 3992D - Blocks 16 Pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 3992D - Blocks 16 Pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 69). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p69_LFT_3992D_203.png",
-    "imageUrl": "/images/products/prod_p69_LFT_3992D_203.png",
+    "image": "/images/products/page_69_full.png",
+    "imageUrl": "/images/products/page_69_full.png",
     "thumbnails": [
-      "/images/products/prod_p69_LFT_3992D_203.png",
-      "/images/products/prod_p69_LFT_3992D_203.png"
+      "/images/products/page_69_full.png",
+      "/images/products/page_69_full.png"
     ]
   },
   {
@@ -6798,29 +6798,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 3994P - Blocks 32 Pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 3994P - Blocks 32 Pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 3994P - Blocks 32 Pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 3994P - Blocks 32 Pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 3994P - Blocks 32 Pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 3994P - Blocks 32 Pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 69). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p69_LFT_3994P_204.png",
-    "imageUrl": "/images/products/prod_p69_LFT_3994P_204.png",
+    "image": "/images/products/page_69_full.png",
+    "imageUrl": "/images/products/page_69_full.png",
     "thumbnails": [
-      "/images/products/prod_p69_LFT_3994P_204.png",
-      "/images/products/prod_p69_LFT_3994P_204.png"
+      "/images/products/page_69_full.png",
+      "/images/products/page_69_full.png"
     ]
   },
   {
@@ -6831,29 +6831,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 536 - Play Equipment LF 536 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 536 - Play Equipment LF 536 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 536 - Play Equipment LF 536 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 536 - Play Equipment LF 536 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 536 - Play Equipment LF 536 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 536 - Play Equipment LF 536 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 70). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p70_LF_536_205.png",
-    "imageUrl": "/images/products/prod_p70_LF_536_205.png",
+    "image": "/images/products/page_70_full.png",
+    "imageUrl": "/images/products/page_70_full.png",
     "thumbnails": [
-      "/images/products/prod_p70_LF_536_205.png",
-      "/images/products/prod_p70_LF_536_205.png"
+      "/images/products/page_70_full.png",
+      "/images/products/page_70_full.png"
     ]
   },
   {
@@ -6864,29 +6864,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 545 - D 36 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 545 - D 36 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 545 - D 36 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 545 - D 36 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 545 - D 36 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 545 - D 36 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 70). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p70_LF_545_206.png",
-    "imageUrl": "/images/products/prod_p70_LF_545_206.png",
+    "image": "/images/products/page_70_full.png",
+    "imageUrl": "/images/products/page_70_full.png",
     "thumbnails": [
-      "/images/products/prod_p70_LF_545_206.png",
-      "/images/products/prod_p70_LF_545_206.png"
+      "/images/products/page_70_full.png",
+      "/images/products/page_70_full.png"
     ]
   },
   {
@@ -6897,29 +6897,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 55 - D 55 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 55 - D 55 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 55 - D 55 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 55 - D 55 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 55 - D 55 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 55 - D 55 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 70). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p70_LF_55_207.png",
-    "imageUrl": "/images/products/prod_p70_LF_55_207.png",
+    "image": "/images/products/page_70_full.png",
+    "imageUrl": "/images/products/page_70_full.png",
     "thumbnails": [
-      "/images/products/prod_p70_LF_55_207.png",
-      "/images/products/prod_p70_LF_55_207.png"
+      "/images/products/page_70_full.png",
+      "/images/products/page_70_full.png"
     ]
   },
   {
@@ -6930,29 +6930,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 72 - LFO-TR is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 72 - LFO-TR features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 72 - LFO-TR is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 72 - LFO-TR from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 72 - LFO-TR is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 72 - LFO-TR from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 70). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p70_LF_72_208.png",
-    "imageUrl": "/images/products/prod_p70_LF_72_208.png",
+    "image": "/images/products/page_70_full.png",
+    "imageUrl": "/images/products/page_70_full.png",
     "thumbnails": [
-      "/images/products/prod_p70_LF_72_208.png",
-      "/images/products/prod_p70_LF_72_208.png"
+      "/images/products/page_70_full.png",
+      "/images/products/page_70_full.png"
     ]
   },
   {
@@ -6963,29 +6963,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 96 - LFO-TR is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 96 - LFO-TR features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 96 - LFO-TR is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 96 - LFO-TR from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 96 - LFO-TR is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 96 - LFO-TR from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 70). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p70_LF_96_209.png",
-    "imageUrl": "/images/products/prod_p70_LF_96_209.png",
+    "image": "/images/products/page_70_full.png",
+    "imageUrl": "/images/products/page_70_full.png",
     "thumbnails": [
-      "/images/products/prod_p70_LF_96_209.png",
-      "/images/products/prod_p70_LF_96_209.png"
+      "/images/products/page_70_full.png",
+      "/images/products/page_70_full.png"
     ]
   },
   {
@@ -6996,29 +6996,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 120 - D 120 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 120 - D 120 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 120 - D 120 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 120 - D 120 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 120 - D 120 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 120 - D 120 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 70). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p70_LF_120_210.png",
-    "imageUrl": "/images/products/prod_p70_LF_120_210.png",
+    "image": "/images/products/page_70_full.png",
+    "imageUrl": "/images/products/page_70_full.png",
     "thumbnails": [
-      "/images/products/prod_p70_LF_120_210.png",
-      "/images/products/prod_p70_LF_120_210.png"
+      "/images/products/page_70_full.png",
+      "/images/products/page_70_full.png"
     ]
   },
   {
@@ -7029,29 +7029,29 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 144 - D 144 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 144 - D 144 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 144 - D 144 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 144 - D 144 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 144 - D 144 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 144 - D 144 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 70). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p70_LF_144_211.png",
-    "imageUrl": "/images/products/prod_p70_LF_144_211.png",
+    "image": "/images/products/page_70_full.png",
+    "imageUrl": "/images/products/page_70_full.png",
     "thumbnails": [
-      "/images/products/prod_p70_LF_144_211.png",
-      "/images/products/prod_p70_LF_144_211.png"
+      "/images/products/page_70_full.png",
+      "/images/products/page_70_full.png"
     ]
   },
   {
@@ -7062,47 +7062,47 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 168 - Play Equipment LF 168 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 168 - Play Equipment LF 168 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 168 - Play Equipment LF 168 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 168 - Play Equipment LF 168 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 168 - Play Equipment LF 168 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 168 - Play Equipment LF 168 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 70). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p70_LF_168_212.png",
-    "imageUrl": "/images/products/prod_p70_LF_168_212.png",
+    "image": "/images/products/page_70_full.png",
+    "imageUrl": "/images/products/page_70_full.png",
     "thumbnails": [
-      "/images/products/prod_p70_LF_168_212.png",
-      "/images/products/prod_p70_LF_168_212.png"
+      "/images/products/page_70_full.png",
+      "/images/products/page_70_full.png"
     ]
   },
   {
     "id": "213",
     "slug": "lf-605-size-l43xw30xh99-cm-213",
     "name": "LF 605 - Size L43xW30xH99 CM",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 605 - Size L43xW30xH99 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 605 - Size L43xW30xH99 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 605 - Size L43xW30xH99 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 605 - Size L43xW30xH99 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 605 - Size L43xW30xH99 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 605 - Size L43xW30xH99 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 71). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7113,29 +7113,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p71_LF_605_213.png",
-    "imageUrl": "/images/products/prod_p71_LF_605_213.png",
+    "image": "/images/products/page_71_full.png",
+    "imageUrl": "/images/products/page_71_full.png",
     "thumbnails": [
-      "/images/products/prod_p71_LF_605_213.png",
-      "/images/products/prod_p71_LF_605_213.png"
+      "/images/products/page_71_full.png",
+      "/images/products/page_71_full.png"
     ]
   },
   {
     "id": "214",
     "slug": "lf-604-size-l86xw35xh99-cm-214",
     "name": "LF 604 - Size L86xW35xH99 CM",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 604 - Size L86xW35xH99 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 604 - Size L86xW35xH99 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 604 - Size L86xW35xH99 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 604 - Size L86xW35xH99 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 604 - Size L86xW35xH99 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 604 - Size L86xW35xH99 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 71). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7146,29 +7146,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p71_LF_604_214.png",
-    "imageUrl": "/images/products/prod_p71_LF_604_214.png",
+    "image": "/images/products/page_71_full.png",
+    "imageUrl": "/images/products/page_71_full.png",
     "thumbnails": [
-      "/images/products/prod_p71_LF_604_214.png",
-      "/images/products/prod_p71_LF_604_214.png"
+      "/images/products/page_71_full.png",
+      "/images/products/page_71_full.png"
     ]
   },
   {
     "id": "215",
     "slug": "lf-606-size-l48xw35xh71-cm-215",
     "name": "LF 606 - Size L48xW35xH71 CM",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 606 - Size L48xW35xH71 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 606 - Size L48xW35xH71 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 606 - Size L48xW35xH71 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 606 - Size L48xW35xH71 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 606 - Size L48xW35xH71 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 606 - Size L48xW35xH71 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 71). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7179,29 +7179,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p71_LF_606_215.png",
-    "imageUrl": "/images/products/prod_p71_LF_606_215.png",
+    "image": "/images/products/page_71_full.png",
+    "imageUrl": "/images/products/page_71_full.png",
     "thumbnails": [
-      "/images/products/prod_p71_LF_606_215.png",
-      "/images/products/prod_p71_LF_606_215.png"
+      "/images/products/page_71_full.png",
+      "/images/products/page_71_full.png"
     ]
   },
   {
     "id": "216",
     "slug": "lf-601-size-l66xw43xh86-cm-216",
     "name": "LF 601 - Size L66xW43xH86 CM",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 601 - Size L66xW43xH86 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 601 - Size L66xW43xH86 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 601 - Size L66xW43xH86 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 601 - Size L66xW43xH86 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 601 - Size L66xW43xH86 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 601 - Size L66xW43xH86 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 71). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7212,29 +7212,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p71_LF_601_216.png",
-    "imageUrl": "/images/products/prod_p71_LF_601_216.png",
+    "image": "/images/products/page_71_full.png",
+    "imageUrl": "/images/products/page_71_full.png",
     "thumbnails": [
-      "/images/products/prod_p71_LF_601_216.png",
-      "/images/products/prod_p71_LF_601_216.png"
+      "/images/products/page_71_full.png",
+      "/images/products/page_71_full.png"
     ]
   },
   {
     "id": "217",
     "slug": "lf-602-size-l78xw38xh99-cm-217",
     "name": "LF 602 - Size L78xW38xH99 CM",
-    "price": "Quote on Request",
+    "price": "\u20b91,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 602 - Size L78xW38xH99 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 602 - Size L78xW38xH99 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 602 - Size L78xW38xH99 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 602 - Size L78xW38xH99 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 602 - Size L78xW38xH99 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 602 - Size L78xW38xH99 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 71). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7245,29 +7245,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p71_LF_602_217.png",
-    "imageUrl": "/images/products/prod_p71_LF_602_217.png",
+    "image": "/images/products/page_71_full.png",
+    "imageUrl": "/images/products/page_71_full.png",
     "thumbnails": [
-      "/images/products/prod_p71_LF_602_217.png",
-      "/images/products/prod_p71_LF_602_217.png"
+      "/images/products/page_71_full.png",
+      "/images/products/page_71_full.png"
     ]
   },
   {
     "id": "218",
     "slug": "lf-603-size-l86xw33xh45-cm-218",
     "name": "LF 603 - Size L86xW33xH45 CM",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 603 - Size L86xW33xH45 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 603 - Size L86xW33xH45 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 603 - Size L86xW33xH45 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 603 - Size L86xW33xH45 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 603 - Size L86xW33xH45 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 603 - Size L86xW33xH45 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 71). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7278,29 +7278,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p71_LF_603_218.png",
-    "imageUrl": "/images/products/prod_p71_LF_603_218.png",
+    "image": "/images/products/page_71_full.png",
+    "imageUrl": "/images/products/page_71_full.png",
     "thumbnails": [
-      "/images/products/prod_p71_LF_603_218.png",
-      "/images/products/prod_p71_LF_603_218.png"
+      "/images/products/page_71_full.png",
+      "/images/products/page_71_full.png"
     ]
   },
   {
     "id": "219",
     "slug": "lf-935-size-l119xw43xh81-cm-219",
     "name": "LF 935 - Size L119xW43xH81 CM",
-    "price": "Quote on Request",
+    "price": "\u20b93,790",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 935 - Size L119xW43xH81 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 935 - Size L119xW43xH81 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 935 - Size L119xW43xH81 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 935 - Size L119xW43xH81 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 935 - Size L119xW43xH81 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 935 - Size L119xW43xH81 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 72). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7311,29 +7311,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p72_LF_935_219.png",
-    "imageUrl": "/images/products/prod_p72_LF_935_219.png",
+    "image": "/images/products/page_72_full.png",
+    "imageUrl": "/images/products/page_72_full.png",
     "thumbnails": [
-      "/images/products/prod_p72_LF_935_219.png",
-      "/images/products/prod_p72_LF_935_219.png"
+      "/images/products/page_72_full.png",
+      "/images/products/page_72_full.png"
     ]
   },
   {
     "id": "220",
     "slug": "lf-936-size-l98xw35xh81-cm-220",
     "name": "LF 936 - Size L98xW35xH81 CM",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 936 - Size L98xW35xH81 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 936 - Size L98xW35xH81 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 936 - Size L98xW35xH81 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 936 - Size L98xW35xH81 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 936 - Size L98xW35xH81 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 936 - Size L98xW35xH81 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 72). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7344,29 +7344,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p72_LF_936_220.png",
-    "imageUrl": "/images/products/prod_p72_LF_936_220.png",
+    "image": "/images/products/page_72_full.png",
+    "imageUrl": "/images/products/page_72_full.png",
     "thumbnails": [
-      "/images/products/prod_p72_LF_936_220.png",
-      "/images/products/prod_p72_LF_936_220.png"
+      "/images/products/page_72_full.png",
+      "/images/products/page_72_full.png"
     ]
   },
   {
     "id": "221",
     "slug": "lf-937-size-l142xw35xh81-cm-221",
     "name": "LF 937 - Size L142xW35xH81 CM",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 937 - Size L142xW35xH81 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 937 - Size L142xW35xH81 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 937 - Size L142xW35xH81 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 937 - Size L142xW35xH81 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 937 - Size L142xW35xH81 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 937 - Size L142xW35xH81 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 72). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7377,77 +7377,77 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p72_LF_937_221.png",
-    "imageUrl": "/images/products/prod_p72_LF_937_221.png",
+    "image": "/images/products/page_72_full.png",
+    "imageUrl": "/images/products/page_72_full.png",
     "thumbnails": [
-      "/images/products/prod_p72_LF_937_221.png",
-      "/images/products/prod_p72_LF_937_221.png"
+      "/images/products/page_72_full.png",
+      "/images/products/page_72_full.png"
     ]
   },
   {
     "id": "222",
     "slug": "lf-5532-play-equipment-lf-5532-222",
     "name": "LF 5532 - Play Equipment LF 5532",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 5532 - Play Equipment LF 5532 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 5532 - Play Equipment LF 5532 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 5532 - Play Equipment LF 5532 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 5532 - Play Equipment LF 5532 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 5532 - Play Equipment LF 5532 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 5532 - Play Equipment LF 5532 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 73). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p73_LF_5532_222.png",
-    "imageUrl": "/images/products/prod_p73_LF_5532_222.png",
+    "image": "/images/products/page_73_full.png",
+    "imageUrl": "/images/products/page_73_full.png",
     "thumbnails": [
-      "/images/products/prod_p73_LF_5532_222.png",
-      "/images/products/prod_p73_LF_5532_222.png"
+      "/images/products/page_73_full.png",
+      "/images/products/page_73_full.png"
     ]
   },
   {
     "id": "223",
     "slug": "lft-1102c-play-equipment-lft-1102c-223",
     "name": "LFT 1102C - Play Equipment LFT 1102C",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 1102C - Play Equipment LFT 1102C is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1102C - Play Equipment LFT 1102C features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1102C - Play Equipment LFT 1102C is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1102C - Play Equipment LFT 1102C from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1102C - Play Equipment LFT 1102C is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1102C - Play Equipment LFT 1102C from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 73). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p73_LFT_1102C_223.png",
-    "imageUrl": "/images/products/prod_p73_LFT_1102C_223.png",
+    "image": "/images/products/page_73_full.png",
+    "imageUrl": "/images/products/page_73_full.png",
     "thumbnails": [
-      "/images/products/prod_p73_LFT_1102C_223.png",
-      "/images/products/prod_p73_LFT_1102C_223.png"
+      "/images/products/page_73_full.png",
+      "/images/products/page_73_full.png"
     ]
   },
   {
@@ -7458,14 +7458,14 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LFT 1104C - Size L 248 92 X W 72 39 X H 90 17 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1104C - Size L 248 92 X W 72 39 X H 90 17 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1104C - Size L 248 92 X W 72 39 X H 90 17 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1104C - Size L 248 92 X W 72 39 X H 90 17 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1104C - Size L 248 92 X W 72 39 X H 90 17 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1104C - Size L 248 92 X W 72 39 X H 90 17 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 73). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7476,29 +7476,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p73_LFT_1104C_224.png",
-    "imageUrl": "/images/products/prod_p73_LFT_1104C_224.png",
+    "image": "/images/products/page_73_full.png",
+    "imageUrl": "/images/products/page_73_full.png",
     "thumbnails": [
-      "/images/products/prod_p73_LFT_1104C_224.png",
-      "/images/products/prod_p73_LFT_1104C_224.png"
+      "/images/products/page_73_full.png",
+      "/images/products/page_73_full.png"
     ]
   },
   {
     "id": "225",
     "slug": "lf-5052-size-l176xw89xh89-cm-225",
     "name": "LF 5052 - Size L176xW89xH89 CM",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 5052 - Size L176xW89xH89 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 5052 - Size L176xW89xH89 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 5052 - Size L176xW89xH89 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 5052 - Size L176xW89xH89 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 5052 - Size L176xW89xH89 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 5052 - Size L176xW89xH89 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 73). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7509,29 +7509,29 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p73_LF_5052_225.png",
-    "imageUrl": "/images/products/prod_p73_LF_5052_225.png",
+    "image": "/images/products/page_73_full.png",
+    "imageUrl": "/images/products/page_73_full.png",
     "thumbnails": [
-      "/images/products/prod_p73_LF_5052_225.png",
-      "/images/products/prod_p73_LF_5052_225.png"
+      "/images/products/page_73_full.png",
+      "/images/products/page_73_full.png"
     ]
   },
   {
     "id": "226",
     "slug": "lf-5012-size-l45xw45xh105-cm-226",
     "name": "LF 5012 - Size L45xW45xH105 CM",
-    "price": "Quote on Request",
+    "price": "\u20b93,790",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 5012 - Size L45xW45xH105 CM is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 5012 - Size L45xW45xH105 CM features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 5012 - Size L45xW45xH105 CM is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 5012 - Size L45xW45xH105 CM from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 5012 - Size L45xW45xH105 CM is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 5012 - Size L45xW45xH105 CM from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 73). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7542,11 +7542,11 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p73_LF_5012_226.png",
-    "imageUrl": "/images/products/prod_p73_LF_5012_226.png",
+    "image": "/images/products/page_73_full.png",
+    "imageUrl": "/images/products/page_73_full.png",
     "thumbnails": [
-      "/images/products/prod_p73_LF_5012_226.png",
-      "/images/products/prod_p73_LF_5012_226.png"
+      "/images/products/page_73_full.png",
+      "/images/products/page_73_full.png"
     ]
   },
   {
@@ -7557,14 +7557,14 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 1101C - Size L 142 X Dia 45 cm is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1101C - Size L 142 X Dia 45 cm features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1101C - Size L 142 X Dia 45 cm is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1101C - Size L 142 X Dia 45 cm from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1101C - Size L 142 X Dia 45 cm is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1101C - Size L 142 X Dia 45 cm from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 73). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
@@ -7575,242 +7575,242 @@ export const products: Product[] = [
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p73_LF_1101C_227.png",
-    "imageUrl": "/images/products/prod_p73_LF_1101C_227.png",
+    "image": "/images/products/page_73_full.png",
+    "imageUrl": "/images/products/page_73_full.png",
     "thumbnails": [
-      "/images/products/prod_p73_LF_1101C_227.png",
-      "/images/products/prod_p73_LF_1101C_227.png"
+      "/images/products/page_73_full.png",
+      "/images/products/page_73_full.png"
     ]
   },
   {
     "id": "228",
     "slug": "lf-1103c-play-equipment-lf-1103c-228",
     "name": "LF 1103C - Play Equipment LF 1103C",
-    "price": "Quote on Request",
+    "price": "\u20b96,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 1103C - Play Equipment LF 1103C is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 1103C - Play Equipment LF 1103C features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 1103C - Play Equipment LF 1103C is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 1103C - Play Equipment LF 1103C from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 1103C - Play Equipment LF 1103C is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 1103C - Play Equipment LF 1103C from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 73). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p73_LF_1103C_228.png",
-    "imageUrl": "/images/products/prod_p73_LF_1103C_228.png",
+    "image": "/images/products/page_73_full.png",
+    "imageUrl": "/images/products/page_73_full.png",
     "thumbnails": [
-      "/images/products/prod_p73_LF_1103C_228.png",
-      "/images/products/prod_p73_LF_1103C_228.png"
+      "/images/products/page_73_full.png",
+      "/images/products/page_73_full.png"
     ]
   },
   {
     "id": "229",
     "slug": "lf-52-divider-10-pcs-229",
     "name": "LF 52 - Divider 10 pcs",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 52 - Divider 10 pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 52 - Divider 10 pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 52 - Divider 10 pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 52 - Divider 10 pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 52 - Divider 10 pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 52 - Divider 10 pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 74). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p74_LF_52_229.png",
-    "imageUrl": "/images/products/prod_p74_LF_52_229.png",
+    "image": "/images/products/page_74_full.png",
+    "imageUrl": "/images/products/page_74_full.png",
     "thumbnails": [
-      "/images/products/prod_p74_LF_52_229.png",
-      "/images/products/prod_p74_LF_52_229.png"
+      "/images/products/page_74_full.png",
+      "/images/products/page_74_full.png"
     ]
   },
   {
     "id": "230",
     "slug": "lf-58-swing-230",
     "name": "LF 58 - Swing",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 58 - Swing is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 58 - Swing features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 58 - Swing is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 58 - Swing from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 58 - Swing is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 58 - Swing from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 74). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p74_LF_58_230.png",
-    "imageUrl": "/images/products/prod_p74_LF_58_230.png",
+    "image": "/images/products/page_74_full.png",
+    "imageUrl": "/images/products/page_74_full.png",
     "thumbnails": [
-      "/images/products/prod_p74_LF_58_230.png",
-      "/images/products/prod_p74_LF_58_230.png"
+      "/images/products/page_74_full.png",
+      "/images/products/page_74_full.png"
     ]
   },
   {
     "id": "231",
     "slug": "lf414a-agility-ladde-231",
     "name": "LF414A - Agility Ladde",
-    "price": "Quote on Request",
+    "price": "\u20b91,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF414A - Agility Ladde is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF414A - Agility Ladde features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF414A - Agility Ladde is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF414A - Agility Ladde from the official Play Solution Indoor Catalogue.",
+    "description": "The LF414A - Agility Ladde is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF414A - Agility Ladde from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 74). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p74_LF414A_231.png",
-    "imageUrl": "/images/products/prod_p74_LF414A_231.png",
+    "image": "/images/products/page_74_full.png",
+    "imageUrl": "/images/products/page_74_full.png",
     "thumbnails": [
-      "/images/products/prod_p74_LF414A_231.png",
-      "/images/products/prod_p74_LF414A_231.png"
+      "/images/products/page_74_full.png",
+      "/images/products/page_74_full.png"
     ]
   },
   {
     "id": "232",
     "slug": "lf-56-ring-50-dia-232",
     "name": "LF 56 - Ring (50 dia)",
-    "price": "Quote on Request",
+    "price": "\u20b92,690",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 56 - Ring (50 dia) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 56 - Ring (50 dia) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 56 - Ring (50 dia) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 56 - Ring (50 dia) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 56 - Ring (50 dia) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 56 - Ring (50 dia) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 74). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p74_LF_56_232.png",
-    "imageUrl": "/images/products/prod_p74_LF_56_232.png",
+    "image": "/images/products/page_74_full.png",
+    "imageUrl": "/images/products/page_74_full.png",
     "thumbnails": [
-      "/images/products/prod_p74_LF_56_232.png",
-      "/images/products/prod_p74_LF_56_232.png"
+      "/images/products/page_74_full.png",
+      "/images/products/page_74_full.png"
     ]
   },
   {
     "id": "233",
     "slug": "lf-57-ring-40-dia-233",
     "name": "LF 57 - Ring (40 dia)",
-    "price": "Quote on Request",
+    "price": "\u20b93,790",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 57 - Ring (40 dia) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 57 - Ring (40 dia) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 57 - Ring (40 dia) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 57 - Ring (40 dia) from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 57 - Ring (40 dia) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 57 - Ring (40 dia) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 74). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p74_LF_57_233.png",
-    "imageUrl": "/images/products/prod_p74_LF_57_233.png",
+    "image": "/images/products/page_74_full.png",
+    "imageUrl": "/images/products/page_74_full.png",
     "thumbnails": [
-      "/images/products/prod_p74_LF_57_233.png",
-      "/images/products/prod_p74_LF_57_233.png"
+      "/images/products/page_74_full.png",
+      "/images/products/page_74_full.png"
     ]
   },
   {
     "id": "234",
     "slug": "lf-53-play-equipment-lf-53-234",
     "name": "LF 53 - Play Equipment LF 53",
-    "price": "Quote on Request",
+    "price": "\u20b94,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 53 - Play Equipment LF 53 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 53 - Play Equipment LF 53 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 53 - Play Equipment LF 53 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 53 - Play Equipment LF 53 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 53 - Play Equipment LF 53 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 53 - Play Equipment LF 53 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 74). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p74_LF_53_234.png",
-    "imageUrl": "/images/products/prod_p74_LF_53_234.png",
+    "image": "/images/products/page_74_full.png",
+    "imageUrl": "/images/products/page_74_full.png",
     "thumbnails": [
-      "/images/products/prod_p74_LF_53_234.png",
-      "/images/products/prod_p74_LF_53_234.png"
+      "/images/products/page_74_full.png",
+      "/images/products/page_74_full.png"
     ]
   },
   {
@@ -7821,953 +7821,953 @@ export const products: Product[] = [
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 51 - Play Equipment LF 51 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 51 - Play Equipment LF 51 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 51 - Play Equipment LF 51 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 51 - Play Equipment LF 51 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 51 - Play Equipment LF 51 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 51 - Play Equipment LF 51 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 74). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p74_LF_51_235.png",
-    "imageUrl": "/images/products/prod_p74_LF_51_235.png",
+    "image": "/images/products/page_74_full.png",
+    "imageUrl": "/images/products/page_74_full.png",
     "thumbnails": [
-      "/images/products/prod_p74_LF_51_235.png",
-      "/images/products/prod_p74_LF_51_235.png"
+      "/images/products/page_74_full.png",
+      "/images/products/page_74_full.png"
     ]
   },
   {
     "id": "236",
     "slug": "lf-144-balancer-6-pcs-236",
     "name": "LF 144 - Balancer 6 pcs",
-    "price": "Quote on Request",
+    "price": "\u20b99,490",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 144 - Balancer 6 pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 144 - Balancer 6 pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 144 - Balancer 6 pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 144 - Balancer 6 pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 144 - Balancer 6 pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 144 - Balancer 6 pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 75). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p75_LF_144_236.png",
-    "imageUrl": "/images/products/prod_p75_LF_144_236.png",
+    "image": "/images/products/page_75_full.png",
+    "imageUrl": "/images/products/page_75_full.png",
     "thumbnails": [
-      "/images/products/prod_p75_LF_144_236.png",
-      "/images/products/prod_p75_LF_144_236.png"
+      "/images/products/page_75_full.png",
+      "/images/products/page_75_full.png"
     ]
   },
   {
     "id": "237",
     "slug": "lf-143-balancer-8-pcs-237",
     "name": "LF 143 - Balancer 8 Pcs",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Rockers & Trampolines",
     "categoryId": "rockers-riders",
     "categoryColor": "#4ECDC4",
-    "shortDescription": "LF 143 - Balancer 8 Pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 143 - Balancer 8 Pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 143 - Balancer 8 Pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 143 - Balancer 8 Pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 143 - Balancer 8 Pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 143 - Balancer 8 Pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 75). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p75_LF_143_237.png",
-    "imageUrl": "/images/products/prod_p75_LF_143_237.png",
+    "image": "/images/products/page_75_full.png",
+    "imageUrl": "/images/products/page_75_full.png",
     "thumbnails": [
-      "/images/products/prod_p75_LF_143_237.png",
-      "/images/products/prod_p75_LF_143_237.png"
+      "/images/products/page_75_full.png",
+      "/images/products/page_75_full.png"
     ]
   },
   {
     "id": "238",
     "slug": "lf-145-play-equipment-lf-145-238",
     "name": "LF 145 - Play Equipment LF 145",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 145 - Play Equipment LF 145 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 145 - Play Equipment LF 145 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 145 - Play Equipment LF 145 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 145 - Play Equipment LF 145 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 145 - Play Equipment LF 145 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 145 - Play Equipment LF 145 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 76). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p76_LF_145_238.png",
-    "imageUrl": "/images/products/prod_p76_LF_145_238.png",
+    "image": "/images/products/page_76_full.png",
+    "imageUrl": "/images/products/page_76_full.png",
     "thumbnails": [
-      "/images/products/prod_p76_LF_145_238.png",
-      "/images/products/prod_p76_LF_145_238.png"
+      "/images/products/page_76_full.png",
+      "/images/products/page_76_full.png"
     ]
   },
   {
     "id": "239",
     "slug": "lf-147-play-equipment-lf-147-239",
     "name": "LF 147 - Play Equipment LF 147",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 147 - Play Equipment LF 147 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 147 - Play Equipment LF 147 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 147 - Play Equipment LF 147 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 147 - Play Equipment LF 147 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 147 - Play Equipment LF 147 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 147 - Play Equipment LF 147 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 77). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p77_LF_147_239.png",
-    "imageUrl": "/images/products/prod_p77_LF_147_239.png",
+    "image": "/images/products/page_77_full.png",
+    "imageUrl": "/images/products/page_77_full.png",
     "thumbnails": [
-      "/images/products/prod_p77_LF_147_239.png",
-      "/images/products/prod_p77_LF_147_239.png"
+      "/images/products/page_77_full.png",
+      "/images/products/page_77_full.png"
     ]
   },
   {
     "id": "240",
     "slug": "lf-148-play-equipment-lf-148-240",
     "name": "LF 148 - Play Equipment LF 148",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 148 - Play Equipment LF 148 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 148 - Play Equipment LF 148 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 148 - Play Equipment LF 148 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 148 - Play Equipment LF 148 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 148 - Play Equipment LF 148 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 148 - Play Equipment LF 148 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 78). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p78_LF_148_240.png",
-    "imageUrl": "/images/products/prod_p78_LF_148_240.png",
+    "image": "/images/products/page_78_full.png",
+    "imageUrl": "/images/products/page_78_full.png",
     "thumbnails": [
-      "/images/products/prod_p78_LF_148_240.png",
-      "/images/products/prod_p78_LF_148_240.png"
+      "/images/products/page_78_full.png",
+      "/images/products/page_78_full.png"
     ]
   },
   {
     "id": "241",
     "slug": "lf-149-play-equipment-lf-149-241",
     "name": "LF 149 - Play Equipment LF 149",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 149 - Play Equipment LF 149 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 149 - Play Equipment LF 149 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 149 - Play Equipment LF 149 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 149 - Play Equipment LF 149 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 149 - Play Equipment LF 149 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 149 - Play Equipment LF 149 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 79). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p79_LF_149_241.png",
-    "imageUrl": "/images/products/prod_p79_LF_149_241.png",
+    "image": "/images/products/page_79_full.png",
+    "imageUrl": "/images/products/page_79_full.png",
     "thumbnails": [
-      "/images/products/prod_p79_LF_149_241.png",
-      "/images/products/prod_p79_LF_149_241.png"
+      "/images/products/page_79_full.png",
+      "/images/products/page_79_full.png"
     ]
   },
   {
     "id": "242",
     "slug": "lf-150-play-equipment-lf-150-242",
     "name": "LF 150 - Play Equipment LF 150",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 150 - Play Equipment LF 150 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 150 - Play Equipment LF 150 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 150 - Play Equipment LF 150 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 150 - Play Equipment LF 150 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 150 - Play Equipment LF 150 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 150 - Play Equipment LF 150 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 80). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p80_LF_150_242.png",
-    "imageUrl": "/images/products/prod_p80_LF_150_242.png",
+    "image": "/images/products/page_80_full.png",
+    "imageUrl": "/images/products/page_80_full.png",
     "thumbnails": [
-      "/images/products/prod_p80_LF_150_242.png",
-      "/images/products/prod_p80_LF_150_242.png"
+      "/images/products/page_80_full.png",
+      "/images/products/page_80_full.png"
     ]
   },
   {
     "id": "243",
     "slug": "lf-151-play-equipment-lf-151-243",
     "name": "LF 151 - Play Equipment LF 151",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 151 - Play Equipment LF 151 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 151 - Play Equipment LF 151 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 151 - Play Equipment LF 151 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 151 - Play Equipment LF 151 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 151 - Play Equipment LF 151 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 151 - Play Equipment LF 151 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 81). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p81_LF_151_243.png",
-    "imageUrl": "/images/products/prod_p81_LF_151_243.png",
+    "image": "/images/products/page_81_full.png",
+    "imageUrl": "/images/products/page_81_full.png",
     "thumbnails": [
-      "/images/products/prod_p81_LF_151_243.png",
-      "/images/products/prod_p81_LF_151_243.png"
+      "/images/products/page_81_full.png",
+      "/images/products/page_81_full.png"
     ]
   },
   {
     "id": "244",
     "slug": "lf-152-play-equipment-lf-152-244",
     "name": "LF 152 - Play Equipment LF 152",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 152 - Play Equipment LF 152 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 152 - Play Equipment LF 152 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 152 - Play Equipment LF 152 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 152 - Play Equipment LF 152 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 152 - Play Equipment LF 152 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 152 - Play Equipment LF 152 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 82). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p82_LF_152_244.png",
-    "imageUrl": "/images/products/prod_p82_LF_152_244.png",
+    "image": "/images/products/page_82_full.png",
+    "imageUrl": "/images/products/page_82_full.png",
     "thumbnails": [
-      "/images/products/prod_p82_LF_152_244.png",
-      "/images/products/prod_p82_LF_152_244.png"
+      "/images/products/page_82_full.png",
+      "/images/products/page_82_full.png"
     ]
   },
   {
     "id": "245",
     "slug": "lf-153-play-equipment-lf-153-245",
     "name": "LF 153 - Play Equipment LF 153",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 153 - Play Equipment LF 153 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 153 - Play Equipment LF 153 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 153 - Play Equipment LF 153 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 153 - Play Equipment LF 153 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 153 - Play Equipment LF 153 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 153 - Play Equipment LF 153 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 83). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p83_LF_153_245.png",
-    "imageUrl": "/images/products/prod_p83_LF_153_245.png",
+    "image": "/images/products/page_83_full.png",
+    "imageUrl": "/images/products/page_83_full.png",
     "thumbnails": [
-      "/images/products/prod_p83_LF_153_245.png",
-      "/images/products/prod_p83_LF_153_245.png"
+      "/images/products/page_83_full.png",
+      "/images/products/page_83_full.png"
     ]
   },
   {
     "id": "246",
     "slug": "lf-161-play-equipment-lf-161-246",
     "name": "LF 161 - Play Equipment LF 161",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 161 - Play Equipment LF 161 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 161 - Play Equipment LF 161 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 161 - Play Equipment LF 161 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 161 - Play Equipment LF 161 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 161 - Play Equipment LF 161 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 161 - Play Equipment LF 161 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 84). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p84_LF_161_246.png",
-    "imageUrl": "/images/products/prod_p84_LF_161_246.png",
+    "image": "/images/products/page_84_full.png",
+    "imageUrl": "/images/products/page_84_full.png",
     "thumbnails": [
-      "/images/products/prod_p84_LF_161_246.png",
-      "/images/products/prod_p84_LF_161_246.png"
+      "/images/products/page_84_full.png",
+      "/images/products/page_84_full.png"
     ]
   },
   {
     "id": "247",
     "slug": "lf-162-play-equipment-lf-162-247",
     "name": "LF 162 - Play Equipment LF 162",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 162 - Play Equipment LF 162 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 162 - Play Equipment LF 162 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 162 - Play Equipment LF 162 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 162 - Play Equipment LF 162 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 162 - Play Equipment LF 162 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 162 - Play Equipment LF 162 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 84). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p84_LF_162_247.png",
-    "imageUrl": "/images/products/prod_p84_LF_162_247.png",
+    "image": "/images/products/page_84_full.png",
+    "imageUrl": "/images/products/page_84_full.png",
     "thumbnails": [
-      "/images/products/prod_p84_LF_162_247.png",
-      "/images/products/prod_p84_LF_162_247.png"
+      "/images/products/page_84_full.png",
+      "/images/products/page_84_full.png"
     ]
   },
   {
     "id": "248",
     "slug": "lf-164-play-equipment-lf-164-248",
     "name": "LF 164 - Play Equipment LF 164",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 164 - Play Equipment LF 164 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 164 - Play Equipment LF 164 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 164 - Play Equipment LF 164 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 164 - Play Equipment LF 164 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 164 - Play Equipment LF 164 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 164 - Play Equipment LF 164 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 85). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p85_LF_164_248.png",
-    "imageUrl": "/images/products/prod_p85_LF_164_248.png",
+    "image": "/images/products/page_85_full.png",
+    "imageUrl": "/images/products/page_85_full.png",
     "thumbnails": [
-      "/images/products/prod_p85_LF_164_248.png",
-      "/images/products/prod_p85_LF_164_248.png"
+      "/images/products/page_85_full.png",
+      "/images/products/page_85_full.png"
     ]
   },
   {
     "id": "249",
     "slug": "lf-165-play-equipment-lf-165-249",
     "name": "LF 165 - Play Equipment LF 165",
-    "price": "Quote on Request",
+    "price": "\u20b919,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 165 - Play Equipment LF 165 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 165 - Play Equipment LF 165 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 165 - Play Equipment LF 165 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 165 - Play Equipment LF 165 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 165 - Play Equipment LF 165 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 165 - Play Equipment LF 165 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 86). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p86_LF_165_249.png",
-    "imageUrl": "/images/products/prod_p86_LF_165_249.png",
+    "image": "/images/products/page_86_full.png",
+    "imageUrl": "/images/products/page_86_full.png",
     "thumbnails": [
-      "/images/products/prod_p86_LF_165_249.png",
-      "/images/products/prod_p86_LF_165_249.png"
+      "/images/products/page_86_full.png",
+      "/images/products/page_86_full.png"
     ]
   },
   {
     "id": "250",
     "slug": "lf-169-play-equipment-lf-169-250",
     "name": "LF 169 - Play Equipment LF 169",
-    "price": "Quote on Request",
+    "price": "\u20b924,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 169 - Play Equipment LF 169 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 169 - Play Equipment LF 169 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 169 - Play Equipment LF 169 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 169 - Play Equipment LF 169 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 169 - Play Equipment LF 169 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 169 - Play Equipment LF 169 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 87). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p87_LF_169_250.png",
-    "imageUrl": "/images/products/prod_p87_LF_169_250.png",
+    "image": "/images/products/page_87_full.png",
+    "imageUrl": "/images/products/page_87_full.png",
     "thumbnails": [
-      "/images/products/prod_p87_LF_169_250.png",
-      "/images/products/prod_p87_LF_169_250.png"
+      "/images/products/page_87_full.png",
+      "/images/products/page_87_full.png"
     ]
   },
   {
     "id": "251",
     "slug": "lf-167-play-equipment-lf-167-251",
     "name": "LF 167 - Play Equipment LF 167",
-    "price": "Quote on Request",
+    "price": "\u20b929,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 167 - Play Equipment LF 167 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 167 - Play Equipment LF 167 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 167 - Play Equipment LF 167 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 167 - Play Equipment LF 167 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 167 - Play Equipment LF 167 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 167 - Play Equipment LF 167 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 87). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Natural Beech Wood Finish with Pastel Accent Edges",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p87_LF_167_251.png",
-    "imageUrl": "/images/products/prod_p87_LF_167_251.png",
+    "image": "/images/products/page_87_full.png",
+    "imageUrl": "/images/products/page_87_full.png",
     "thumbnails": [
-      "/images/products/prod_p87_LF_167_251.png",
-      "/images/products/prod_p87_LF_167_251.png"
+      "/images/products/page_87_full.png",
+      "/images/products/page_87_full.png"
     ]
   },
   {
     "id": "252",
     "slug": "lf-170-play-equipment-lf-170-252",
     "name": "LF 170 - Play Equipment LF 170",
-    "price": "Quote on Request",
+    "price": "\u20b98,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 170 - Play Equipment LF 170 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 170 - Play Equipment LF 170 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 170 - Play Equipment LF 170 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 170 - Play Equipment LF 170 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 170 - Play Equipment LF 170 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 170 - Play Equipment LF 170 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 87). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p87_LF_170_252.png",
-    "imageUrl": "/images/products/prod_p87_LF_170_252.png",
+    "image": "/images/products/page_87_full.png",
+    "imageUrl": "/images/products/page_87_full.png",
     "thumbnails": [
-      "/images/products/prod_p87_LF_170_252.png",
-      "/images/products/prod_p87_LF_170_252.png"
+      "/images/products/page_87_full.png",
+      "/images/products/page_87_full.png"
     ]
   },
   {
     "id": "253",
     "slug": "lf-62-play-equipment-lf-62-253",
     "name": "LF 62 - Play Equipment LF 62",
-    "price": "Quote on Request",
+    "price": "\u20b911,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 62 - Play Equipment LF 62 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 62 - Play Equipment LF 62 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 62 - Play Equipment LF 62 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 62 - Play Equipment LF 62 from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 62 - Play Equipment LF 62 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 62 - Play Equipment LF 62 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 88). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p88_LF_62_253.png",
-    "imageUrl": "/images/products/prod_p88_LF_62_253.png",
+    "image": "/images/products/page_88_full.png",
+    "imageUrl": "/images/products/page_88_full.png",
     "thumbnails": [
-      "/images/products/prod_p88_LF_62_253.png",
-      "/images/products/prod_p88_LF_62_253.png"
+      "/images/products/page_88_full.png",
+      "/images/products/page_88_full.png"
     ]
   },
   {
     "id": "254",
     "slug": "lf-62s-play-equipment-lf-62s-254",
     "name": "LF 62S - Play Equipment LF 62S",
-    "price": "Quote on Request",
+    "price": "\u20b914,990",
     "category": "Physical Activity Equipment",
     "categoryId": "indoor",
     "categoryColor": "#FF6B35",
-    "shortDescription": "LF 62S - Play Equipment LF 62S is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LF 62S - Play Equipment LF 62S features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LF 62S - Play Equipment LF 62S is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LF 62S - Play Equipment LF 62S from the official Play Solution Indoor Catalogue.",
+    "description": "The LF 62S - Play Equipment LF 62S is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LF 62S - Play Equipment LF 62S from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 88). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p88_LF_62S_254.png",
-    "imageUrl": "/images/products/prod_p88_LF_62S_254.png",
+    "image": "/images/products/page_88_full.png",
+    "imageUrl": "/images/products/page_88_full.png",
     "thumbnails": [
-      "/images/products/prod_p88_LF_62S_254.png",
-      "/images/products/prod_p88_LF_62S_254.png"
+      "/images/products/page_88_full.png",
+      "/images/products/page_88_full.png"
     ]
   },
   {
     "id": "255",
     "slug": "lft-21a-play-equipment-lft-21a-255",
     "name": "LFT 21A - Play Equipment LFT 21A",
-    "price": "Quote on Request",
+    "price": "\u20b91,199",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 21A - Play Equipment LFT 21A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 21A - Play Equipment LFT 21A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 21A - Play Equipment LFT 21A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 21A - Play Equipment LFT 21A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 21A - Play Equipment LFT 21A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 21A - Play Equipment LFT 21A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_21A_255.png",
-    "imageUrl": "/images/products/prod_p89_LFT_21A_255.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_21A_255.png",
-      "/images/products/prod_p89_LFT_21A_255.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
     "id": "256",
     "slug": "lft-22a-play-equipment-lft-22a-256",
     "name": "LFT 22A - Play Equipment LFT 22A",
-    "price": "Quote on Request",
+    "price": "\u20b91,990",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 22A - Play Equipment LFT 22A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 22A - Play Equipment LFT 22A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 22A - Play Equipment LFT 22A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 22A - Play Equipment LFT 22A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 22A - Play Equipment LFT 22A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 22A - Play Equipment LFT 22A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_22A_256.png",
-    "imageUrl": "/images/products/prod_p89_LFT_22A_256.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_22A_256.png",
-      "/images/products/prod_p89_LFT_22A_256.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
     "id": "257",
     "slug": "lft-23a-play-equipment-lft-23a-257",
     "name": "LFT 23A - Play Equipment LFT 23A",
-    "price": "Quote on Request",
+    "price": "\u20b92,395",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 23A - Play Equipment LFT 23A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 23A - Play Equipment LFT 23A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 23A - Play Equipment LFT 23A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 23A - Play Equipment LFT 23A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 23A - Play Equipment LFT 23A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 23A - Play Equipment LFT 23A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_23A_257.png",
-    "imageUrl": "/images/products/prod_p89_LFT_23A_257.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_23A_257.png",
-      "/images/products/prod_p89_LFT_23A_257.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
     "id": "258",
     "slug": "lft-29a-play-equipment-lft-29a-258",
     "name": "LFT 29A - Play Equipment LFT 29A",
-    "price": "Quote on Request",
+    "price": "\u20b92,795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 29A - Play Equipment LFT 29A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 29A - Play Equipment LFT 29A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 29A - Play Equipment LFT 29A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 29A - Play Equipment LFT 29A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 29A - Play Equipment LFT 29A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 29A - Play Equipment LFT 29A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_29A_258.png",
-    "imageUrl": "/images/products/prod_p89_LFT_29A_258.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_29A_258.png",
-      "/images/products/prod_p89_LFT_29A_258.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
     "id": "259",
     "slug": "lft-24a-play-equipment-lft-24a-259",
     "name": "LFT 24A - Play Equipment LFT 24A",
-    "price": "Quote on Request",
+    "price": "\u20b93,995",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 24A - Play Equipment LFT 24A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 24A - Play Equipment LFT 24A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 24A - Play Equipment LFT 24A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 24A - Play Equipment LFT 24A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 24A - Play Equipment LFT 24A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 24A - Play Equipment LFT 24A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_24A_259.png",
-    "imageUrl": "/images/products/prod_p89_LFT_24A_259.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_24A_259.png",
-      "/images/products/prod_p89_LFT_24A_259.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
     "id": "260",
     "slug": "lft-25a-play-equipment-lft-25a-260",
     "name": "LFT 25A - Play Equipment LFT 25A",
-    "price": "Quote on Request",
+    "price": "\u20b9299",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 25A - Play Equipment LFT 25A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 25A - Play Equipment LFT 25A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 25A - Play Equipment LFT 25A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 25A - Play Equipment LFT 25A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 25A - Play Equipment LFT 25A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 25A - Play Equipment LFT 25A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_25A_260.png",
-    "imageUrl": "/images/products/prod_p89_LFT_25A_260.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_25A_260.png",
-      "/images/products/prod_p89_LFT_25A_260.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
     "id": "261",
     "slug": "lft-26a-play-equipment-lft-26a-261",
     "name": "LFT 26A - Play Equipment LFT 26A",
-    "price": "Quote on Request",
+    "price": "\u20b9450",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 26A - Play Equipment LFT 26A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 26A - Play Equipment LFT 26A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 26A - Play Equipment LFT 26A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 26A - Play Equipment LFT 26A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 26A - Play Equipment LFT 26A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 26A - Play Equipment LFT 26A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_26A_261.png",
-    "imageUrl": "/images/products/prod_p89_LFT_26A_261.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_26A_261.png",
-      "/images/products/prod_p89_LFT_26A_261.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
     "id": "262",
     "slug": "lft-27a-play-equipment-lft-27a-262",
     "name": "LFT 27A - Play Equipment LFT 27A",
-    "price": "Quote on Request",
+    "price": "\u20b9599",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 27A - Play Equipment LFT 27A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 27A - Play Equipment LFT 27A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 27A - Play Equipment LFT 27A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 27A - Play Equipment LFT 27A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 27A - Play Equipment LFT 27A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 27A - Play Equipment LFT 27A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_27A_262.png",
-    "imageUrl": "/images/products/prod_p89_LFT_27A_262.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_27A_262.png",
-      "/images/products/prod_p89_LFT_27A_262.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
     "id": "263",
     "slug": "lft-28a-play-equipment-lft-28a-263",
     "name": "LFT 28A - Play Equipment LFT 28A",
-    "price": "Quote on Request",
+    "price": "\u20b9795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 28A - Play Equipment LFT 28A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 28A - Play Equipment LFT 28A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 28A - Play Equipment LFT 28A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 28A - Play Equipment LFT 28A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 28A - Play Equipment LFT 28A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 28A - Play Equipment LFT 28A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 89). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p89_LFT_28A_263.png",
-    "imageUrl": "/images/products/prod_p89_LFT_28A_263.png",
+    "image": "/images/products/page_89_full.png",
+    "imageUrl": "/images/products/page_89_full.png",
     "thumbnails": [
-      "/images/products/prod_p89_LFT_28A_263.png",
-      "/images/products/prod_p89_LFT_28A_263.png"
+      "/images/products/page_89_full.png",
+      "/images/products/page_89_full.png"
     ]
   },
   {
@@ -8778,29 +8778,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 34A - Play Equipment LFT 34A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 34A - Play Equipment LFT 34A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 34A - Play Equipment LFT 34A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 34A - Play Equipment LFT 34A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 34A - Play Equipment LFT 34A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 34A - Play Equipment LFT 34A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_34A_264.png",
-    "imageUrl": "/images/products/prod_p90_LFT_34A_264.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_34A_264.png",
-      "/images/products/prod_p90_LFT_34A_264.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -8811,29 +8811,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 35A - Play Equipment LFT 35A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 35A - Play Equipment LFT 35A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 35A - Play Equipment LFT 35A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 35A - Play Equipment LFT 35A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 35A - Play Equipment LFT 35A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 35A - Play Equipment LFT 35A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_35A_265.png",
-    "imageUrl": "/images/products/prod_p90_LFT_35A_265.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_35A_265.png",
-      "/images/products/prod_p90_LFT_35A_265.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -8844,62 +8844,62 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 36A - Play Equipment LFT 36A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 36A - Play Equipment LFT 36A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 36A - Play Equipment LFT 36A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 36A - Play Equipment LFT 36A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 36A - Play Equipment LFT 36A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 36A - Play Equipment LFT 36A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_36A_266.png",
-    "imageUrl": "/images/products/prod_p90_LFT_36A_266.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_36A_266.png",
-      "/images/products/prod_p90_LFT_36A_266.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
     "id": "267",
     "slug": "lft-37a-play-equipment-lft-37a-267",
     "name": "LFT 37A - Play Equipment LFT 37A",
-    "price": "Quote on Request",
+    "price": "\u20b92,395",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 37A - Play Equipment LFT 37A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 37A - Play Equipment LFT 37A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 37A - Play Equipment LFT 37A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 37A - Play Equipment LFT 37A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 37A - Play Equipment LFT 37A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 37A - Play Equipment LFT 37A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_37A_267.png",
-    "imageUrl": "/images/products/prod_p90_LFT_37A_267.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_37A_267.png",
-      "/images/products/prod_p90_LFT_37A_267.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -8910,29 +8910,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 38A - Play Equipment LFT 38A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 38A - Play Equipment LFT 38A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 38A - Play Equipment LFT 38A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 38A - Play Equipment LFT 38A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 38A - Play Equipment LFT 38A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 38A - Play Equipment LFT 38A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_38A_268.png",
-    "imageUrl": "/images/products/prod_p90_LFT_38A_268.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_38A_268.png",
-      "/images/products/prod_p90_LFT_38A_268.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -8943,29 +8943,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 39A - Play Equipment LFT 39A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 39A - Play Equipment LFT 39A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 39A - Play Equipment LFT 39A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 39A - Play Equipment LFT 39A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 39A - Play Equipment LFT 39A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 39A - Play Equipment LFT 39A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_39A_269.png",
-    "imageUrl": "/images/products/prod_p90_LFT_39A_269.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_39A_269.png",
-      "/images/products/prod_p90_LFT_39A_269.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -8976,29 +8976,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 40A - Play Equipment LFT 40A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 40A - Play Equipment LFT 40A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 40A - Play Equipment LFT 40A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 40A - Play Equipment LFT 40A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 40A - Play Equipment LFT 40A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 40A - Play Equipment LFT 40A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_40A_270.png",
-    "imageUrl": "/images/products/prod_p90_LFT_40A_270.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_40A_270.png",
-      "/images/products/prod_p90_LFT_40A_270.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -9009,29 +9009,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 32A - Play Equipment LFT 32A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 32A - Play Equipment LFT 32A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 32A - Play Equipment LFT 32A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 32A - Play Equipment LFT 32A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 32A - Play Equipment LFT 32A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 32A - Play Equipment LFT 32A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_32A_271.png",
-    "imageUrl": "/images/products/prod_p90_LFT_32A_271.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_32A_271.png",
-      "/images/products/prod_p90_LFT_32A_271.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -9042,29 +9042,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 33A - Play Equipment LFT 33A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 33A - Play Equipment LFT 33A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 33A - Play Equipment LFT 33A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 33A - Play Equipment LFT 33A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 33A - Play Equipment LFT 33A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 33A - Play Equipment LFT 33A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_33A_272.png",
-    "imageUrl": "/images/products/prod_p90_LFT_33A_272.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_33A_272.png",
-      "/images/products/prod_p90_LFT_33A_272.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -9075,29 +9075,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 31A - Play Equipment LFT 31A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 31A - Play Equipment LFT 31A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 31A - Play Equipment LFT 31A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 31A - Play Equipment LFT 31A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 31A - Play Equipment LFT 31A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 31A - Play Equipment LFT 31A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_31A_273.png",
-    "imageUrl": "/images/products/prod_p90_LFT_31A_273.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_31A_273.png",
-      "/images/products/prod_p90_LFT_31A_273.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
@@ -9108,491 +9108,491 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 30A - Play Equipment LFT 30A is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 30A - Play Equipment LFT 30A features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 30A - Play Equipment LFT 30A is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 30A - Play Equipment LFT 30A from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 30A - Play Equipment LFT 30A is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 30A - Play Equipment LFT 30A from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 90). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p90_LFT_30A_274.png",
-    "imageUrl": "/images/products/prod_p90_LFT_30A_274.png",
+    "image": "/images/products/page_90_full.png",
+    "imageUrl": "/images/products/page_90_full.png",
     "thumbnails": [
-      "/images/products/prod_p90_LFT_30A_274.png",
-      "/images/products/prod_p90_LFT_30A_274.png"
+      "/images/products/page_90_full.png",
+      "/images/products/page_90_full.png"
     ]
   },
   {
     "id": "275",
     "slug": "lfp-10-insect-puppet-275",
     "name": "LFP 10 - Insect Puppet",
-    "price": "Quote on Request",
+    "price": "\u20b91,199",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 10 - Insect Puppet is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 10 - Insect Puppet features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 10 - Insect Puppet is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 10 - Insect Puppet from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 10 - Insect Puppet is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 10 - Insect Puppet from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_10_275.png",
-    "imageUrl": "/images/products/prod_p91_LFP_10_275.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_10_275.png",
-      "/images/products/prod_p91_LFP_10_275.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "276",
     "slug": "lfp-11-family-puppet-276",
     "name": "LFP 11 - Family Puppet",
-    "price": "Quote on Request",
+    "price": "\u20b91,990",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 11 - Family Puppet is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 11 - Family Puppet features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 11 - Family Puppet is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 11 - Family Puppet from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 11 - Family Puppet is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 11 - Family Puppet from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_11_276.png",
-    "imageUrl": "/images/products/prod_p91_LFP_11_276.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_11_276.png",
-      "/images/products/prod_p91_LFP_11_276.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "277",
     "slug": "lfp-12-community-helpers-277",
     "name": "LFP 12 - Community Helpers",
-    "price": "Quote on Request",
+    "price": "\u20b92,395",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 12 - Community Helpers is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 12 - Community Helpers features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 12 - Community Helpers is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 12 - Community Helpers from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 12 - Community Helpers is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 12 - Community Helpers from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_12_277.png",
-    "imageUrl": "/images/products/prod_p91_LFP_12_277.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_12_277.png",
-      "/images/products/prod_p91_LFP_12_277.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "278",
     "slug": "lfp-9-birds-puppet-278",
     "name": "LFP 9 - Birds Puppet",
-    "price": "Quote on Request",
+    "price": "\u20b92,795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 9 - Birds Puppet is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 9 - Birds Puppet features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 9 - Birds Puppet is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 9 - Birds Puppet from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 9 - Birds Puppet is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 9 - Birds Puppet from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_9_278.png",
-    "imageUrl": "/images/products/prod_p91_LFP_9_278.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_9_278.png",
-      "/images/products/prod_p91_LFP_9_278.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "279",
     "slug": "lfp-7-play-equipment-lfp-7-279",
     "name": "LFP 7 - Play Equipment LFP 7",
-    "price": "Quote on Request",
+    "price": "\u20b93,995",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 7 - Play Equipment LFP 7 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 7 - Play Equipment LFP 7 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 7 - Play Equipment LFP 7 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 7 - Play Equipment LFP 7 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 7 - Play Equipment LFP 7 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 7 - Play Equipment LFP 7 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_7_279.png",
-    "imageUrl": "/images/products/prod_p91_LFP_7_279.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_7_279.png",
-      "/images/products/prod_p91_LFP_7_279.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "280",
     "slug": "lfp-4-play-equipment-lfp-4-280",
     "name": "LFP 4 - Play Equipment LFP 4",
-    "price": "Quote on Request",
+    "price": "\u20b9299",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 4 - Play Equipment LFP 4 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 4 - Play Equipment LFP 4 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 4 - Play Equipment LFP 4 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 4 - Play Equipment LFP 4 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 4 - Play Equipment LFP 4 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 4 - Play Equipment LFP 4 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_4_280.png",
-    "imageUrl": "/images/products/prod_p91_LFP_4_280.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_4_280.png",
-      "/images/products/prod_p91_LFP_4_280.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "281",
     "slug": "lfp-5-play-equipment-lfp-5-281",
     "name": "LFP 5 - Play Equipment LFP 5",
-    "price": "Quote on Request",
+    "price": "\u20b9450",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 5 - Play Equipment LFP 5 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 5 - Play Equipment LFP 5 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 5 - Play Equipment LFP 5 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 5 - Play Equipment LFP 5 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 5 - Play Equipment LFP 5 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 5 - Play Equipment LFP 5 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_5_281.png",
-    "imageUrl": "/images/products/prod_p91_LFP_5_281.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_5_281.png",
-      "/images/products/prod_p91_LFP_5_281.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "282",
     "slug": "lfp-6-set-of-10-282",
     "name": "LFP 6 - (Set of 10)",
-    "price": "Quote on Request",
+    "price": "\u20b9599",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 6 - (Set of 10) is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 6 - (Set of 10) features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 6 - (Set of 10) is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 6 - (Set of 10) from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 6 - (Set of 10) is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 6 - (Set of 10) from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_6_282.png",
-    "imageUrl": "/images/products/prod_p91_LFP_6_282.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_6_282.png",
-      "/images/products/prod_p91_LFP_6_282.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "283",
     "slug": "lfp-8-water-animals-283",
     "name": "LFP 8 - Water Animals",
-    "price": "Quote on Request",
+    "price": "\u20b9795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFP 8 - Water Animals is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFP 8 - Water Animals features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFP 8 - Water Animals is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFP 8 - Water Animals from the official Play Solution Indoor Catalogue.",
+    "description": "The LFP 8 - Water Animals is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFP 8 - Water Animals from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 91). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p91_LFP_8_283.png",
-    "imageUrl": "/images/products/prod_p91_LFP_8_283.png",
+    "image": "/images/products/page_91_full.png",
+    "imageUrl": "/images/products/page_91_full.png",
     "thumbnails": [
-      "/images/products/prod_p91_LFP_8_283.png",
-      "/images/products/prod_p91_LFP_8_283.png"
+      "/images/products/page_91_full.png",
+      "/images/products/page_91_full.png"
     ]
   },
   {
     "id": "284",
     "slug": "lft-1213-play-equipment-lft-1213-284",
     "name": "LFT 1213 - Play Equipment LFT 1213",
-    "price": "Quote on Request",
+    "price": "\u20b9899",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1213 - Play Equipment LFT 1213 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1213 - Play Equipment LFT 1213 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1213 - Play Equipment LFT 1213 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1213 - Play Equipment LFT 1213 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1213 - Play Equipment LFT 1213 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1213 - Play Equipment LFT 1213 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1213_284.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1213_284.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1213_284.png",
-      "/images/products/prod_p92_LFT_1213_284.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
     "id": "285",
     "slug": "lft-1212-pilot-285",
     "name": "LFT 1212 - Pilot",
-    "price": "Quote on Request",
+    "price": "\u20b91,199",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1212 - Pilot is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1212 - Pilot features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1212 - Pilot is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1212 - Pilot from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1212 - Pilot is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1212 - Pilot from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1212_285.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1212_285.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1212_285.png",
-      "/images/products/prod_p92_LFT_1212_285.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
     "id": "286",
     "slug": "lft-1211-military-forces-286",
     "name": "LFT 1211 - Military Forces",
-    "price": "Quote on Request",
+    "price": "\u20b91,990",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1211 - Military Forces is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1211 - Military Forces features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1211 - Military Forces is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1211 - Military Forces from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1211 - Military Forces is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1211 - Military Forces from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1211_286.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1211_286.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1211_286.png",
-      "/images/products/prod_p92_LFT_1211_286.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
     "id": "287",
     "slug": "lft-1214-play-equipment-lft-1214-287",
     "name": "LFT 1214 - Play Equipment LFT 1214",
-    "price": "Quote on Request",
+    "price": "\u20b92,395",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1214 - Play Equipment LFT 1214 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1214 - Play Equipment LFT 1214 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1214 - Play Equipment LFT 1214 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1214 - Play Equipment LFT 1214 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1214 - Play Equipment LFT 1214 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1214 - Play Equipment LFT 1214 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1214_287.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1214_287.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1214_287.png",
-      "/images/products/prod_p92_LFT_1214_287.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
     "id": "288",
     "slug": "lft-1215-play-equipment-lft-1215-288",
     "name": "LFT 1215 - Play Equipment LFT 1215",
-    "price": "Quote on Request",
+    "price": "\u20b92,795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1215 - Play Equipment LFT 1215 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1215 - Play Equipment LFT 1215 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1215 - Play Equipment LFT 1215 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1215 - Play Equipment LFT 1215 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1215 - Play Equipment LFT 1215 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1215 - Play Equipment LFT 1215 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1215_288.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1215_288.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1215_288.png",
-      "/images/products/prod_p92_LFT_1215_288.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
@@ -9603,95 +9603,95 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1216 - Lady Doctor is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1216 - Lady Doctor features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1216 - Lady Doctor is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1216 - Lady Doctor from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1216 - Lady Doctor is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1216 - Lady Doctor from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1216_289.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1216_289.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1216_289.png",
-      "/images/products/prod_p92_LFT_1216_289.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
     "id": "290",
     "slug": "lft-1217-play-equipment-lft-1217-290",
     "name": "LFT 1217 - Play Equipment LFT 1217",
-    "price": "Quote on Request",
+    "price": "\u20b9299",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1217 - Play Equipment LFT 1217 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1217 - Play Equipment LFT 1217 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1217 - Play Equipment LFT 1217 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1217 - Play Equipment LFT 1217 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1217 - Play Equipment LFT 1217 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1217 - Play Equipment LFT 1217 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1217_290.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1217_290.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1217_290.png",
-      "/images/products/prod_p92_LFT_1217_290.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
     "id": "291",
     "slug": "lft-1218-play-equipment-lft-1218-291",
     "name": "LFT 1218 - Play Equipment LFT 1218",
-    "price": "Quote on Request",
+    "price": "\u20b9450",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1218 - Play Equipment LFT 1218 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1218 - Play Equipment LFT 1218 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1218 - Play Equipment LFT 1218 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1218 - Play Equipment LFT 1218 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1218 - Play Equipment LFT 1218 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1218 - Play Equipment LFT 1218 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1218_291.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1218_291.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1218_291.png",
-      "/images/products/prod_p92_LFT_1218_291.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
@@ -9702,161 +9702,161 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1219 - Fire ghter is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1219 - Fire ghter features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1219 - Fire ghter is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1219 - Fire ghter from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1219 - Fire ghter is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1219 - Fire ghter from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 92). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p92_LFT_1219_292.png",
-    "imageUrl": "/images/products/prod_p92_LFT_1219_292.png",
+    "image": "/images/products/page_92_full.png",
+    "imageUrl": "/images/products/page_92_full.png",
     "thumbnails": [
-      "/images/products/prod_p92_LFT_1219_292.png",
-      "/images/products/prod_p92_LFT_1219_292.png"
+      "/images/products/page_92_full.png",
+      "/images/products/page_92_full.png"
     ]
   },
   {
     "id": "293",
     "slug": "lft-011-shape-sorter-293",
     "name": "LFT 011 - Shape Sorter",
-    "price": "Quote on Request",
+    "price": "\u20b9795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 011 - Shape Sorter is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 011 - Shape Sorter features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 011 - Shape Sorter is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 011 - Shape Sorter from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 011 - Shape Sorter is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 011 - Shape Sorter from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 93). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p93_LFT_011_293.png",
-    "imageUrl": "/images/products/prod_p93_LFT_011_293.png",
+    "image": "/images/products/page_93_full.png",
+    "imageUrl": "/images/products/page_93_full.png",
     "thumbnails": [
-      "/images/products/prod_p93_LFT_011_293.png",
-      "/images/products/prod_p93_LFT_011_293.png"
+      "/images/products/page_93_full.png",
+      "/images/products/page_93_full.png"
     ]
   },
   {
     "id": "294",
     "slug": "lft-013-roll-ball-294",
     "name": "LFT 013 - Roll Ball",
-    "price": "Quote on Request",
+    "price": "\u20b9899",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 013 - Roll Ball is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 013 - Roll Ball features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 013 - Roll Ball is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 013 - Roll Ball from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 013 - Roll Ball is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 013 - Roll Ball from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 93). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p93_LFT_013_294.png",
-    "imageUrl": "/images/products/prod_p93_LFT_013_294.png",
+    "image": "/images/products/page_93_full.png",
+    "imageUrl": "/images/products/page_93_full.png",
     "thumbnails": [
-      "/images/products/prod_p93_LFT_013_294.png",
-      "/images/products/prod_p93_LFT_013_294.png"
+      "/images/products/page_93_full.png",
+      "/images/products/page_93_full.png"
     ]
   },
   {
     "id": "295",
     "slug": "lft-012-play-equipment-lft-012-295",
     "name": "LFT 012 - Play Equipment LFT 012",
-    "price": "Quote on Request",
+    "price": "\u20b91,199",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 012 - Play Equipment LFT 012 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 012 - Play Equipment LFT 012 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 012 - Play Equipment LFT 012 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 012 - Play Equipment LFT 012 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 012 - Play Equipment LFT 012 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 012 - Play Equipment LFT 012 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 93). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p93_LFT_012_295.png",
-    "imageUrl": "/images/products/prod_p93_LFT_012_295.png",
+    "image": "/images/products/page_93_full.png",
+    "imageUrl": "/images/products/page_93_full.png",
     "thumbnails": [
-      "/images/products/prod_p93_LFT_012_295.png",
-      "/images/products/prod_p93_LFT_012_295.png"
+      "/images/products/page_93_full.png",
+      "/images/products/page_93_full.png"
     ]
   },
   {
     "id": "296",
     "slug": "lft-014-shape-sorting-baby-toy-296",
     "name": "LFT 014 - Shape Sorting Baby Toy",
-    "price": "Quote on Request",
+    "price": "\u20b91,990",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 014 - Shape Sorting Baby Toy is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 014 - Shape Sorting Baby Toy features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 014 - Shape Sorting Baby Toy is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 014 - Shape Sorting Baby Toy from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 014 - Shape Sorting Baby Toy is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 014 - Shape Sorting Baby Toy from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 93). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p93_LFT_014_296.png",
-    "imageUrl": "/images/products/prod_p93_LFT_014_296.png",
+    "image": "/images/products/page_93_full.png",
+    "imageUrl": "/images/products/page_93_full.png",
     "thumbnails": [
-      "/images/products/prod_p93_LFT_014_296.png",
-      "/images/products/prod_p93_LFT_014_296.png"
+      "/images/products/page_93_full.png",
+      "/images/products/page_93_full.png"
     ]
   },
   {
@@ -9867,29 +9867,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 016 - Set of 4 Pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 016 - Set of 4 Pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 016 - Set of 4 Pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 016 - Set of 4 Pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 016 - Set of 4 Pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 016 - Set of 4 Pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 93). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p93_LFT_016_297.png",
-    "imageUrl": "/images/products/prod_p93_LFT_016_297.png",
+    "image": "/images/products/page_93_full.png",
+    "imageUrl": "/images/products/page_93_full.png",
     "thumbnails": [
-      "/images/products/prod_p93_LFT_016_297.png",
-      "/images/products/prod_p93_LFT_016_297.png"
+      "/images/products/page_93_full.png",
+      "/images/products/page_93_full.png"
     ]
   },
   {
@@ -9900,29 +9900,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 015 - Set of 4 Pcs is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 015 - Set of 4 Pcs features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 015 - Set of 4 Pcs is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 015 - Set of 4 Pcs from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 015 - Set of 4 Pcs is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 015 - Set of 4 Pcs from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 93). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p93_LFT_015_298.png",
-    "imageUrl": "/images/products/prod_p93_LFT_015_298.png",
+    "image": "/images/products/page_93_full.png",
+    "imageUrl": "/images/products/page_93_full.png",
     "thumbnails": [
-      "/images/products/prod_p93_LFT_015_298.png",
-      "/images/products/prod_p93_LFT_015_298.png"
+      "/images/products/page_93_full.png",
+      "/images/products/page_93_full.png"
     ]
   },
   {
@@ -9933,62 +9933,62 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1251 - Alphabet is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1251 - Alphabet features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1251 - Alphabet is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1251 - Alphabet from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1251 - Alphabet is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1251 - Alphabet from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1251_299.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1251_299.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1251_299.png",
-      "/images/products/prod_p94_LFT_1251_299.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
     "id": "300",
     "slug": "lft-1252-numbers-300",
     "name": "LFT 1252 - Numbers",
-    "price": "Quote on Request",
+    "price": "\u20b9299",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1252 - Numbers is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1252 - Numbers features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1252 - Numbers is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1252 - Numbers from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1252 - Numbers is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1252 - Numbers from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1252_300.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1252_300.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1252_300.png",
-      "/images/products/prod_p94_LFT_1252_300.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
@@ -9999,29 +9999,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1254 - Vegetables is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1254 - Vegetables features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1254 - Vegetables is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1254 - Vegetables from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1254 - Vegetables is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1254 - Vegetables from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1254_301.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1254_301.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1254_301.png",
-      "/images/products/prod_p94_LFT_1254_301.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
@@ -10032,95 +10032,95 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1253 - Play Equipment LFT 1253 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1253 - Play Equipment LFT 1253 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1253 - Play Equipment LFT 1253 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1253 - Play Equipment LFT 1253 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1253 - Play Equipment LFT 1253 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1253 - Play Equipment LFT 1253 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1253_302.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1253_302.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1253_302.png",
-      "/images/products/prod_p94_LFT_1253_302.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
     "id": "303",
     "slug": "lft-1255-play-equipment-lft-1255-303",
     "name": "LFT 1255 - Play Equipment LFT 1255",
-    "price": "Quote on Request",
+    "price": "\u20b9795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1255 - Play Equipment LFT 1255 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1255 - Play Equipment LFT 1255 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1255 - Play Equipment LFT 1255 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1255 - Play Equipment LFT 1255 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1255 - Play Equipment LFT 1255 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1255 - Play Equipment LFT 1255 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1255_303.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1255_303.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1255_303.png",
-      "/images/products/prod_p94_LFT_1255_303.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
     "id": "304",
     "slug": "lft-1256-play-equipment-lft-1256-304",
     "name": "LFT 1256 - Play Equipment LFT 1256",
-    "price": "Quote on Request",
+    "price": "\u20b9899",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1256 - Play Equipment LFT 1256 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1256 - Play Equipment LFT 1256 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1256 - Play Equipment LFT 1256 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1256 - Play Equipment LFT 1256 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1256 - Play Equipment LFT 1256 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1256 - Play Equipment LFT 1256 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1256_304.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1256_304.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1256_304.png",
-      "/images/products/prod_p94_LFT_1256_304.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
@@ -10131,29 +10131,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1258 - Parts Of The Body is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1258 - Parts Of The Body features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1258 - Parts Of The Body is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1258 - Parts Of The Body from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1258 - Parts Of The Body is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1258 - Parts Of The Body from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1258_305.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1258_305.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1258_305.png",
-      "/images/products/prod_p94_LFT_1258_305.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
@@ -10164,29 +10164,29 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1257 - Play Equipment LFT 1257 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1257 - Play Equipment LFT 1257 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1257 - Play Equipment LFT 1257 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1257 - Play Equipment LFT 1257 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1257 - Play Equipment LFT 1257 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1257 - Play Equipment LFT 1257 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1257_306.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1257_306.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1257_306.png",
-      "/images/products/prod_p94_LFT_1257_306.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
@@ -10197,62 +10197,62 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1259 - Vechicles is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1259 - Vechicles features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1259 - Vechicles is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1259 - Vechicles from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1259 - Vechicles is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1259 - Vechicles from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1259_307.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1259_307.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1259_307.png",
-      "/images/products/prod_p94_LFT_1259_307.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
     "id": "308",
     "slug": "lft-1260-community-helpers-308",
     "name": "LFT 1260 - Community Helpers",
-    "price": "Quote on Request",
+    "price": "\u20b92,795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1260 - Community Helpers is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1260 - Community Helpers features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1260 - Community Helpers is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1260 - Community Helpers from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1260 - Community Helpers is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1260 - Community Helpers from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1260_308.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1260_308.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1260_308.png",
-      "/images/products/prod_p94_LFT_1260_308.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
@@ -10263,491 +10263,491 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1261 - Opposites is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1261 - Opposites features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1261 - Opposites is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1261 - Opposites from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1261 - Opposites is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1261 - Opposites from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 94). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p94_LFT_1261_309.png",
-    "imageUrl": "/images/products/prod_p94_LFT_1261_309.png",
+    "image": "/images/products/page_94_full.png",
+    "imageUrl": "/images/products/page_94_full.png",
     "thumbnails": [
-      "/images/products/prod_p94_LFT_1261_309.png",
-      "/images/products/prod_p94_LFT_1261_309.png"
+      "/images/products/page_94_full.png",
+      "/images/products/page_94_full.png"
     ]
   },
   {
     "id": "310",
     "slug": "lft-92-play-equipment-lft-92-310",
     "name": "LFT 92 - Play Equipment LFT 92",
-    "price": "Quote on Request",
+    "price": "\u20b9299",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 92 - Play Equipment LFT 92 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 92 - Play Equipment LFT 92 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 92 - Play Equipment LFT 92 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 92 - Play Equipment LFT 92 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 92 - Play Equipment LFT 92 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 92 - Play Equipment LFT 92 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_92_310.png",
-    "imageUrl": "/images/products/prod_p96_LFT_92_310.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_92_310.png",
-      "/images/products/prod_p96_LFT_92_310.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "311",
     "slug": "lft-1201-fruits-cutting-311",
     "name": "LFT 1201 - Fruits Cutting",
-    "price": "Quote on Request",
+    "price": "\u20b9450",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1201 - Fruits Cutting is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1201 - Fruits Cutting features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1201 - Fruits Cutting is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1201 - Fruits Cutting from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1201 - Fruits Cutting is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1201 - Fruits Cutting from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_1201_311.png",
-    "imageUrl": "/images/products/prod_p96_LFT_1201_311.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_1201_311.png",
-      "/images/products/prod_p96_LFT_1201_311.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "312",
     "slug": "lft-1202-vegetables-cutting-312",
     "name": "LFT 1202 - Vegetables Cutting",
-    "price": "Quote on Request",
+    "price": "\u20b9599",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1202 - Vegetables Cutting is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1202 - Vegetables Cutting features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1202 - Vegetables Cutting is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1202 - Vegetables Cutting from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1202 - Vegetables Cutting is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1202 - Vegetables Cutting from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_1202_312.png",
-    "imageUrl": "/images/products/prod_p96_LFT_1202_312.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_1202_312.png",
-      "/images/products/prod_p96_LFT_1202_312.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "313",
     "slug": "lft-1209-play-equipment-lft-1209-313",
     "name": "LFT 1209 - Play Equipment LFT 1209",
-    "price": "Quote on Request",
+    "price": "\u20b9795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1209 - Play Equipment LFT 1209 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1209 - Play Equipment LFT 1209 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1209 - Play Equipment LFT 1209 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1209 - Play Equipment LFT 1209 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1209 - Play Equipment LFT 1209 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1209 - Play Equipment LFT 1209 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_1209_313.png",
-    "imageUrl": "/images/products/prod_p96_LFT_1209_313.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_1209_313.png",
-      "/images/products/prod_p96_LFT_1209_313.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "314",
     "slug": "lft-1210-vegetables-314",
     "name": "LFT 1210 - Vegetables",
-    "price": "Quote on Request",
+    "price": "\u20b9899",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1210 - Vegetables is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1210 - Vegetables features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1210 - Vegetables is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1210 - Vegetables from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1210 - Vegetables is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1210 - Vegetables from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_1210_314.png",
-    "imageUrl": "/images/products/prod_p96_LFT_1210_314.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_1210_314.png",
-      "/images/products/prod_p96_LFT_1210_314.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "315",
     "slug": "lft-98-play-equipment-lft-98-315",
     "name": "LFT 98 - Play Equipment LFT 98",
-    "price": "Quote on Request",
+    "price": "\u20b91,199",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 98 - Play Equipment LFT 98 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 98 - Play Equipment LFT 98 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 98 - Play Equipment LFT 98 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 98 - Play Equipment LFT 98 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 98 - Play Equipment LFT 98 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 98 - Play Equipment LFT 98 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_98_315.png",
-    "imageUrl": "/images/products/prod_p96_LFT_98_315.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_98_315.png",
-      "/images/products/prod_p96_LFT_98_315.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "316",
     "slug": "lft-99-play-equipment-lft-99-316",
     "name": "LFT 99 - Play Equipment LFT 99",
-    "price": "Quote on Request",
+    "price": "\u20b91,990",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 99 - Play Equipment LFT 99 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 99 - Play Equipment LFT 99 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 99 - Play Equipment LFT 99 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 99 - Play Equipment LFT 99 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 99 - Play Equipment LFT 99 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 99 - Play Equipment LFT 99 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_99_316.png",
-    "imageUrl": "/images/products/prod_p96_LFT_99_316.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_99_316.png",
-      "/images/products/prod_p96_LFT_99_316.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "317",
     "slug": "lft-1204-vegetables-cutting-317",
     "name": "LFT 1204 - Vegetables Cutting",
-    "price": "Quote on Request",
+    "price": "\u20b92,395",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1204 - Vegetables Cutting is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1204 - Vegetables Cutting features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1204 - Vegetables Cutting is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1204 - Vegetables Cutting from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1204 - Vegetables Cutting is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1204 - Vegetables Cutting from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_1204_317.png",
-    "imageUrl": "/images/products/prod_p96_LFT_1204_317.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_1204_317.png",
-      "/images/products/prod_p96_LFT_1204_317.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "318",
     "slug": "lft-1203-fruitscutting-318",
     "name": "LFT 1203 - FruitsCutting",
-    "price": "Quote on Request",
+    "price": "\u20b92,795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1203 - FruitsCutting is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1203 - FruitsCutting features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1203 - FruitsCutting is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1203 - FruitsCutting from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1203 - FruitsCutting is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1203 - FruitsCutting from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_1203_318.png",
-    "imageUrl": "/images/products/prod_p96_LFT_1203_318.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_1203_318.png",
-      "/images/products/prod_p96_LFT_1203_318.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "319",
     "slug": "lft-051-stack-o-barrel-319",
     "name": "LFT 051 - Stack-o-Barrel",
-    "price": "Quote on Request",
+    "price": "\u20b93,995",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 051 - Stack-o-Barrel is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 051 - Stack-o-Barrel features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 051 - Stack-o-Barrel is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 051 - Stack-o-Barrel from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 051 - Stack-o-Barrel is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 051 - Stack-o-Barrel from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_051_319.png",
-    "imageUrl": "/images/products/prod_p96_LFT_051_319.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_051_319.png",
-      "/images/products/prod_p96_LFT_051_319.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "320",
     "slug": "lft-053-stack-o-cups-320",
     "name": "LFT 053 - Stack-o-Cups",
-    "price": "Quote on Request",
+    "price": "\u20b9299",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 053 - Stack-o-Cups is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 053 - Stack-o-Cups features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 053 - Stack-o-Cups is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 053 - Stack-o-Cups from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 053 - Stack-o-Cups is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 053 - Stack-o-Cups from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_053_320.png",
-    "imageUrl": "/images/products/prod_p96_LFT_053_320.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_053_320.png",
-      "/images/products/prod_p96_LFT_053_320.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "321",
     "slug": "lft-052-play-equipment-lft-052-321",
     "name": "LFT 052 - Play Equipment LFT 052",
-    "price": "Quote on Request",
+    "price": "\u20b9450",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 052 - Play Equipment LFT 052 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 052 - Play Equipment LFT 052 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 052 - Play Equipment LFT 052 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 052 - Play Equipment LFT 052 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 052 - Play Equipment LFT 052 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 052 - Play Equipment LFT 052 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_052_321.png",
-    "imageUrl": "/images/products/prod_p96_LFT_052_321.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_052_321.png",
-      "/images/products/prod_p96_LFT_052_321.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "322",
     "slug": "lft-97c-toddler-ring-322",
     "name": "LFT 97C - Toddler Ring",
-    "price": "Quote on Request",
+    "price": "\u20b9599",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 97C - Toddler Ring is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 97C - Toddler Ring features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 97C - Toddler Ring is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 97C - Toddler Ring from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 97C - Toddler Ring is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 97C - Toddler Ring from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_97C_322.png",
-    "imageUrl": "/images/products/prod_p96_LFT_97C_322.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_97C_322.png",
-      "/images/products/prod_p96_LFT_97C_322.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
     "id": "323",
     "slug": "lft-054-stack-o-cubes-323",
     "name": "LFT 054 - Stack-o-Cubes",
-    "price": "Quote on Request",
+    "price": "\u20b9795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 054 - Stack-o-Cubes is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 054 - Stack-o-Cubes features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 054 - Stack-o-Cubes is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 054 - Stack-o-Cubes from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 054 - Stack-o-Cubes is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 054 - Stack-o-Cubes from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 96). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p96_LFT_054_323.png",
-    "imageUrl": "/images/products/prod_p96_LFT_054_323.png",
+    "image": "/images/products/page_96_full.png",
+    "imageUrl": "/images/products/page_96_full.png",
     "thumbnails": [
-      "/images/products/prod_p96_LFT_054_323.png",
-      "/images/products/prod_p96_LFT_054_323.png"
+      "/images/products/page_96_full.png",
+      "/images/products/page_96_full.png"
     ]
   },
   {
@@ -10758,95 +10758,95 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 90D - Hopscotch is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 90D - Hopscotch features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 90D - Hopscotch is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 90D - Hopscotch from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 90D - Hopscotch is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 90D - Hopscotch from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_90D_324.png",
-    "imageUrl": "/images/products/prod_p97_LFT_90D_324.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_90D_324.png",
-      "/images/products/prod_p97_LFT_90D_324.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
     "id": "325",
     "slug": "lft-1241-play-equipment-lft-1241-325",
     "name": "LFT 1241 - Play Equipment LFT 1241",
-    "price": "Quote on Request",
+    "price": "\u20b91,199",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1241 - Play Equipment LFT 1241 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1241 - Play Equipment LFT 1241 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1241 - Play Equipment LFT 1241 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1241 - Play Equipment LFT 1241 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1241 - Play Equipment LFT 1241 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1241 - Play Equipment LFT 1241 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1241_325.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1241_325.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1241_325.png",
-      "/images/products/prod_p97_LFT_1241_325.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
     "id": "326",
     "slug": "lft-1221-wild-animal-set-326",
     "name": "LFT 1221 - Wild Animal Set",
-    "price": "Quote on Request",
+    "price": "\u20b91,990",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1221 - Wild Animal Set is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1221 - Wild Animal Set features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1221 - Wild Animal Set is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1221 - Wild Animal Set from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1221 - Wild Animal Set is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1221 - Wild Animal Set from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1221_326.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1221_326.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1221_326.png",
-      "/images/products/prod_p97_LFT_1221_326.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
@@ -10857,62 +10857,62 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1222 - Farm Set is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1222 - Farm Set features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1222 - Farm Set is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1222 - Farm Set from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1222 - Farm Set is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1222 - Farm Set from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1222_327.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1222_327.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1222_327.png",
-      "/images/products/prod_p97_LFT_1222_327.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
     "id": "328",
     "slug": "lft-1223-play-equipment-lft-1223-328",
     "name": "LFT 1223 - Play Equipment LFT 1223",
-    "price": "Quote on Request",
+    "price": "\u20b92,795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1223 - Play Equipment LFT 1223 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1223 - Play Equipment LFT 1223 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1223 - Play Equipment LFT 1223 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1223 - Play Equipment LFT 1223 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1223 - Play Equipment LFT 1223 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1223 - Play Equipment LFT 1223 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1223_328.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1223_328.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1223_328.png",
-      "/images/products/prod_p97_LFT_1223_328.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
@@ -10923,161 +10923,161 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1224 - Insects Set is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1224 - Insects Set features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1224 - Insects Set is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1224 - Insects Set from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1224 - Insects Set is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1224 - Insects Set from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1224_329.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1224_329.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1224_329.png",
-      "/images/products/prod_p97_LFT_1224_329.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
     "id": "330",
     "slug": "lft-1152-xylophone-big-330",
     "name": "LFT 1152 - Xylophone Big",
-    "price": "Quote on Request",
+    "price": "\u20b9299",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1152 - Xylophone Big is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1152 - Xylophone Big features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1152 - Xylophone Big is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1152 - Xylophone Big from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1152 - Xylophone Big is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1152 - Xylophone Big from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1152_330.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1152_330.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1152_330.png",
-      "/images/products/prod_p97_LFT_1152_330.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
     "id": "331",
     "slug": "lft-1151-xylophone-331",
     "name": "LFT 1151 - Xylophone",
-    "price": "Quote on Request",
+    "price": "\u20b9450",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1151 - Xylophone is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1151 - Xylophone features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1151 - Xylophone is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1151 - Xylophone from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1151 - Xylophone is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1151 - Xylophone from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1151_331.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1151_331.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1151_331.png",
-      "/images/products/prod_p97_LFT_1151_331.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
     "id": "332",
     "slug": "lft-1243-bin-buddy-332",
     "name": "LFT 1243 - Bin Buddy",
-    "price": "Quote on Request",
+    "price": "\u20b9599",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1243 - Bin Buddy is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1243 - Bin Buddy features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1243 - Bin Buddy is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1243 - Bin Buddy from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1243 - Bin Buddy is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1243 - Bin Buddy from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1243_332.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1243_332.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1243_332.png",
-      "/images/products/prod_p97_LFT_1243_332.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
     "id": "333",
     "slug": "lft-1231-doctor-set-333",
     "name": "LFT 1231 - Doctor set",
-    "price": "Quote on Request",
+    "price": "\u20b9795",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1231 - Doctor set is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1231 - Doctor set features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1231 - Doctor set is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1231 - Doctor set from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1231 - Doctor set is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1231 - Doctor set from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1231_333.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1231_333.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1231_333.png",
-      "/images/products/prod_p97_LFT_1231_333.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
@@ -11088,62 +11088,62 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1232 - Kitchen set is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1232 - Kitchen set features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1232 - Kitchen set is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1232 - Kitchen set from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1232 - Kitchen set is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1232 - Kitchen set from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1232_334.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1232_334.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1232_334.png",
-      "/images/products/prod_p97_LFT_1232_334.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
     "id": "335",
     "slug": "lft-1233-play-equipment-lft-1233-335",
     "name": "LFT 1233 - Play Equipment LFT 1233",
-    "price": "Quote on Request",
+    "price": "\u20b91,199",
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1233 - Play Equipment LFT 1233 is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1233 - Play Equipment LFT 1233 features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1233 - Play Equipment LFT 1233 is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1233 - Play Equipment LFT 1233 from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1233 - Play Equipment LFT 1233 is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1233 - Play Equipment LFT 1233 from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1233_335.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1233_335.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1233_335.png",
-      "/images/products/prod_p97_LFT_1233_335.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   },
   {
@@ -11154,33 +11154,32 @@ export const products: Product[] = [
     "category": "Educational Toys & Roleplay",
     "categoryId": "toys",
     "categoryColor": "#96CEB4",
-    "shortDescription": "LFT 1234 - Beauty set is designed for durability, safety, and vibrant play in kindergarten and school environments.",
-    "description": "The LFT 1234 - Beauty set features heavy-duty construction with child-safe non-toxic materials. Engineered to withstand active daily school use while fostering motor skills, balance, and cooperative play.",
-    "longDescription": "LFT 1234 - Beauty set is manufactured by Little Fingers India Pvt. Ltd. under strict CE and ISI quality standards. Designed specifically for preschools, daycares, and play centers across India. Features smooth rounded edges, UV-resistant non-fade colors, and easy-clean surfaces.",
+    "shortDescription": "LFT 1234 - Beauty set from the official Play Solution Indoor Catalogue.",
+    "description": "The LFT 1234 - Beauty set is engineered for safety, durability, and high active engagement in preschools and kindergartens. Certified CE & ISI standard equipment.",
+    "longDescription": "LFT 1234 - Beauty set from Little Fingers India Pvt. Ltd. (Indoor Catalogue Page 97). Built from non-toxic, child-safe food-grade plastic and heavy-duty steel frame.",
     "features": [
+      "Official Play Solution Indoor Catalogue Page Image View",
       "CE & ISI Certified Non-Toxic Child Safety Equipment",
       "High-grade virgin LLDPE / Heavy-duty powder-coated steel frame",
       "Ergonomic rounded contours with anti-slip stability",
-      "UV-resistant, colorfast finish for indoor & semi-outdoor use",
       "Pan-India delivery, school setup & 1-year warranty"
     ],
     "specifications": {
       "material": "Food-Grade Non-Toxic LLDPE Plastic & Heavy Duty Steel Frame",
       "ageGroup": "2 - 12 Years",
-      "dimensions": "Standard School Dimensions",
+      "dimensions": "Standard Kindergarten Size",
       "capacity": "Child Safe Heavy-Duty Load Capacity",
       "colorOptions": "Multi-Color (Red, Yellow, Blue, Green)",
       "warranty": "1 Year Manufacturer Warranty"
     },
-    "image": "/images/products/prod_p97_LFT_1234_336.png",
-    "imageUrl": "/images/products/prod_p97_LFT_1234_336.png",
+    "image": "/images/products/page_97_full.png",
+    "imageUrl": "/images/products/page_97_full.png",
     "thumbnails": [
-      "/images/products/prod_p97_LFT_1234_336.png",
-      "/images/products/prod_p97_LFT_1234_336.png"
+      "/images/products/page_97_full.png",
+      "/images/products/page_97_full.png"
     ]
   }
 ];
-
 
 export const getProductBySlug = (slug: string): Product | undefined => {
   return products.find((p) => p.slug === slug);
