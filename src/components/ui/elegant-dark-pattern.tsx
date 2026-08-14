@@ -1,5 +1,6 @@
 import type React from "react"
 import { cn } from "@/lib/utils"
+import TextLoop from "@/components/ui/TextLoop"
 
 interface GradientBgProps {
   children?: React.ReactNode
@@ -11,6 +12,27 @@ export function LightGradientBg({ children, className }: GradientBgProps) {
     <div
       className={cn("relative min-h-screen w-full bg-[radial-gradient(ellipse_at_top_left,_var(--tw-gradient-stops))] from-[#FFF0E6] via-[#F0F7FF] to-[#FFF5F7] overflow-hidden text-slate-900", className)}
     >
+      {/* Ambient TextLoop Ribbon Background */}
+      <div className="absolute inset-x-0 top-12 pointer-events-none opacity-[0.22] overflow-hidden z-0 scale-110">
+        <TextLoop
+          text="PLAY SOLUTION ✦ WHERE LITTLE DREAMS COME TO PLAY ✦ KINDERGARTEN PLAY EQUIPMENT"
+          shape="wave"
+          speed={85}
+          direction="forward"
+          separator="✦"
+          curviness={90}
+          fontSize={44}
+          fontWeight={900}
+          letterSpacing={3}
+          uppercase
+          color="#FF6B35"
+          ribbon={true}
+          ribbonColor="rgba(255, 209, 102, 0.3)"
+          ribbonWidth={80}
+          pauseOnHover={false}
+        />
+      </div>
+
       {/* Rich Multi-Colored Ambient Layer */}
       <div className="absolute inset-0 pointer-events-none">
         {/* Soft Vibrant Colorful Orbs */}
