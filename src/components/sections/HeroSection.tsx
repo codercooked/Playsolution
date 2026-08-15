@@ -187,23 +187,14 @@ export default function HeroSection() {
                   </button>
                 )}
 
-                {/* Video Bottom Glass Tag Info Bar */}
-                <div className="absolute bottom-4 inset-x-4 p-4 rounded-xl bg-slate-950/85 backdrop-blur-xl border border-white/15 text-white flex flex-wrap items-center justify-between gap-3 z-20 shadow-2xl">
-                  <div className="flex items-center gap-2">
-                    <Video size={16} className="text-orange-400" />
-                    <span className="font-display font-extrabold text-sm text-white">Play Solution Playground Showcase</span>
-                  </div>
-                  
-                  <div className="flex items-center gap-2">
-                    <button
-                      onClick={() => setIsVideoModalOpen(true)}
-                      className="px-4 py-2 rounded-full bg-gradient-to-r from-orange-500 to-pink-500 text-white text-xs font-black hover:opacity-90 shadow-md flex items-center gap-1.5 transition-opacity"
-                    >
-                      <span>Expand Fullscreen</span>
-                      <Play size={12} className="fill-white" />
-                    </button>
-                  </div>
-                </div>
+                {/* Expand Fullscreen Floating Button Top Right */}
+                <button
+                  onClick={() => setIsVideoModalOpen(true)}
+                  className="absolute bottom-4 right-4 z-20 px-4 py-2 rounded-full bg-slate-950/80 backdrop-blur-md border border-white/20 text-white text-xs font-black hover:bg-orange-500 transition-colors shadow-lg flex items-center gap-1.5"
+                >
+                  <span>Expand Fullscreen</span>
+                  <Play size={12} className="fill-white" />
+                </button>
               </div>
             </div>
           </motion.div>
