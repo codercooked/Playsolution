@@ -31,11 +31,11 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Col 1 */}
           <div>
-            <div className="flex items-center gap-3 mb-4">
-              <div className="relative h-20 md:h-24 w-auto flex items-center">
-                <img src="/images/logo.png" alt="Play Solution Logo" className="h-full w-auto object-contain drop-shadow-lg" />
+            <div className="flex flex-col items-start gap-2 mb-4">
+              <div className="relative h-28 md:h-36 w-auto flex items-center">
+                <img src="/images/logo.png" alt="Play Solution Logo" className="h-full w-auto object-contain drop-shadow-2xl" />
               </div>
-              <span className="font-display font-black text-2xl md:text-3xl tracking-tight text-white">
+              <span className="font-display font-black text-3xl md:text-4xl tracking-tight text-white mt-1">
                 Play<span className="text-primary">Solution</span>
               </span>
             </div>

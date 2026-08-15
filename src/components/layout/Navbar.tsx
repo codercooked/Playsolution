@@ -38,14 +38,14 @@ export default function Navbar() {
     >
       <div className="container mx-auto px-4 md:px-6 lg:px-8 flex justify-between items-center max-w-7xl">
         <Link href="/" className="flex items-center gap-3 group">
-          <div className="relative h-14 md:h-16 w-auto flex items-center group-hover:scale-105 transition-transform duration-300">
+          <div className="relative h-20 md:h-24 lg:h-28 w-auto flex items-center group-hover:scale-105 transition-transform duration-300">
             <img 
               src="/images/logo.png" 
               alt="Play Solution Logo" 
-              className="h-full w-auto object-contain drop-shadow-md" 
+              className="h-full w-auto object-contain drop-shadow-xl" 
             />
           </div>
-          <span className="font-display font-black text-2xl md:text-3xl tracking-tight text-secondary">
+          <span className="font-display font-black text-2xl md:text-3xl lg:text-4xl tracking-tight text-secondary">
             Play<span className="text-primary">Solution</span>
           </span>
         </Link>
