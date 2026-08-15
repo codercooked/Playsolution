@@ -189,12 +189,9 @@ export default function HeroSection() {
 
                 {/* Video Bottom Glass Tag Info Bar */}
                 <div className="absolute bottom-4 inset-x-4 p-4 rounded-xl bg-slate-950/85 backdrop-blur-xl border border-white/15 text-white flex flex-wrap items-center justify-between gap-3 z-20 shadow-2xl">
-                  <div>
-                    <p className="font-display font-extrabold text-sm text-white flex items-center gap-2">
-                      <Video size={16} className="text-orange-400" />
-                      <span>Multi-Play Station Installation Reel</span>
-                    </p>
-                    <p className="text-xs text-gray-300 font-medium">Sunshine Montessori Preschool, Pune</p>
+                  <div className="flex items-center gap-2">
+                    <Video size={16} className="text-orange-400" />
+                    <span className="font-display font-extrabold text-sm text-white">Play Solution Playground Showcase</span>
                   </div>
                   
                   <div className="flex items-center gap-2">
