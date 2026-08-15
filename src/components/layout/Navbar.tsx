@@ -37,15 +37,10 @@ export default function Navbar() {
       }`}
     >
       <div className="container mx-auto px-4 md:px-6 lg:px-8 flex justify-between items-center max-w-7xl">
-        <Link href="/" className="flex items-center gap-2 group">
-          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-primary group-hover:scale-110 transition-transform">
-            <path d="m22 2-2.2 2.2a2.8 2.8 0 0 0-.8 2L19 14.5a3 3 0 0 1-5 2.5l-4-4a3 3 0 0 1-2.5 5H3L2 22"/>
-            <path d="M12.5 19H17"/>
-            <path d="M12.5 19v-4"/>
-            <path d="m20.5 7-6-6"/>
-            <path d="M7 13.5v4"/>
-            <path d="M7 13.5H2.5"/>
-          </svg>
+        <Link href="/" className="flex items-center gap-3 group">
+          <div className="relative w-10 h-10 rounded-full overflow-hidden bg-white p-0.5 border-2 border-primary/80 shadow-md group-hover:scale-105 transition-transform">
+            <img src="/images/logo.png" alt="Play Solution Logo" className="w-full h-full object-contain" />
+          </div>
           <span className="font-display font-black text-2xl tracking-tight text-secondary">
             Play<span className="text-primary">Solution</span>
           </span>

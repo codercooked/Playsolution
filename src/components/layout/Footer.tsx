@@ -31,7 +31,10 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Col 1 */}
           <div>
-            <div className="flex items-center gap-2 mb-4">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="relative w-12 h-12 rounded-full overflow-hidden bg-white p-1 border-2 border-primary shadow-md">
+                <img src="/images/logo.png" alt="Play Solution Logo" className="w-full h-full object-contain" />
+              </div>
               <span className="font-display font-black text-2xl tracking-tight text-white">
                 Play<span className="text-primary">Solution</span>
               </span>
@@ -96,7 +99,7 @@ export default function Footer() {
               </li>
               <li className="flex gap-3">
                 <Phone className="text-primary shrink-0" size={20} />
-                <span>+91 98765 43210</span>
+                <span>+91 8927298217</span>
               </li>
               <li className="flex gap-3">
                 <Mail className="text-primary shrink-0" size={20} />
@@ -120,15 +123,15 @@ export default function Footer() {
 
       {/* WhatsApp Floating Bubble */}
       <a
-        href="https://wa.me/919876543210?text=Hi%2C+I%27m+interested+in+Play+Solution+products.+Can+you+share+more+details%3F"
+        href="https://wa.me/918927298217?text=Hello+Play+Solution%21+%F0%9F%90%9D+I+would+like+to+inquire+about+your+kindergarten+equipment."
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 w-14 h-14 bg-[#25D366] rounded-full shadow-2xl flex items-center justify-center text-white hover:scale-110 transition-transform group"
-        title="Chat with us"
+        title="Chat with us on WhatsApp"
       >
         <MessageCircle size={30} />
         <span className="absolute -top-10 right-0 bg-white text-secondary text-sm font-medium py-1 px-3 rounded shadow-md opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
-          Chat with us
+          Chat with us on WhatsApp
         </span>
       </a>
     </footer>

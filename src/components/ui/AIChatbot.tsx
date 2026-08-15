@@ -84,7 +84,7 @@ export default function AIChatbot() {
       const botReply: Message = {
         id: (Date.now() + 1).toString(),
         sender: 'assistant',
-        text: data.reply || "For exact dimensions and bulk pricing, feel free to call +91 98765 43210!",
+        text: data.reply || "For exact dimensions and bulk pricing, feel free to call +91 8927298217!",
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
       };
 

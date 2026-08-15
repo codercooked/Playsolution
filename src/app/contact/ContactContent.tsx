@@ -206,7 +206,7 @@ export default function ContactContent() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-secondary mb-1">Phone</h4>
-                  <a href="tel:+919876543210" className="text-gray-600 hover:text-primary transition-colors">+91 98765 43210</a>
+                  <a href="tel:+918927298217" className="text-gray-600 hover:text-primary transition-colors">+91 8927298217</a>
                 </div>
               </div>
 

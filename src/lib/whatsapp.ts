@@ -8,7 +8,7 @@ export const getWhatsAppProductUrl = (product: {
   };
   slug?: string;
 }) => {
-  const phone = "919980512408";
+  const phone = "918927298217";
   
   let msg = `Hello Play Solution! 👋\n\nI am interested in inquiring about the following product:\n\n`;
   msg += `📌 *Product Name:* ${product.name}\n`;
@@ -25,7 +25,7 @@ export const getWhatsAppProductUrl = (product: {
 };
 
 export const getWhatsAppGeneralUrl = (customMessage?: string) => {
-  const phone = "919980512408";
+  const phone = "918927298217";
   const defaultMsg = "Hello Play Solution! 👋 I am interested in getting a free quote and consultation for kindergarten school equipment.";
   const text = customMessage || defaultMsg;
   return `https://wa.me/${phone}?text=${encodeURIComponent(text)}`;

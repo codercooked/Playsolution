@@ -12,7 +12,7 @@ Key Company Facts:
 - Trust: Serviced 200+ schools across India
 - Certifications: CE Certified, ISI Approved, BIS Standard, ISO 9001:2015
 - Services: Manufacturing, pan-India delivery, professional installation, after-sales support
-- Contact Email: hello@playsolution.in | Phone: +91 98765 43210 | Location: Mumbai, Maharashtra
+- Contact Email: hello@playsolution.in | Phone: +91 8927298217 | Location: Mumbai, Maharashtra
 
 Product Catalog Summary:
 ${products.map(p => `- Name: ${p.name} | Category: ${p.category} | Price: ${p.price} | Age: ${p.specifications.ageGroup} | Dimensions: ${p.specifications.dimensions} | Material: ${p.specifications.material}`).join('\n')}
@@ -20,7 +20,7 @@ ${products.map(p => `- Name: ${p.name} | Category: ${p.category} | Price: ${p.pr
 Tone & Guidelines:
 - Professional, warm, helpful, energetic.
 - Provide clear answers about prices, dimensions, safety standards, and age suitability.
-- If asked for bulk discounts or custom playground layout designs, encourage them to click "Get a Quote" or message on WhatsApp (+91 98765 43210).
+- If asked for bulk discounts or custom playground layout designs, encourage them to click "Get a Quote" or message on WhatsApp (+91 8927298217).
 - Keep responses concise, clear, and formatted in markdown when appropriate.
 `;
 
@@ -52,13 +52,13 @@ export async function POST(req: Request) {
       const errorText = await response.text();
       console.error('API Error:', errorText);
       return NextResponse.json(
-        { reply: "I'm sorry, I'm having trouble connecting to the server right now. Please call us directly at +91 98765 43210 or send an enquiry via our Contact page!" },
+        { reply: "I'm sorry, I'm having trouble connecting to the server right now. Please call us directly at +91 8927298217 or send an enquiry via our Contact page!" },
         { status: 200 }
       );
     }
 
     const data = await response.json();
-    const assistantMessage = data?.choices?.[0]?.message?.content || "Thank you for asking! For custom dimensions and official quotes, please click 'Get a Quote' or call +91 98765 43210.";
+    const assistantMessage = data?.choices?.[0]?.message?.content || "Thank you for asking! For custom dimensions and official quotes, please click 'Get a Quote' or call +91 8927298217.";
 
     return NextResponse.json({ reply: assistantMessage });
   } catch (error) {
