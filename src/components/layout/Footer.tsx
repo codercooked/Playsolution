@@ -32,10 +32,10 @@ export default function Footer() {
           {/* Col 1 */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <div className="relative w-12 h-12 rounded-full overflow-hidden bg-white p-1 border-2 border-primary shadow-md">
-                <img src="/images/logo.png" alt="Play Solution Logo" className="w-full h-full object-contain" />
+              <div className="relative h-20 md:h-24 w-auto flex items-center">
+                <img src="/images/logo.png" alt="Play Solution Logo" className="h-full w-auto object-contain drop-shadow-lg" />
               </div>
-              <span className="font-display font-black text-2xl tracking-tight text-white">
+              <span className="font-display font-black text-2xl md:text-3xl tracking-tight text-white">
                 Play<span className="text-primary">Solution</span>
               </span>
             </div>
