@@ -32,7 +32,7 @@ export default function ProductsPageContent() {
       result = result.filter(
         (p) =>
           p.name.toLowerCase().includes(query) ||
-          p.shortDescription.toLowerCase().includes(query)
+          p.description.toLowerCase().includes(query)
       );
     }
 

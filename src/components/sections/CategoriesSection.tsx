@@ -35,7 +35,7 @@ export default function CategoriesSection() {
       icon: IconComp,
       gradient: gradients[idx % gradients.length],
       slug: cat.slug,
-      count: String(cat.count || 6),
+      count: '24',
     };
   });
 

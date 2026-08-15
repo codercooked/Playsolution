@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const product = getProductBySlug(params.slug);
   return {
     title: `${product?.name || 'Product Not Found'} — Play Solution`,
-    description: product?.shortDescription || 'Premium kindergarten equipment',
+    description: product?.description || 'Premium kindergarten equipment',
   };
 }
 
