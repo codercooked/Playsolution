@@ -3,7 +3,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Search, SlidersHorizontal, Frown } from 'lucide-react';
+import { Search, SlidersHorizontal, Frown, Download, FileText } from 'lucide-react';
 import { products, categories } from '@/data/products';
 import ProductCard from '@/components/ui/ProductCard';
 
@@ -85,6 +85,41 @@ export default function ProductsPageContent() {
         <p className="text-gray-600 text-lg">
           Browse our complete range of certified Indoor & Outdoor kindergarten playground equipment, furniture, and toys.
         </p>
+
+        {/* PDF Catalogue Quick Download Banner */}
+        <div className="mt-6 p-4 rounded-2xl bg-gradient-to-r from-slate-900 via-orange-950 to-slate-900 text-white shadow-xl border border-orange-500/30 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div className="flex items-center gap-3 text-left">
+            <div className="w-12 h-12 rounded-xl bg-orange-500/20 border border-orange-500/40 flex items-center justify-center shrink-0 text-orange-400">
+              <Download size={24} />
+            </div>
+            <div>
+              <div className="font-display font-black text-base sm:text-lg text-white flex items-center gap-2">
+                <span>Official PDF Catalogues (2025-2026)</span>
+                <span className="text-[10px] font-extrabold px-2 py-0.5 rounded-full bg-orange-500 text-white">4 PDFs Available</span>
+              </div>
+              <p className="text-xs text-slate-300">
+                Download high-res PDF catalogues or get all 4 catalogues in one ZIP archive (41 MB).
+              </p>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-2 w-full sm:w-auto shrink-0">
+            <button
+              onClick={() => window.dispatchEvent(new CustomEvent('open-download-catalog-modal'))}
+              className="flex-1 sm:flex-initial py-2.5 px-4 rounded-xl font-black text-xs bg-gradient-to-r from-amber-400 to-orange-500 hover:from-amber-300 hover:to-orange-400 text-slate-950 transition-all shadow-md flex items-center justify-center gap-1.5 cursor-pointer"
+            >
+              <Download size={15} />
+              <span>Download PDFs / ZIP</span>
+            </button>
+            <a
+              href="/catalogues"
+              className="py-2.5 px-3.5 rounded-xl font-bold text-xs bg-white/10 hover:bg-white/20 text-white transition-colors flex items-center justify-center gap-1"
+            >
+              <FileText size={15} />
+              <span>View Portal</span>
+            </a>
+          </div>
+        </div>
 
         {/* Master Level 1 Classification Switcher (Indoor vs Outdoor) */}
         <div className="mt-8 flex justify-center">

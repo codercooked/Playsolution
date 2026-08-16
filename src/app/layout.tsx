@@ -5,6 +5,7 @@ import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 import AIChatbot from '@/components/ui/AIChatbot';
 import TextLoop from '@/components/ui/TextLoop';
+import DownloadCatalogModal from '@/components/catalog/DownloadCatalogModal';
 
 const nunito = Nunito({
   subsets: ['latin'],
@@ -79,6 +80,7 @@ export default function RootLayout({
           </main>
           <Footer />
           <AIChatbot />
+          <DownloadCatalogModal />
         </div>
       </body>
     </html>
