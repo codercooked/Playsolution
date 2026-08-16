@@ -21,3 +21,4 @@ assets/luusa_brochure_compressed.pdf
 node_modules
 
 *.pdf
+!public/catalogues/*.pdf
