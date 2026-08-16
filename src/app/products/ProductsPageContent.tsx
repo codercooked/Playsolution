@@ -65,7 +65,21 @@ export default function ProductsPageContent() {
   const outdoorCount = products.filter((p) => p.catalogType === 'outdoor').length;
 
   return (
-    <div className="container mx-auto px-4 md:px-6 max-w-7xl">
+    <div className="relative min-h-screen overflow-hidden">
+      {/* Background Decor Elements */}
+      <div className="absolute inset-0 pointer-events-none z-0 overflow-hidden">
+        <div className="absolute top-10 left-10 w-96 h-96 bg-orange-300/20 rounded-full blur-3xl animate-pulse" />
+        <div className="absolute top-1/3 right-10 w-[500px] h-[500px] bg-teal-300/20 rounded-full blur-3xl animate-pulse delay-1000" />
+        <div className="absolute bottom-20 left-1/4 w-[600px] h-[600px] bg-purple-300/15 rounded-full blur-3xl animate-pulse delay-700" />
+        <div className="absolute inset-0 bg-[radial-gradient(#cbd5e1_1.2px,transparent_1.2px)] [background-size:28px_28px] opacity-40" />
+        
+        {/* Subtle Watermark Branding */}
+        <div className="absolute top-40 right-[-5%] text-[180px] font-black text-slate-900/[0.02] select-none font-display pointer-events-none rotate-12">
+          PLAY SOLUTION
+        </div>
+      </div>
+
+      <div className="container mx-auto px-4 md:px-6 max-w-7xl relative z-10">
       <div className="mb-8 md:mb-12 text-center max-w-3xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-display font-black text-secondary mb-4">Product Catalogue</h1>
         <p className="text-gray-600 text-lg">
@@ -233,6 +247,7 @@ export default function ProductsPageContent() {
           </button>
         </motion.div>
       )}
+      </div>
     </div>
   );
 }

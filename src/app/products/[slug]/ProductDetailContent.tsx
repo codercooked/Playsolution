@@ -30,8 +30,20 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
   };
 
   return (
-    <>
-      <div className="container mx-auto px-4 md:px-6 py-12 pt-28">
+    <div className="relative min-h-screen overflow-hidden">
+      {/* Background Ambient Elements */}
+      <div className="absolute inset-0 pointer-events-none z-0 overflow-hidden">
+        <div className="absolute top-20 left-5 w-96 h-96 bg-orange-400/15 rounded-full blur-3xl animate-pulse" />
+        <div className="absolute top-1/2 right-10 w-[500px] h-[500px] bg-teal-400/15 rounded-full blur-3xl animate-pulse delay-1000" />
+        <div className="absolute bottom-10 left-1/3 w-[550px] h-[550px] bg-purple-400/15 rounded-full blur-3xl animate-pulse delay-500" />
+        <div className="absolute inset-0 bg-[radial-gradient(#cbd5e1_1.2px,transparent_1.2px)] [background-size:28px_28px] opacity-40" />
+        
+        <div className="absolute top-36 left-[-5%] text-[200px] font-black text-slate-900/[0.02] select-none font-display pointer-events-none -rotate-12">
+          PLAY SOLUTION
+        </div>
+      </div>
+
+      <div className="container mx-auto px-4 md:px-6 py-12 pt-28 relative z-10">
         {/* Breadcrumb */}
         <div className="flex items-center space-x-2 text-sm text-gray-500 mb-8">
           <Link href="/" className="hover:text-primary transition-colors">Home</Link>
@@ -229,6 +241,6 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
           </div>
         </section>
       )}
-    </>
+      </div>
   );
 }
