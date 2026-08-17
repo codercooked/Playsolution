@@ -54,16 +54,16 @@ export default function HeroSection() {
   };
 
   return (
-    <LightGradientBg className="min-h-[92vh] flex items-center pt-28 pb-20 border-b border-orange-100">
-      <div className="container mx-auto px-6 md:px-12 relative z-20">
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-14 items-center">
+    <LightGradientBg className="min-h-[92vh] flex items-center pt-24 pb-16 border-b border-orange-100 overflow-hidden">
+      <div className="max-w-[1600px] mx-auto px-4 sm:px-6 md:px-8 lg:px-10 relative z-20 w-full">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-8 items-center">
           
           {/* Left Text Column */}
           <motion.div
             variants={containerVariants}
             initial="hidden"
             animate="visible"
-            className="lg:col-span-5 flex flex-col space-y-6 text-center lg:text-left items-center lg:items-start"
+            className="lg:col-span-5 xl:col-span-4 flex flex-col space-y-6 text-center lg:text-left items-center lg:items-start"
           >
             {/* Pill Badge */}
             <motion.div 
@@ -116,21 +116,21 @@ export default function HeroSection() {
             </motion.div>
           </motion.div>
 
-          {/* Right Column: INSTAGRAM REEL VIDEO PLAYER (ENLARGED) */}
+          {/* Right Column: INSTAGRAM REEL VIDEO PLAYER (MAXIMIZED & ENLARGED) */}
           <motion.div
             initial={{ opacity: 0, scale: 0.95, y: 20 }}
             animate={{ opacity: 1, scale: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2, type: 'spring' }}
-            className="lg:col-span-7 relative w-full"
+            className="lg:col-span-7 xl:col-span-8 relative w-full"
           >
             {/* Liquid Glass Showcase Frame around Video */}
-            <div className="relative rounded-3xl p-4 sm:p-6 bg-white/80 backdrop-blur-2xl border-2 border-white shadow-[0_35px_100px_rgba(0,0,0,0.18)] overflow-hidden group">
+            <div className="relative rounded-3xl p-3 sm:p-5 lg:p-6 bg-white/80 backdrop-blur-2xl border-2 border-white shadow-[0_40px_120px_rgba(0,0,0,0.2)] overflow-hidden group w-full">
               
               {/* Glossy reflection line */}
-              <div className="absolute -inset-y-12 -left-12 w-64 bg-gradient-to-r from-transparent via-white/50 to-transparent transform -rotate-45 pointer-events-none group-hover:translate-x-[900px] transition-transform duration-1000" />
+              <div className="absolute -inset-y-12 -left-12 w-64 bg-gradient-to-r from-transparent via-white/50 to-transparent transform -rotate-45 pointer-events-none group-hover:translate-x-[1200px] transition-transform duration-1000" />
 
               {/* Large Inline Video Player */}
-              <div className="relative w-full aspect-[16/9] min-h-[340px] sm:min-h-[440px] lg:min-h-[500px] rounded-2xl overflow-hidden bg-slate-950 shadow-2xl border border-white/20">
+              <div className="relative w-full aspect-[16/9] min-h-[380px] sm:min-h-[480px] lg:min-h-[560px] xl:min-h-[620px] rounded-2xl overflow-hidden bg-slate-950 shadow-2xl border border-white/20">
                 <video
                   ref={videoRef}
                   autoPlay
