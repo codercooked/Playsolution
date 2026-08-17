@@ -63,7 +63,7 @@ export default function HeroSection() {
             variants={containerVariants}
             initial="hidden"
             animate="visible"
-            className="lg:col-span-5 xl:col-span-4 flex flex-col space-y-6 text-center lg:text-left items-center lg:items-start"
+            className="lg:col-span-5 flex flex-col space-y-6 text-center lg:text-left items-center lg:items-start"
           >
             {/* Pill Badge */}
             <motion.div 
@@ -116,21 +116,21 @@ export default function HeroSection() {
             </motion.div>
           </motion.div>
 
-          {/* Right Column: INSTAGRAM REEL VIDEO PLAYER */}
+          {/* Right Column: INSTAGRAM REEL VIDEO PLAYER (ENLARGED) */}
           <motion.div
             initial={{ opacity: 0, scale: 0.95, y: 20 }}
             animate={{ opacity: 1, scale: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2, type: 'spring' }}
-            className="lg:col-span-7 xl:col-span-8 relative w-full"
+            className="lg:col-span-7 relative w-full"
           >
             {/* Liquid Glass Showcase Frame around Video */}
-            <div className="relative rounded-3xl p-3 sm:p-4 bg-white/70 backdrop-blur-2xl border border-white/90 shadow-[0_30px_90px_rgba(0,0,0,0.15)] overflow-hidden group">
+            <div className="relative rounded-3xl p-4 sm:p-6 bg-white/80 backdrop-blur-2xl border-2 border-white shadow-[0_35px_100px_rgba(0,0,0,0.18)] overflow-hidden group">
               
               {/* Glossy reflection line */}
               <div className="absolute -inset-y-12 -left-12 w-64 bg-gradient-to-r from-transparent via-white/50 to-transparent transform -rotate-45 pointer-events-none group-hover:translate-x-[900px] transition-transform duration-1000" />
 
               {/* Large Inline Video Player */}
-              <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden bg-slate-950 shadow-2xl border border-white/20">
+              <div className="relative w-full aspect-[16/9] min-h-[340px] sm:min-h-[440px] lg:min-h-[500px] rounded-2xl overflow-hidden bg-slate-950 shadow-2xl border border-white/20">
                 <video
                   ref={videoRef}
                   autoPlay
