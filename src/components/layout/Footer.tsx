@@ -70,6 +70,7 @@ export default function Footer() {
             <ul className="space-y-3 font-body text-gray-300">
               <li><Link href="/" className="hover:text-primary transition-colors">Home</Link></li>
               <li><Link href="/products" className="hover:text-primary transition-colors">Products</Link></li>
+              <li><Link href="/our-work" className="hover:text-primary transition-colors font-bold text-amber-400">🏗️ Our Work (20 Projects)</Link></li>
               <li><Link href="/catalogues" className="hover:text-primary transition-colors font-bold text-orange-400">📄 PDF Catalogues</Link></li>
               <li><Link href="/about" className="hover:text-primary transition-colors">About Us</Link></li>
               <li><Link href="/contact" className="hover:text-primary transition-colors">Contact</Link></li>

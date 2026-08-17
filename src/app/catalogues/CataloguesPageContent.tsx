@@ -4,24 +4,11 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { Download, FileText, PackageCheck, Sparkles, MessageCircle, ArrowRight, ShieldCheck, Filter } from 'lucide-react';
-import { CATALOGUES, CatalogueItem } from '@/data/catalogues';
+import { CATALOGUES } from '@/data/catalogues';
 import { getWhatsAppGeneralUrl } from '@/lib/whatsapp';
 
 export default function CataloguesPageContent() {
-  const [downloadingId, setDownloadingId] = useState<string | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string>('All');
-
-  const handleDownload = (item: CatalogueItem) => {
-    setDownloadingId(item.id);
-    const link = document.createElement('a');
-    link.href = item.pdfUrl;
-    link.download = item.pdfUrl.split('/').pop() || `${item.id}.pdf`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-
-    setTimeout(() => setDownloadingId(null), 2000);
-  };
 
   const bundleItem = CATALOGUES.find((c) => c.isBundle);
   const individualCatalogues = CATALOGUES.filter((c) => !c.isBundle);
@@ -120,14 +107,16 @@ export default function CataloguesPageContent() {
               </div>
 
               <div className="w-full lg:w-auto flex flex-col sm:flex-row lg:flex-col gap-4 shrink-0">
-                <button
-                  onClick={() => handleDownload(bundleItem)}
-                  disabled={downloadingId === bundleItem.id}
+                <a
+                  href={bundleItem.pdfUrl}
+                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-full sm:w-auto px-8 py-4 rounded-2xl font-black text-base bg-gradient-to-r from-amber-400 via-orange-500 to-red-500 hover:from-amber-300 hover:to-orange-400 text-slate-950 transition-all shadow-xl hover:scale-105 flex items-center justify-center gap-3 cursor-pointer group"
                 >
-                  <Download size={22} className={downloadingId === bundleItem.id ? 'animate-bounce' : 'group-hover:translate-y-0.5 transition-transform'} />
-                  <span>{downloadingId === bundleItem.id ? 'Downloading Bundle...' : `Download Master ZIP (${bundleItem.fileSize})`}</span>
-                </button>
+                  <Download size={22} className="group-hover:translate-y-0.5 transition-transform" />
+                  <span>Download Master ZIP ({bundleItem.fileSize})</span>
+                </a>
 
                 <a
                   href={getWhatsAppGeneralUrl()}
@@ -213,14 +202,16 @@ export default function CataloguesPageContent() {
               </div>
 
               <div className="flex items-center gap-3 mt-8 pt-4 border-t border-slate-800/60">
-                <button
-                  onClick={() => handleDownload(cat)}
-                  disabled={downloadingId === cat.id}
+                <a
+                  href={cat.pdfUrl}
+                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="flex-1 py-3 px-5 rounded-xl font-bold text-sm bg-orange-500 hover:bg-orange-600 text-white transition-all shadow-md flex items-center justify-center gap-2 cursor-pointer"
                 >
-                  <Download size={18} className={downloadingId === cat.id ? 'animate-bounce' : ''} />
-                  <span>{downloadingId === cat.id ? 'Downloading PDF...' : 'Download PDF'}</span>
-                </button>
+                  <Download size={18} />
+                  <span>Download PDF</span>
+                </a>
 
                 <a
                   href={cat.pdfUrl}

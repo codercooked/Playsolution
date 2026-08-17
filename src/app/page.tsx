@@ -6,6 +6,7 @@ import TrendingProducts from '@/components/sections/TrendingProducts';
 import WhyChooseUs from '@/components/sections/WhyChooseUs';
 import HowItWorks from '@/components/sections/HowItWorks';
 import TestimonialsSection from '@/components/sections/TestimonialsSection';
+import OurWorkShowcase from '@/components/sections/OurWorkShowcase';
 import InstagramShowcase from '@/components/sections/InstagramShowcase';
 import CTABanner from '@/components/sections/CTABanner';
 
@@ -23,6 +24,7 @@ export default function HomePage() {
       <TrendingProducts />
       <WhyChooseUs />
       <HowItWorks />
+      <OurWorkShowcase />
       <InstagramShowcase />
       <TestimonialsSection />
       <CTABanner />

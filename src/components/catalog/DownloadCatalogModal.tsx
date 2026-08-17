@@ -3,31 +3,16 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, Download, FileText, Package, Sparkles, CheckCircle2, ArrowRight, ShieldCheck } from 'lucide-react';
-import { CATALOGUES, CatalogueItem } from '@/data/catalogues';
+import { CATALOGUES } from '@/data/catalogues';
 
 export default function DownloadCatalogModal() {
   const [isOpen, setIsOpen] = useState(false);
-  const [downloadingId, setDownloadingId] = useState<string | null>(null);
 
   useEffect(() => {
     const handleOpenModal = () => setIsOpen(true);
     window.addEventListener('open-download-catalog-modal', handleOpenModal);
     return () => window.removeEventListener('open-download-catalog-modal', handleOpenModal);
   }, []);
-
-  const handleDownload = (item: CatalogueItem) => {
-    setDownloadingId(item.id);
-
-    // Trigger browser download
-    const link = document.createElement('a');
-    link.href = item.pdfUrl;
-    link.download = item.pdfUrl.split('/').pop() || `${item.id}.pdf`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-
-    setTimeout(() => setDownloadingId(null), 2000);
-  };
 
   return (
     <AnimatePresence>
@@ -112,14 +97,16 @@ export default function DownloadCatalogModal() {
                       </div>
                     </div>
 
-                    <button
-                      onClick={() => handleDownload(bundle)}
-                      disabled={downloadingId === bundle.id}
+                    <a
+                      href={bundle.pdfUrl}
+                      download
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="relative z-10 w-full md:w-auto px-6 py-3.5 rounded-xl font-black text-sm bg-gradient-to-r from-amber-400 to-orange-500 hover:from-amber-300 hover:to-orange-400 text-slate-950 transition-all shadow-lg hover:scale-105 shrink-0 flex items-center justify-center gap-2.5 group cursor-pointer"
                     >
-                      <Download size={18} className={downloadingId === bundle.id ? 'animate-bounce' : 'group-hover:translate-y-0.5 transition-transform'} />
-                      <span>{downloadingId === bundle.id ? 'Downloading Bundle...' : `Download Complete ZIP (${bundle.fileSize})`}</span>
-                    </button>
+                      <Download size={18} className="group-hover:translate-y-0.5 transition-transform" />
+                      <span>Download Complete ZIP ({bundle.fileSize})</span>
+                    </a>
                   </div>
                 </div>
               ))}
@@ -164,14 +151,16 @@ export default function DownloadCatalogModal() {
                     </div>
 
                     <div className="flex items-center gap-2 mt-4 pt-2">
-                      <button
-                        onClick={() => handleDownload(cat)}
-                        disabled={downloadingId === cat.id}
-                        className="flex-1 py-2.5 px-4 rounded-xl font-bold text-xs bg-slate-900 hover:bg-orange-500 text-white transition-all flex items-center justify-center gap-2 shadow-sm cursor-pointer"
+                      <a
+                        href={cat.pdfUrl}
+                        download
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 py-2.5 px-4 rounded-xl font-bold text-xs bg-slate-900 hover:bg-orange-500 text-white transition-all flex items-center justify-center gap-2 shadow-sm"
                       >
-                        <Download size={15} className={downloadingId === cat.id ? 'animate-bounce' : ''} />
-                        <span>{downloadingId === cat.id ? 'Downloading...' : 'Download PDF'}</span>
-                      </button>
+                        <Download size={15} />
+                        <span>Download PDF</span>
+                      </a>
                       <a
                         href={cat.pdfUrl}
                         target="_blank"
